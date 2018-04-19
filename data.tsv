@@ -1,9 +1,9 @@
 name	value
-	0.28310402
-	0.17693782
-	-0.05774041
-	-0.0228426
-	-0.52570086
-	-0.17921471
-	0.39549628
-	0.0710471
+Population without access to Internet	0.28310402
+Greater than 50% Internet Availability	0.17693782
+Median download speed	-0.05774041
+Median upload speed	-0.0228426
+Upper quartile download speed	-0.52570086
+Upper quartile upload speed	-0.17921471
+Lower quartile download speed	0.39549628
+Lower quartile upload speed	0.0710471
