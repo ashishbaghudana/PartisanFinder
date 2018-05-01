@@ -1,0 +1,3235 @@
+,stateName,countyName,stateId,countyId,friendlyKey,gt50Available
+0,south carolina,abbeville,45,45001,south_carolina_abbeville_county,True
+1,louisiana,acadia,22,22001,louisiana_acadia_county,True
+2,virginia,accomack,51,51001,virginia_accomack_county,True
+3,idaho,ada,16,16001,idaho_ada_county,True
+4,oklahoma,adair,40,40001,oklahoma_adair_county,False
+5,missouri,adair,29,29001,missouri_adair_county,True
+6,kentucky,adair,21,21001,kentucky_adair_county,True
+7,iowa,adair,19,19001,iowa_adair_county,True
+8,wisconsin,adams,55,55001,wisconsin_adams_county,True
+9,mississippi,adams,28,28001,mississippi_adams_county,True
+10,north dakota,adams,38,38001,north_dakota_adams_county,True
+11,iowa,adams,19,19003,iowa_adams_county,True
+12,illinois,adams,17,17001,illinois_adams_county,True
+13,colorado,adams,08,08001,colorado_adams_county,True
+14,nebraska,adams,31,31001,nebraska_adams_county,True
+15,idaho,adams,16,16003,idaho_adams_county,True
+16,pennsylvania,adams,42,42001,pennsylvania_adams_county,True
+17,ohio,adams,39,39001,ohio_adams_county,True
+18,indiana,adams,18,18001,indiana_adams_county,True
+19,washington,adams,53,53001,washington_adams_county,True
+20,vermont,addison,50,50001,vermont_addison_county,True
+21,puerto rico,adjuntas,72,72001,puerto_rico_adjuntas_county,False
+22,puerto rico,aguada,72,72003,puerto_rico_aguada_county,True
+23,puerto rico,aguadilla,72,72005,puerto_rico_aguadilla_county,True
+24,puerto rico,aguas buenas,72,72007,puerto_rico_aguas_buenas_county,True
+25,puerto rico,aibonito,72,72009,puerto_rico_aibonito_county,True
+26,south carolina,aiken,45,45003,south_carolina_aiken_county,True
+27,minnesota,aitkin,27,27001,minnesota_aitkin_county,True
+28,florida,alachua,12,12001,florida_alachua_county,True
+29,north carolina,alamance,37,37001,north_carolina_alamance_county,True
+30,california,alameda,06,06001,california_alameda_county,True
+31,colorado,alamosa,08,08003,colorado_alamosa_county,True
+32,wyoming,albany,56,56001,wyoming_albany_county,True
+33,new york,albany,36,36001,new_york_albany_county,True
+34,virginia,albemarle,51,51003,virginia_albemarle_county,True
+35,michigan,alcona,26,26001,michigan_alcona_county,True
+36,mississippi,alcorn,28,28003,mississippi_alcorn_county,True
+37,alaska,aleutians east,02,02013,alaska_aleutians_east_county,False
+38,alaska,aleutians west,02,02016,alaska_aleutians_west_county,False
+39,north carolina,alexander,37,37003,north_carolina_alexander_county,True
+40,illinois,alexander,17,17003,illinois_alexander_county,False
+41,virginia,alexandria,51,51510,virginia_alexandria_county,True
+42,oklahoma,alfalfa,40,40003,oklahoma_alfalfa_county,True
+43,michigan,alger,26,26003,michigan_alger_county,True
+44,iowa,allamakee,19,19005,iowa_allamakee_county,True
+45,michigan,allegan,26,26005,michigan_allegan_county,True
+46,new york,allegany,36,36003,new_york_allegany_county,True
+47,maryland,allegany,24,24001,maryland_allegany_county,True
+48,virginia,alleghany,51,51005,virginia_alleghany_county,True
+49,north carolina,alleghany,37,37005,north_carolina_alleghany_county,False
+50,pennsylvania,allegheny,42,42003,pennsylvania_allegheny_county,True
+51,indiana,allen,18,18003,indiana_allen_county,True
+52,louisiana,allen,22,22003,louisiana_allen_county,True
+53,kentucky,allen,21,21003,kentucky_allen_county,True
+54,kansas,allen,20,20001,kansas_allen_county,True
+55,ohio,allen,39,39003,ohio_allen_county,True
+56,south carolina,allendale,45,45005,south_carolina_allendale_county,True
+57,michigan,alpena,26,26007,michigan_alpena_county,True
+58,california,alpine,06,06003,california_alpine_county,True
+59,california,amador,06,06005,california_amador_county,True
+60,virginia,amelia,51,51007,virginia_amelia_county,True
+61,virginia,amherst,51,51009,virginia_amherst_county,True
+62,mississippi,amite,28,28005,mississippi_amite_county,False
+63,puerto rico,añasco,72,72011,puerto_rico_añasco_county,False
+64,alaska,anchorage,02,02020,alaska_anchorage_county,True
+65,kansas,anderson,20,20003,kansas_anderson_county,True
+66,tennessee,anderson,47,47001,tennessee_anderson_county,True
+67,kentucky,anderson,21,21005,kentucky_anderson_county,True
+68,south carolina,anderson,45,45007,south_carolina_anderson_county,True
+69,texas,anderson,48,48001,texas_anderson_county,True
+70,missouri,andrew,29,29003,missouri_andrew_county,True
+71,texas,andrews,48,48003,texas_andrews_county,True
+72,maine,androscoggin,23,23001,maine_androscoggin_county,True
+73,texas,angelina,48,48005,texas_angelina_county,True
+74,maryland,anne arundel,24,24003,maryland_anne_arundel_county,True
+75,minnesota,anoka,27,27003,minnesota_anoka_county,True
+76,north carolina,anson,37,37007,north_carolina_anson_county,True
+77,nebraska,antelope,31,31003,nebraska_antelope_county,True
+78,michigan,antrim,26,26009,michigan_antrim_county,True
+79,arizona,apache,04,04001,arizona_apache_county,False
+80,iowa,appanoose,19,19007,iowa_appanoose_county,True
+81,georgia,appling,13,13001,georgia_appling_county,True
+82,virginia,appomattox,51,51011,virginia_appomattox_county,True
+83,texas,aransas,48,48007,texas_aransas_county,True
+84,colorado,arapahoe,08,08005,colorado_arapahoe_county,True
+85,texas,archer,48,48009,texas_archer_county,True
+86,colorado,archuleta,08,08007,colorado_archuleta_county,True
+87,puerto rico,arecibo,72,72013,puerto_rico_arecibo_county,True
+88,michigan,arenac,26,26011,michigan_arenac_county,True
+89,arkansas,arkansas,05,05001,arkansas_arkansas_county,True
+90,virginia,arlington,51,51013,virginia_arlington_county,True
+91,pennsylvania,armstrong,42,42005,pennsylvania_armstrong_county,True
+92,texas,armstrong,48,48011,texas_armstrong_county,True
+93,maine,aroostook,23,23003,maine_aroostook_county,True
+94,puerto rico,arroyo,72,72015,puerto_rico_arroyo_county,True
+95,nebraska,arthur,31,31005,nebraska_arthur_county,True
+96,louisiana,ascension,22,22005,louisiana_ascension_county,True
+97,north carolina,ashe,37,37009,north_carolina_ashe_county,True
+98,ohio,ashland,39,39005,ohio_ashland_county,True
+99,wisconsin,ashland,55,55003,wisconsin_ashland_county,True
+100,arkansas,ashley,05,05003,arkansas_ashley_county,True
+101,ohio,ashtabula,39,39007,ohio_ashtabula_county,True
+102,washington,asotin,53,53003,washington_asotin_county,True
+103,louisiana,assumption,22,22007,louisiana_assumption_county,True
+104,texas,atascosa,48,48013,texas_atascosa_county,True
+105,kansas,atchison,20,20005,kansas_atchison_county,True
+106,missouri,atchison,29,29005,missouri_atchison_county,True
+107,ohio,athens,39,39009,ohio_athens_county,True
+108,georgia,atkinson,13,13003,georgia_atkinson_county,True
+109,new jersey,atlantic,34,34001,new_jersey_atlantic_county,True
+110,oklahoma,atoka,40,40005,oklahoma_atoka_county,True
+111,mississippi,attala,28,28007,mississippi_attala_county,True
+112,missouri,audrain,29,29007,missouri_audrain_county,True
+113,iowa,audubon,19,19009,iowa_audubon_county,True
+114,ohio,auglaize,39,39011,ohio_auglaize_county,True
+115,virginia,augusta,51,51015,virginia_augusta_county,True
+116,south dakota,aurora,46,46003,south_dakota_aurora_county,True
+117,texas,austin,48,48015,texas_austin_county,True
+118,alabama,autauga,01,01001,alabama_autauga_county,True
+119,north carolina,avery,37,37011,north_carolina_avery_county,True
+120,louisiana,avoyelles,22,22009,louisiana_avoyelles_county,True
+121,colorado,baca,08,08009,colorado_baca_county,True
+122,georgia,bacon,13,13005,georgia_bacon_county,True
+123,texas,bailey,48,48017,texas_bailey_county,True
+124,florida,baker,12,12003,florida_baker_county,True
+125,georgia,baker,13,13007,georgia_baker_county,False
+126,oregon,baker,41,41001,oregon_baker_county,True
+127,georgia,baldwin,13,13009,georgia_baldwin_county,True
+128,alabama,baldwin,01,01003,alabama_baldwin_county,True
+129,kentucky,ballard,21,21007,kentucky_ballard_county,True
+130,maryland,baltimore,24,24510,maryland_baltimore_county,True
+131,maryland,baltimore,24,24005,maryland_baltimore_county,True
+132,south carolina,bamberg,45,45009,south_carolina_bamberg_county,True
+133,texas,bandera,48,48019,texas_bandera_county,False
+134,georgia,banks,13,13011,georgia_banks_county,True
+135,nebraska,banner,31,31007,nebraska_banner_county,True
+136,idaho,bannock,16,16005,idaho_bannock_county,True
+137,michigan,baraga,26,26013,michigan_baraga_county,True
+138,kansas,barber,20,20007,kansas_barber_county,True
+139,west virginia,barbour,54,54001,west_virginia_barbour_county,True
+140,alabama,barbour,01,01005,alabama_barbour_county,True
+141,puerto rico,barceloneta,72,72017,puerto_rico_barceloneta_county,True
+142,north dakota,barnes,38,38003,north_dakota_barnes_county,True
+143,massachusetts,barnstable,25,25001,massachusetts_barnstable_county,True
+144,south carolina,barnwell,45,45011,south_carolina_barnwell_county,True
+145,puerto rico,barranquitas,72,72019,puerto_rico_barranquitas_county,True
+146,kentucky,barren,21,21009,kentucky_barren_county,True
+147,wisconsin,barron,55,55005,wisconsin_barron_county,True
+148,georgia,barrow,13,13013,georgia_barrow_county,True
+149,missouri,barry,29,29009,missouri_barry_county,True
+150,michigan,barry,26,26015,michigan_barry_county,True
+151,indiana,bartholomew,18,18005,indiana_bartholomew_county,True
+152,missouri,barton,29,29011,missouri_barton_county,True
+153,kansas,barton,20,20009,kansas_barton_county,True
+154,georgia,bartow,13,13015,georgia_bartow_county,True
+155,texas,bastrop,48,48021,texas_bastrop_county,True
+156,missouri,bates,29,29013,missouri_bates_county,True
+157,kentucky,bath,21,21011,kentucky_bath_county,True
+158,virginia,bath,51,51017,virginia_bath_county,True
+159,arkansas,baxter,05,05005,arkansas_baxter_county,True
+160,florida,bay,12,12005,florida_bay_county,True
+161,michigan,bay,26,26017,michigan_bay_county,True
+162,puerto rico,bayamón,72,72021,puerto_rico_bayamón_county,True
+163,wisconsin,bayfield,55,55007,wisconsin_bayfield_county,True
+164,texas,baylor,48,48023,texas_baylor_county,True
+165,south dakota,beadle,46,46005,south_dakota_beadle_county,True
+166,idaho,bear lake,16,16007,idaho_bear_lake_county,True
+167,south carolina,beaufort,45,45013,south_carolina_beaufort_county,True
+168,north carolina,beaufort,37,37013,north_carolina_beaufort_county,True
+169,louisiana,beauregard,22,22011,louisiana_beauregard_county,True
+170,pennsylvania,beaver,42,42007,pennsylvania_beaver_county,True
+171,utah,beaver,49,49001,utah_beaver_county,True
+172,oklahoma,beaver,40,40007,oklahoma_beaver_county,True
+173,montana,beaverhead,30,30001,montana_beaverhead_county,True
+174,minnesota,becker,27,27005,minnesota_becker_county,True
+175,oklahoma,beckham,40,40009,oklahoma_beckham_county,True
+176,tennessee,bedford,47,47003,tennessee_bedford_county,True
+177,pennsylvania,bedford,42,42009,pennsylvania_bedford_county,True
+178,virginia,bedford,51,51019,virginia_bedford_county,True
+179,virginia,bedford,51,51515,virginia_bedford_county,True
+180,texas,bee,48,48025,texas_bee_county,True
+181,new hampshire,belknap,33,33001,new_hampshire_belknap_county,True
+182,texas,bell,48,48027,texas_bell_county,True
+183,kentucky,bell,21,21013,kentucky_bell_county,True
+184,ohio,belmont,39,39013,ohio_belmont_county,True
+185,minnesota,beltrami,27,27007,minnesota_beltrami_county,True
+186,idaho,benewah,16,16009,idaho_benewah_county,True
+187,georgia,ben hill,13,13017,georgia_ben_hill_county,True
+188,south dakota,bennett,46,46007,south_dakota_bennett_county,True
+189,vermont,bennington,50,50003,vermont_bennington_county,True
+190,north dakota,benson,38,38005,north_dakota_benson_county,True
+191,colorado,bent,08,08011,colorado_bent_county,True
+192,arkansas,benton,05,05007,arkansas_benton_county,True
+193,missouri,benton,29,29015,missouri_benton_county,True
+194,tennessee,benton,47,47005,tennessee_benton_county,True
+195,mississippi,benton,28,28009,mississippi_benton_county,True
+196,oregon,benton,41,41003,oregon_benton_county,True
+197,indiana,benton,18,18007,indiana_benton_county,True
+198,washington,benton,53,53005,washington_benton_county,True
+199,iowa,benton,19,19011,iowa_benton_county,True
+200,minnesota,benton,27,27009,minnesota_benton_county,True
+201,michigan,benzie,26,26019,michigan_benzie_county,True
+202,new jersey,bergen,34,34003,new_jersey_bergen_county,True
+203,south carolina,berkeley,45,45015,south_carolina_berkeley_county,True
+204,west virginia,berkeley,54,54003,west_virginia_berkeley_county,True
+205,pennsylvania,berks,42,42011,pennsylvania_berks_county,True
+206,massachusetts,berkshire,25,25003,massachusetts_berkshire_county,True
+207,new mexico,bernalillo,35,35001,new_mexico_bernalillo_county,True
+208,michigan,berrien,26,26021,michigan_berrien_county,True
+209,georgia,berrien,13,13019,georgia_berrien_county,True
+210,north carolina,bertie,37,37015,north_carolina_bertie_county,True
+211,alaska,bethel,02,02050,alaska_bethel_county,True
+212,texas,bexar,48,48029,texas_bexar_county,True
+213,georgia,bibb,13,13021,georgia_bibb_county,True
+214,alabama,bibb,01,01007,alabama_bibb_county,True
+215,louisiana,bienville,22,22013,louisiana_bienville_county,True
+216,wyoming,big horn,56,56003,wyoming_big_horn_county,True
+217,montana,big horn,30,30003,montana_big_horn_county,False
+218,minnesota,big stone,27,27011,minnesota_big_stone_county,True
+219,north dakota,billings,38,38007,north_dakota_billings_county,False
+220,idaho,bingham,16,16011,idaho_bingham_county,True
+221,indiana,blackford,18,18009,indiana_blackford_county,True
+222,iowa,black hawk,19,19013,iowa_black_hawk_county,True
+223,north carolina,bladen,37,37017,north_carolina_bladen_county,True
+224,idaho,blaine,16,16013,idaho_blaine_county,True
+225,montana,blaine,30,30005,montana_blaine_county,True
+226,oklahoma,blaine,40,40011,oklahoma_blaine_county,True
+227,nebraska,blaine,31,31009,nebraska_blaine_county,True
+228,pennsylvania,blair,42,42013,pennsylvania_blair_county,True
+229,texas,blanco,48,48031,texas_blanco_county,True
+230,virginia,bland,51,51021,virginia_bland_county,True
+231,georgia,bleckley,13,13023,georgia_bleckley_county,True
+232,tennessee,bledsoe,47,47007,tennessee_bledsoe_county,True
+233,tennessee,blount,47,47009,tennessee_blount_county,True
+234,alabama,blount,01,01009,alabama_blount_county,True
+235,minnesota,blue earth,27,27013,minnesota_blue_earth_county,True
+236,idaho,boise,16,16015,idaho_boise_county,True
+237,mississippi,bolivar,28,28011,mississippi_bolivar_county,True
+238,missouri,bollinger,29,29017,missouri_bollinger_county,True
+239,illinois,bond,17,17005,illinois_bond_county,True
+240,south dakota,bon homme,46,46009,south_dakota_bon_homme_county,True
+241,idaho,bonner,16,16017,idaho_bonner_county,True
+242,idaho,bonneville,16,16019,idaho_bonneville_county,True
+243,nebraska,boone,31,31011,nebraska_boone_county,True
+244,arkansas,boone,05,05009,arkansas_boone_county,True
+245,kentucky,boone,21,21015,kentucky_boone_county,True
+246,indiana,boone,18,18011,indiana_boone_county,True
+247,illinois,boone,17,17007,illinois_boone_county,True
+248,iowa,boone,19,19015,iowa_boone_county,True
+249,missouri,boone,29,29019,missouri_boone_county,True
+250,west virginia,boone,54,54005,west_virginia_boone_county,True
+251,texas,borden,48,48033,texas_borden_county,True
+252,texas,bosque,48,48035,texas_bosque_county,True
+253,louisiana,bossier,22,22015,louisiana_bossier_county,True
+254,virginia,botetourt,51,51023,virginia_botetourt_county,True
+255,north dakota,bottineau,38,38009,north_dakota_bottineau_county,True
+256,colorado,boulder,08,08013,colorado_boulder_county,True
+257,idaho,boundary,16,16021,idaho_boundary_county,True
+258,kentucky,bourbon,21,21017,kentucky_bourbon_county,True
+259,kansas,bourbon,20,20011,kansas_bourbon_county,True
+260,texas,bowie,48,48037,texas_bowie_county,True
+261,north dakota,bowman,38,38011,north_dakota_bowman_county,True
+262,nebraska,box butte,31,31013,nebraska_box_butte_county,True
+263,utah,box elder,49,49003,utah_box_elder_county,True
+264,kentucky,boyd,21,21019,kentucky_boyd_county,True
+265,nebraska,boyd,31,31015,nebraska_boyd_county,True
+266,kentucky,boyle,21,21021,kentucky_boyle_county,True
+267,kentucky,bracken,21,21023,kentucky_bracken_county,True
+268,pennsylvania,bradford,42,42015,pennsylvania_bradford_county,True
+269,florida,bradford,12,12007,florida_bradford_county,True
+270,arkansas,bradley,05,05011,arkansas_bradley_county,True
+271,tennessee,bradley,47,47011,tennessee_bradley_county,True
+272,michigan,branch,26,26023,michigan_branch_county,True
+273,georgia,brantley,13,13025,georgia_brantley_county,True
+274,west virginia,braxton,54,54007,west_virginia_braxton_county,True
+275,texas,brazoria,48,48039,texas_brazoria_county,True
+276,texas,brazos,48,48041,texas_brazos_county,True
+277,kentucky,breathitt,21,21025,kentucky_breathitt_county,True
+278,kentucky,breckinridge,21,21027,kentucky_breckinridge_county,True
+279,iowa,bremer,19,19017,iowa_bremer_county,True
+280,florida,brevard,12,12009,florida_brevard_county,True
+281,texas,brewster,48,48043,texas_brewster_county,True
+282,texas,briscoe,48,48045,texas_briscoe_county,True
+283,rhode island,bristol,44,44001,rhode_island_bristol_county,True
+284,massachusetts,bristol,25,25005,massachusetts_bristol_county,True
+285,virginia,bristol,51,51520,virginia_bristol_county,True
+286,alaska,bristol bay,02,02060,alaska_bristol_bay_county,True
+287,montana,broadwater,30,30007,montana_broadwater_county,True
+288,new york,bronx,36,36005,new_york_bronx_county,True
+289,west virginia,brooke,54,54009,west_virginia_brooke_county,True
+290,south dakota,brookings,46,46011,south_dakota_brookings_county,True
+291,georgia,brooks,13,13027,georgia_brooks_county,True
+292,texas,brooks,48,48047,texas_brooks_county,True
+293,new york,broome,36,36007,new_york_broome_county,True
+294,colorado,broomfield,08,08014,colorado_broomfield_county,True
+295,florida,broward,12,12011,florida_broward_county,True
+296,texas,brown,48,48049,texas_brown_county,True
+297,ohio,brown,39,39015,ohio_brown_county,True
+298,south dakota,brown,46,46013,south_dakota_brown_county,True
+299,illinois,brown,17,17009,illinois_brown_county,True
+300,kansas,brown,20,20013,kansas_brown_county,True
+301,minnesota,brown,27,27015,minnesota_brown_county,True
+302,wisconsin,brown,55,55009,wisconsin_brown_county,True
+303,nebraska,brown,31,31017,nebraska_brown_county,True
+304,indiana,brown,18,18013,indiana_brown_county,True
+305,south dakota,brule,46,46015,south_dakota_brule_county,True
+306,virginia,brunswick,51,51025,virginia_brunswick_county,True
+307,north carolina,brunswick,37,37019,north_carolina_brunswick_county,True
+308,georgia,bryan,13,13029,georgia_bryan_county,True
+309,oklahoma,bryan,40,40013,oklahoma_bryan_county,True
+310,virginia,buchanan,51,51027,virginia_buchanan_county,True
+311,missouri,buchanan,29,29021,missouri_buchanan_county,True
+312,iowa,buchanan,19,19019,iowa_buchanan_county,True
+313,virginia,buckingham,51,51029,virginia_buckingham_county,True
+314,pennsylvania,bucks,42,42017,pennsylvania_bucks_county,True
+315,virginia,buena vista,51,51530,virginia_buena_vista_county,True
+316,iowa,buena vista,19,19021,iowa_buena_vista_county,True
+317,nebraska,buffalo,31,31019,nebraska_buffalo_county,True
+318,wisconsin,buffalo,55,55011,wisconsin_buffalo_county,True
+319,south dakota,buffalo,46,46017,south_dakota_buffalo_county,True
+320,kentucky,bullitt,21,21029,kentucky_bullitt_county,True
+321,georgia,bulloch,13,13031,georgia_bulloch_county,True
+322,alabama,bullock,01,01011,alabama_bullock_county,True
+323,north carolina,buncombe,37,37021,north_carolina_buncombe_county,True
+324,illinois,bureau,17,17011,illinois_bureau_county,True
+325,north carolina,burke,37,37023,north_carolina_burke_county,True
+326,north dakota,burke,38,38013,north_dakota_burke_county,True
+327,georgia,burke,13,13033,georgia_burke_county,True
+328,north dakota,burleigh,38,38015,north_dakota_burleigh_county,True
+329,texas,burleson,48,48051,texas_burleson_county,True
+330,new jersey,burlington,34,34005,new_jersey_burlington_county,True
+331,texas,burnet,48,48053,texas_burnet_county,True
+332,wisconsin,burnett,55,55013,wisconsin_burnett_county,True
+333,nebraska,burt,31,31021,nebraska_burt_county,True
+334,pennsylvania,butler,42,42019,pennsylvania_butler_county,True
+335,kansas,butler,20,20015,kansas_butler_county,True
+336,missouri,butler,29,29023,missouri_butler_county,True
+337,nebraska,butler,31,31023,nebraska_butler_county,True
+338,kentucky,butler,21,21031,kentucky_butler_county,True
+339,alabama,butler,01,01013,alabama_butler_county,True
+340,iowa,butler,19,19023,iowa_butler_county,True
+341,ohio,butler,39,39017,ohio_butler_county,True
+342,south dakota,butte,46,46019,south_dakota_butte_county,True
+343,california,butte,06,06007,california_butte_county,True
+344,idaho,butte,16,16023,idaho_butte_county,True
+345,georgia,butts,13,13035,georgia_butts_county,True
+346,north carolina,cabarrus,37,37025,north_carolina_cabarrus_county,True
+347,west virginia,cabell,54,54011,west_virginia_cabell_county,True
+348,puerto rico,cabo rojo,72,72023,puerto_rico_cabo_rojo_county,True
+349,utah,cache,49,49005,utah_cache_county,True
+350,oklahoma,caddo,40,40015,oklahoma_caddo_county,True
+351,louisiana,caddo,22,22017,louisiana_caddo_county,True
+352,puerto rico,caguas,72,72025,puerto_rico_caguas_county,True
+353,california,calaveras,06,06009,california_calaveras_county,True
+354,louisiana,calcasieu,22,22019,louisiana_calcasieu_county,True
+355,missouri,caldwell,29,29025,missouri_caldwell_county,True
+356,texas,caldwell,48,48055,texas_caldwell_county,True
+357,north carolina,caldwell,37,37027,north_carolina_caldwell_county,True
+358,kentucky,caldwell,21,21033,kentucky_caldwell_county,True
+359,louisiana,caldwell,22,22021,louisiana_caldwell_county,False
+360,vermont,caledonia,50,50005,vermont_caledonia_county,True
+361,florida,calhoun,12,12013,florida_calhoun_county,True
+362,mississippi,calhoun,28,28013,mississippi_calhoun_county,True
+363,illinois,calhoun,17,17013,illinois_calhoun_county,True
+364,west virginia,calhoun,54,54013,west_virginia_calhoun_county,True
+365,iowa,calhoun,19,19025,iowa_calhoun_county,True
+366,south carolina,calhoun,45,45017,south_carolina_calhoun_county,True
+367,texas,calhoun,48,48057,texas_calhoun_county,True
+368,georgia,calhoun,13,13037,georgia_calhoun_county,True
+369,alabama,calhoun,01,01015,alabama_calhoun_county,True
+370,arkansas,calhoun,05,05013,arkansas_calhoun_county,True
+371,michigan,calhoun,26,26025,michigan_calhoun_county,True
+372,texas,callahan,48,48059,texas_callahan_county,True
+373,missouri,callaway,29,29027,missouri_callaway_county,True
+374,kentucky,calloway,21,21035,kentucky_calloway_county,True
+375,wisconsin,calumet,55,55015,wisconsin_calumet_county,True
+376,maryland,calvert,24,24009,maryland_calvert_county,True
+377,idaho,camas,16,16025,idaho_camas_county,True
+378,pennsylvania,cambria,42,42021,pennsylvania_cambria_county,True
+379,georgia,camden,13,13039,georgia_camden_county,True
+380,north carolina,camden,37,37029,north_carolina_camden_county,True
+381,new jersey,camden,34,34007,new_jersey_camden_county,True
+382,missouri,camden,29,29029,missouri_camden_county,True
+383,louisiana,cameron,22,22023,louisiana_cameron_county,True
+384,texas,cameron,48,48061,texas_cameron_county,True
+385,pennsylvania,cameron,42,42023,pennsylvania_cameron_county,True
+386,texas,camp,48,48063,texas_camp_county,True
+387,kentucky,campbell,21,21037,kentucky_campbell_county,True
+388,south dakota,campbell,46,46021,south_dakota_campbell_county,True
+389,virginia,campbell,51,51031,virginia_campbell_county,True
+390,wyoming,campbell,56,56005,wyoming_campbell_county,True
+391,tennessee,campbell,47,47013,tennessee_campbell_county,True
+392,puerto rico,camuy,72,72027,puerto_rico_camuy_county,True
+393,oklahoma,canadian,40,40017,oklahoma_canadian_county,True
+394,georgia,candler,13,13043,georgia_candler_county,True
+395,tennessee,cannon,47,47015,tennessee_cannon_county,True
+396,puerto rico,canóvanas,72,72029,puerto_rico_canóvanas_county,True
+397,idaho,canyon,16,16027,idaho_canyon_county,True
+398,missouri,cape girardeau,29,29031,missouri_cape_girardeau_county,True
+399,new jersey,cape may,34,34009,new_jersey_cape_may_county,True
+400,utah,carbon,49,49007,utah_carbon_county,True
+401,pennsylvania,carbon,42,42025,pennsylvania_carbon_county,True
+402,montana,carbon,30,30009,montana_carbon_county,True
+403,wyoming,carbon,56,56007,wyoming_carbon_county,True
+404,idaho,caribou,16,16029,idaho_caribou_county,True
+405,kentucky,carlisle,21,21039,kentucky_carlisle_county,True
+406,minnesota,carlton,27,27017,minnesota_carlton_county,True
+407,puerto rico,carolina,72,72031,puerto_rico_carolina_county,True
+408,virginia,caroline,51,51033,virginia_caroline_county,True
+409,maryland,caroline,24,24011,maryland_caroline_county,True
+410,new hampshire,carroll,33,33003,new_hampshire_carroll_county,True
+411,virginia,carroll,51,51035,virginia_carroll_county,True
+412,missouri,carroll,29,29033,missouri_carroll_county,True
+413,indiana,carroll,18,18015,indiana_carroll_county,True
+414,tennessee,carroll,47,47017,tennessee_carroll_county,True
+415,kentucky,carroll,21,21041,kentucky_carroll_county,True
+416,arkansas,carroll,05,05015,arkansas_carroll_county,True
+417,ohio,carroll,39,39019,ohio_carroll_county,True
+418,georgia,carroll,13,13045,georgia_carroll_county,True
+419,illinois,carroll,17,17015,illinois_carroll_county,True
+420,iowa,carroll,19,19027,iowa_carroll_county,True
+421,mississippi,carroll,28,28015,mississippi_carroll_county,False
+422,maryland,carroll,24,24013,maryland_carroll_county,True
+423,texas,carson,48,48065,texas_carson_county,True
+424,nevada,carson city,32,32510,nevada_carson_city_county,True
+425,montana,carter,30,30011,montana_carter_county,True
+426,missouri,carter,29,29035,missouri_carter_county,False
+427,kentucky,carter,21,21043,kentucky_carter_county,True
+428,oklahoma,carter,40,40019,oklahoma_carter_county,True
+429,tennessee,carter,47,47019,tennessee_carter_county,True
+430,north carolina,carteret,37,37031,north_carolina_carteret_county,True
+431,minnesota,carver,27,27019,minnesota_carver_county,True
+432,montana,cascade,30,30013,montana_cascade_county,True
+433,kentucky,casey,21,21045,kentucky_casey_county,True
+434,minnesota,cass,27,27021,minnesota_cass_county,True
+435,north dakota,cass,38,38017,north_dakota_cass_county,True
+436,illinois,cass,17,17017,illinois_cass_county,True
+437,nebraska,cass,31,31025,nebraska_cass_county,True
+438,missouri,cass,29,29037,missouri_cass_county,True
+439,indiana,cass,18,18017,indiana_cass_county,True
+440,texas,cass,48,48067,texas_cass_county,True
+441,michigan,cass,26,26027,michigan_cass_county,True
+442,iowa,cass,19,19029,iowa_cass_county,True
+443,idaho,cassia,16,16031,idaho_cassia_county,True
+444,texas,castro,48,48069,texas_castro_county,True
+445,north carolina,caswell,37,37033,north_carolina_caswell_county,True
+446,louisiana,catahoula,22,22025,louisiana_catahoula_county,False
+447,puerto rico,cataño,72,72033,puerto_rico_cataño_county,True
+448,north carolina,catawba,37,37035,north_carolina_catawba_county,True
+449,georgia,catoosa,13,13047,georgia_catoosa_county,True
+450,new mexico,catron,35,35003,new_mexico_catron_county,True
+451,new york,cattaraugus,36,36009,new_york_cattaraugus_county,True
+452,north dakota,cavalier,38,38019,north_dakota_cavalier_county,True
+453,puerto rico,cayey,72,72035,puerto_rico_cayey_county,True
+454,new york,cayuga,36,36011,new_york_cayuga_county,True
+455,maryland,cecil,24,24015,maryland_cecil_county,True
+456,nebraska,cedar,31,31027,nebraska_cedar_county,True
+457,missouri,cedar,29,29039,missouri_cedar_county,True
+458,iowa,cedar,19,19031,iowa_cedar_county,True
+459,puerto rico,ceiba,72,72037,puerto_rico_ceiba_county,True
+460,pennsylvania,centre,42,42027,pennsylvania_centre_county,True
+461,iowa,cerro gordo,19,19033,iowa_cerro_gordo_county,True
+462,colorado,chaffee,08,08015,colorado_chaffee_county,True
+463,alabama,chambers,01,01017,alabama_chambers_county,True
+464,texas,chambers,48,48071,texas_chambers_county,True
+465,ohio,champaign,39,39021,ohio_champaign_county,True
+466,illinois,champaign,17,17019,illinois_champaign_county,True
+467,missouri,chariton,29,29041,missouri_chariton_county,True
+468,maryland,charles,24,24017,maryland_charles_county,True
+469,virginia,charles city,51,51036,virginia_charles_city_county,True
+470,south dakota,charles mix,46,46023,south_dakota_charles_mix_county,True
+471,south carolina,charleston,45,45019,south_carolina_charleston_county,True
+472,michigan,charlevoix,26,26029,michigan_charlevoix_county,True
+473,virginia,charlotte,51,51037,virginia_charlotte_county,True
+474,florida,charlotte,12,12015,florida_charlotte_county,True
+475,virginia,charlottesville,51,51540,virginia_charlottesville_county,True
+476,georgia,charlton,13,13049,georgia_charlton_county,True
+477,kansas,chase,20,20017,kansas_chase_county,True
+478,nebraska,chase,31,31029,nebraska_chase_county,True
+479,georgia,chatham,13,13051,georgia_chatham_county,True
+480,north carolina,chatham,37,37037,north_carolina_chatham_county,True
+481,georgia,chattahoochee,13,13053,georgia_chattahoochee_county,True
+482,georgia,chattooga,13,13055,georgia_chattooga_county,True
+483,kansas,chautauqua,20,20019,kansas_chautauqua_county,True
+484,new york,chautauqua,36,36013,new_york_chautauqua_county,True
+485,new mexico,chaves,35,35005,new_mexico_chaves_county,True
+486,tennessee,cheatham,47,47021,tennessee_cheatham_county,True
+487,michigan,cheboygan,26,26031,michigan_cheboygan_county,True
+488,washington,chelan,53,53007,washington_chelan_county,True
+489,new york,chemung,36,36015,new_york_chemung_county,True
+490,new york,chenango,36,36017,new_york_chenango_county,True
+491,oklahoma,cherokee,40,40021,oklahoma_cherokee_county,False
+492,south carolina,cherokee,45,45021,south_carolina_cherokee_county,True
+493,iowa,cherokee,19,19035,iowa_cherokee_county,True
+494,north carolina,cherokee,37,37039,north_carolina_cherokee_county,False
+495,texas,cherokee,48,48073,texas_cherokee_county,True
+496,kansas,cherokee,20,20021,kansas_cherokee_county,True
+497,alabama,cherokee,01,01019,alabama_cherokee_county,True
+498,georgia,cherokee,13,13057,georgia_cherokee_county,True
+499,nebraska,cherry,31,31031,nebraska_cherry_county,True
+500,virginia,chesapeake,51,51550,virginia_chesapeake_county,True
+501,new hampshire,cheshire,33,33005,new_hampshire_cheshire_county,True
+502,south carolina,chester,45,45023,south_carolina_chester_county,True
+503,pennsylvania,chester,42,42029,pennsylvania_chester_county,True
+504,tennessee,chester,47,47023,tennessee_chester_county,True
+505,virginia,chesterfield,51,51041,virginia_chesterfield_county,True
+506,south carolina,chesterfield,45,45025,south_carolina_chesterfield_county,True
+507,colorado,cheyenne,08,08017,colorado_cheyenne_county,True
+508,kansas,cheyenne,20,20023,kansas_cheyenne_county,True
+509,nebraska,cheyenne,31,31033,nebraska_cheyenne_county,True
+510,iowa,chickasaw,19,19037,iowa_chickasaw_county,True
+511,mississippi,chickasaw,28,28017,mississippi_chickasaw_county,True
+512,arkansas,chicot,05,05017,arkansas_chicot_county,True
+513,texas,childress,48,48075,texas_childress_county,True
+514,alabama,chilton,01,01021,alabama_chilton_county,True
+515,michigan,chippewa,26,26033,michigan_chippewa_county,True
+516,wisconsin,chippewa,55,55017,wisconsin_chippewa_county,True
+517,minnesota,chippewa,27,27023,minnesota_chippewa_county,True
+518,minnesota,chisago,27,27025,minnesota_chisago_county,True
+519,vermont,chittenden,50,50007,vermont_chittenden_county,True
+520,oklahoma,choctaw,40,40023,oklahoma_choctaw_county,True
+521,alabama,choctaw,01,01023,alabama_choctaw_county,True
+522,mississippi,choctaw,28,28019,mississippi_choctaw_county,True
+523,montana,chouteau,30,30015,montana_chouteau_county,True
+524,north carolina,chowan,37,37041,north_carolina_chowan_county,True
+525,missouri,christian,29,29043,missouri_christian_county,True
+526,kentucky,christian,21,21047,kentucky_christian_county,True
+527,illinois,christian,17,17021,illinois_christian_county,True
+528,nevada,churchill,32,32001,nevada_churchill_county,True
+529,puerto rico,ciales,72,72039,puerto_rico_ciales_county,False
+530,new mexico,cibola,35,35006,new_mexico_cibola_county,False
+531,puerto rico,cidra,72,72041,puerto_rico_cidra_county,True
+532,oklahoma,cimarron,40,40025,oklahoma_cimarron_county,True
+533,florida,citrus,12,12017,florida_citrus_county,True
+534,oregon,clackamas,41,41005,oregon_clackamas_county,True
+535,louisiana,claiborne,22,22027,louisiana_claiborne_county,False
+536,tennessee,claiborne,47,47025,tennessee_claiborne_county,True
+537,mississippi,claiborne,28,28021,mississippi_claiborne_county,True
+538,washington,clallam,53,53009,washington_clallam_county,True
+539,michigan,clare,26,26035,michigan_clare_county,True
+540,south carolina,clarendon,45,45027,south_carolina_clarendon_county,True
+541,pennsylvania,clarion,42,42031,pennsylvania_clarion_county,True
+542,idaho,clark,16,16033,idaho_clark_county,False
+543,illinois,clark,17,17023,illinois_clark_county,True
+544,nevada,clark,32,32003,nevada_clark_county,True
+545,wisconsin,clark,55,55019,wisconsin_clark_county,True
+546,kansas,clark,20,20025,kansas_clark_county,True
+547,washington,clark,53,53011,washington_clark_county,True
+548,ohio,clark,39,39023,ohio_clark_county,True
+549,arkansas,clark,05,05019,arkansas_clark_county,True
+550,indiana,clark,18,18019,indiana_clark_county,True
+551,south dakota,clark,46,46025,south_dakota_clark_county,True
+552,missouri,clark,29,29045,missouri_clark_county,True
+553,kentucky,clark,21,21049,kentucky_clark_county,True
+554,iowa,clarke,19,19039,iowa_clarke_county,True
+555,mississippi,clarke,28,28023,mississippi_clarke_county,True
+556,virginia,clarke,51,51043,virginia_clarke_county,True
+557,georgia,clarke,13,13059,georgia_clarke_county,True
+558,alabama,clarke,01,01025,alabama_clarke_county,True
+559,oregon,clatsop,41,41007,oregon_clatsop_county,True
+560,florida,clay,12,12019,florida_clay_county,True
+561,mississippi,clay,28,28025,mississippi_clay_county,True
+562,minnesota,clay,27,27027,minnesota_clay_county,True
+563,tennessee,clay,47,47027,tennessee_clay_county,True
+564,west virginia,clay,54,54015,west_virginia_clay_county,True
+565,georgia,clay,13,13061,georgia_clay_county,False
+566,missouri,clay,29,29047,missouri_clay_county,True
+567,south dakota,clay,46,46027,south_dakota_clay_county,True
+568,nebraska,clay,31,31035,nebraska_clay_county,True
+569,texas,clay,48,48077,texas_clay_county,True
+570,illinois,clay,17,17025,illinois_clay_county,True
+571,kentucky,clay,21,21051,kentucky_clay_county,True
+572,arkansas,clay,05,05021,arkansas_clay_county,True
+573,kansas,clay,20,20027,kansas_clay_county,True
+574,north carolina,clay,37,37043,north_carolina_clay_county,False
+575,indiana,clay,18,18021,indiana_clay_county,True
+576,iowa,clay,19,19041,iowa_clay_county,True
+577,alabama,clay,01,01027,alabama_clay_county,True
+578,georgia,clayton,13,13063,georgia_clayton_county,True
+579,iowa,clayton,19,19043,iowa_clayton_county,True
+580,colorado,clear creek,08,08019,colorado_clear_creek_county,True
+581,pennsylvania,clearfield,42,42033,pennsylvania_clearfield_county,True
+582,idaho,clearwater,16,16035,idaho_clearwater_county,True
+583,minnesota,clearwater,27,27029,minnesota_clearwater_county,True
+584,arkansas,cleburne,05,05023,arkansas_cleburne_county,True
+585,alabama,cleburne,01,01029,alabama_cleburne_county,True
+586,ohio,clermont,39,39025,ohio_clermont_county,True
+587,oklahoma,cleveland,40,40027,oklahoma_cleveland_county,True
+588,north carolina,cleveland,37,37045,north_carolina_cleveland_county,True
+589,arkansas,cleveland,05,05025,arkansas_cleveland_county,False
+590,georgia,clinch,13,13065,georgia_clinch_county,True
+591,illinois,clinton,17,17027,illinois_clinton_county,True
+592,kentucky,clinton,21,21053,kentucky_clinton_county,True
+593,new york,clinton,36,36019,new_york_clinton_county,True
+594,michigan,clinton,26,26037,michigan_clinton_county,True
+595,pennsylvania,clinton,42,42035,pennsylvania_clinton_county,True
+596,ohio,clinton,39,39027,ohio_clinton_county,True
+597,iowa,clinton,19,19045,iowa_clinton_county,True
+598,indiana,clinton,18,18023,indiana_clinton_county,True
+599,missouri,clinton,29,29049,missouri_clinton_county,True
+600,kansas,cloud,20,20029,kansas_cloud_county,True
+601,mississippi,coahoma,28,28027,mississippi_coahoma_county,True
+602,oklahoma,coal,40,40029,oklahoma_coal_county,True
+603,puerto rico,coamo,72,72043,puerto_rico_coamo_county,False
+604,georgia,cobb,13,13067,georgia_cobb_county,True
+605,arizona,cochise,04,04003,arizona_cochise_county,True
+606,texas,cochran,48,48079,texas_cochran_county,True
+607,tennessee,cocke,47,47029,tennessee_cocke_county,True
+608,arizona,coconino,04,04005,arizona_coconino_county,True
+609,south dakota,codington,46,46029,south_dakota_codington_county,True
+610,georgia,coffee,13,13069,georgia_coffee_county,True
+611,alabama,coffee,01,01031,alabama_coffee_county,True
+612,tennessee,coffee,47,47031,tennessee_coffee_county,True
+613,kansas,coffey,20,20031,kansas_coffey_county,True
+614,texas,coke,48,48081,texas_coke_county,True
+615,alabama,colbert,01,01033,alabama_colbert_county,True
+616,missouri,cole,29,29051,missouri_cole_county,True
+617,texas,coleman,48,48083,texas_coleman_county,True
+618,illinois,coles,17,17029,illinois_coles_county,True
+619,new mexico,colfax,35,35007,new_mexico_colfax_county,False
+620,nebraska,colfax,31,31037,nebraska_colfax_county,True
+621,south carolina,colleton,45,45029,south_carolina_colleton_county,True
+622,florida,collier,12,12021,florida_collier_county,True
+623,texas,collin,48,48085,texas_collin_county,True
+624,texas,collingsworth,48,48087,texas_collingsworth_county,True
+625,virginia,colonial heights,51,51570,virginia_colonial_heights_county,True
+626,texas,colorado,48,48089,texas_colorado_county,True
+627,georgia,colquitt,13,13071,georgia_colquitt_county,True
+628,arkansas,columbia,05,05027,arkansas_columbia_county,True
+629,florida,columbia,12,12023,florida_columbia_county,True
+630,oregon,columbia,41,41009,oregon_columbia_county,True
+631,georgia,columbia,13,13073,georgia_columbia_county,True
+632,wisconsin,columbia,55,55021,wisconsin_columbia_county,True
+633,pennsylvania,columbia,42,42037,pennsylvania_columbia_county,True
+634,washington,columbia,53,53013,washington_columbia_county,True
+635,new york,columbia,36,36021,new_york_columbia_county,True
+636,ohio,columbiana,39,39029,ohio_columbiana_county,True
+637,north carolina,columbus,37,37047,north_carolina_columbus_county,True
+638,california,colusa,06,06011,california_colusa_county,True
+639,texas,comal,48,48091,texas_comal_county,True
+640,oklahoma,comanche,40,40031,oklahoma_comanche_county,True
+641,kansas,comanche,20,20033,kansas_comanche_county,True
+642,texas,comanche,48,48093,texas_comanche_county,True
+643,puerto rico,comerío,72,72045,puerto_rico_comerío_county,True
+644,texas,concho,48,48095,texas_concho_county,True
+645,louisiana,concordia,22,22029,louisiana_concordia_county,True
+646,alabama,conecuh,01,01035,alabama_conecuh_county,False
+647,colorado,conejos,08,08021,colorado_conejos_county,True
+648,california,contra costa,06,06013,california_contra_costa_county,True
+649,wyoming,converse,56,56009,wyoming_converse_county,True
+650,arkansas,conway,05,05029,arkansas_conway_county,True
+651,georgia,cook,13,13075,georgia_cook_county,True
+652,illinois,cook,17,17031,illinois_cook_county,True
+653,minnesota,cook,27,27031,minnesota_cook_county,True
+654,texas,cooke,48,48097,texas_cooke_county,True
+655,missouri,cooper,29,29053,missouri_cooper_county,True
+656,new hampshire,coos,33,33007,new_hampshire_coos_county,True
+657,oregon,coos,41,41011,oregon_coos_county,True
+658,alabama,coosa,01,01037,alabama_coosa_county,True
+659,mississippi,copiah,28,28029,mississippi_copiah_county,True
+660,puerto rico,corozal,72,72047,puerto_rico_corozal_county,True
+661,south dakota,corson,46,46031,south_dakota_corson_county,True
+662,new york,cortland,36,36023,new_york_cortland_county,True
+663,texas,coryell,48,48099,texas_coryell_county,True
+664,ohio,coshocton,39,39031,ohio_coshocton_county,True
+665,colorado,costilla,08,08023,colorado_costilla_county,True
+666,texas,cottle,48,48101,texas_cottle_county,True
+667,oklahoma,cotton,40,40033,oklahoma_cotton_county,True
+668,minnesota,cottonwood,27,27033,minnesota_cottonwood_county,True
+669,mississippi,covington,28,28031,mississippi_covington_county,True
+670,virginia,covington,51,51580,virginia_covington_county,True
+671,alabama,covington,01,01039,alabama_covington_county,True
+672,georgia,coweta,13,13077,georgia_coweta_county,True
+673,kansas,cowley,20,20035,kansas_cowley_county,True
+674,washington,cowlitz,53,53015,washington_cowlitz_county,True
+675,virginia,craig,51,51045,virginia_craig_county,True
+676,oklahoma,craig,40,40035,oklahoma_craig_county,True
+677,arkansas,craighead,05,05031,arkansas_craighead_county,True
+678,texas,crane,48,48103,texas_crane_county,True
+679,north carolina,craven,37,37049,north_carolina_craven_county,True
+680,ohio,crawford,39,39033,ohio_crawford_county,True
+681,indiana,crawford,18,18025,indiana_crawford_county,True
+682,georgia,crawford,13,13079,georgia_crawford_county,True
+683,iowa,crawford,19,19047,iowa_crawford_county,True
+684,kansas,crawford,20,20037,kansas_crawford_county,True
+685,illinois,crawford,17,17033,illinois_crawford_county,True
+686,missouri,crawford,29,29055,missouri_crawford_county,True
+687,michigan,crawford,26,26039,michigan_crawford_county,True
+688,arkansas,crawford,05,05033,arkansas_crawford_county,True
+689,pennsylvania,crawford,42,42039,pennsylvania_crawford_county,True
+690,wisconsin,crawford,55,55023,wisconsin_crawford_county,True
+691,oklahoma,creek,40,40037,oklahoma_creek_county,True
+692,alabama,crenshaw,01,01041,alabama_crenshaw_county,True
+693,georgia,crisp,13,13081,georgia_crisp_county,True
+694,arkansas,crittenden,05,05035,arkansas_crittenden_county,True
+695,kentucky,crittenden,21,21055,kentucky_crittenden_county,True
+696,tennessee,crockett,47,47033,tennessee_crockett_county,True
+697,texas,crockett,48,48105,texas_crockett_county,True
+698,wyoming,crook,56,56011,wyoming_crook_county,True
+699,oregon,crook,41,41013,oregon_crook_county,True
+700,texas,crosby,48,48107,texas_crosby_county,True
+701,arkansas,cross,05,05037,arkansas_cross_county,True
+702,colorado,crowley,08,08025,colorado_crowley_county,True
+703,minnesota,crow wing,27,27035,minnesota_crow_wing_county,True
+704,texas,culberson,48,48109,texas_culberson_county,False
+705,puerto rico,culebra,72,72049,puerto_rico_culebra_county,False
+706,alabama,cullman,01,01043,alabama_cullman_county,True
+707,virginia,culpeper,51,51047,virginia_culpeper_county,True
+708,tennessee,cumberland,47,47035,tennessee_cumberland_county,True
+709,north carolina,cumberland,37,37051,north_carolina_cumberland_county,True
+710,maine,cumberland,23,23005,maine_cumberland_county,True
+711,pennsylvania,cumberland,42,42041,pennsylvania_cumberland_county,True
+712,illinois,cumberland,17,17035,illinois_cumberland_county,True
+713,new jersey,cumberland,34,34011,new_jersey_cumberland_county,True
+714,kentucky,cumberland,21,21057,kentucky_cumberland_county,True
+715,virginia,cumberland,51,51049,virginia_cumberland_county,True
+716,nebraska,cuming,31,31039,nebraska_cuming_county,True
+717,north carolina,currituck,37,37053,north_carolina_currituck_county,True
+718,oregon,curry,41,41015,oregon_curry_county,True
+719,new mexico,curry,35,35009,new_mexico_curry_county,True
+720,oklahoma,custer,40,40039,oklahoma_custer_county,True
+721,montana,custer,30,30017,montana_custer_county,True
+722,south dakota,custer,46,46033,south_dakota_custer_county,True
+723,nebraska,custer,31,31041,nebraska_custer_county,True
+724,idaho,custer,16,16037,idaho_custer_county,True
+725,colorado,custer,08,08027,colorado_custer_county,True
+726,ohio,cuyahoga,39,39035,ohio_cuyahoga_county,True
+727,missouri,dade,29,29057,missouri_dade_county,True
+728,georgia,dade,13,13083,georgia_dade_county,True
+729,utah,daggett,49,49009,utah_daggett_county,False
+730,nebraska,dakota,31,31043,nebraska_dakota_county,True
+731,minnesota,dakota,27,27037,minnesota_dakota_county,True
+732,alabama,dale,01,01045,alabama_dale_county,True
+733,texas,dallam,48,48111,texas_dallam_county,True
+734,arkansas,dallas,05,05039,arkansas_dallas_county,True
+735,iowa,dallas,19,19049,iowa_dallas_county,True
+736,missouri,dallas,29,29059,missouri_dallas_county,True
+737,texas,dallas,48,48113,texas_dallas_county,True
+738,alabama,dallas,01,01047,alabama_dallas_county,True
+739,wisconsin,dane,55,55025,wisconsin_dane_county,True
+740,montana,daniels,30,30019,montana_daniels_county,True
+741,virginia,danville,51,51590,virginia_danville_county,True
+742,north carolina,dare,37,37055,north_carolina_dare_county,True
+743,ohio,darke,39,39037,ohio_darke_county,True
+744,south carolina,darlington,45,45031,south_carolina_darlington_county,True
+745,pennsylvania,dauphin,42,42043,pennsylvania_dauphin_county,True
+746,tennessee,davidson,47,47037,tennessee_davidson_county,True
+747,north carolina,davidson,37,37057,north_carolina_davidson_county,True
+748,north carolina,davie,37,37059,north_carolina_davie_county,True
+749,kentucky,daviess,21,21059,kentucky_daviess_county,True
+750,missouri,daviess,29,29061,missouri_daviess_county,True
+751,indiana,daviess,18,18027,indiana_daviess_county,True
+752,iowa,davis,19,19051,iowa_davis_county,True
+753,utah,davis,49,49011,utah_davis_county,True
+754,south dakota,davison,46,46035,south_dakota_davison_county,True
+755,nebraska,dawes,31,31045,nebraska_dawes_county,True
+756,montana,dawson,30,30021,montana_dawson_county,True
+757,texas,dawson,48,48115,texas_dawson_county,True
+758,georgia,dawson,13,13085,georgia_dawson_county,True
+759,nebraska,dawson,31,31047,nebraska_dawson_county,True
+760,south dakota,day,46,46037,south_dakota_day_county,True
+761,texas,deaf smith,48,48117,texas_deaf_smith_county,True
+762,indiana,dearborn,18,18029,indiana_dearborn_county,True
+763,new mexico,de baca,35,35011,new_mexico_de_baca_county,True
+764,kansas,decatur,20,20039,kansas_decatur_county,True
+765,tennessee,decatur,47,47039,tennessee_decatur_county,True
+766,iowa,decatur,19,19053,iowa_decatur_county,True
+767,indiana,decatur,18,18031,indiana_decatur_county,True
+768,georgia,decatur,13,13087,georgia_decatur_county,True
+769,montana,deer lodge,30,30023,montana_deer_lodge_county,True
+770,ohio,defiance,39,39039,ohio_defiance_county,True
+771,tennessee,dekalb,47,47041,tennessee_dekalb_county,True
+772,missouri,dekalb,29,29063,missouri_dekalb_county,True
+773,georgia,dekalb,13,13089,georgia_dekalb_county,True
+774,illinois,dekalb,17,17037,illinois_dekalb_county,True
+775,indiana,dekalb,18,18033,indiana_dekalb_county,True
+776,alabama,dekalb,01,01049,alabama_dekalb_county,True
+777,new york,delaware,36,36025,new_york_delaware_county,True
+778,indiana,delaware,18,18035,indiana_delaware_county,True
+779,iowa,delaware,19,19055,iowa_delaware_county,True
+780,pennsylvania,delaware,42,42045,pennsylvania_delaware_county,True
+781,oklahoma,delaware,40,40041,oklahoma_delaware_county,True
+782,ohio,delaware,39,39041,ohio_delaware_county,True
+783,california,del norte,06,06015,california_del_norte_county,True
+784,michigan,delta,26,26041,michigan_delta_county,True
+785,colorado,delta,08,08029,colorado_delta_county,True
+786,texas,delta,48,48119,texas_delta_county,True
+787,alaska,denali,02,02068,alaska_denali_county,True
+788,missouri,dent,29,29065,missouri_dent_county,True
+789,texas,denton,48,48121,texas_denton_county,True
+790,colorado,denver,08,08031,colorado_denver_county,True
+791,oregon,deschutes,41,41017,oregon_deschutes_county,True
+792,arkansas,desha,05,05041,arkansas_desha_county,True
+793,iowa,des moines,19,19057,iowa_des_moines_county,True
+794,florida,desoto,12,12027,florida_desoto_county,True
+795,mississippi,desoto,28,28033,mississippi_desoto_county,True
+796,louisiana,de soto,22,22031,louisiana_de_soto_county,True
+797,south dakota,deuel,46,46039,south_dakota_deuel_county,True
+798,nebraska,deuel,31,31049,nebraska_deuel_county,True
+799,oklahoma,dewey,40,40043,oklahoma_dewey_county,True
+800,south dakota,dewey,46,46041,south_dakota_dewey_county,True
+801,texas,dewitt,48,48123,texas_dewitt_county,True
+802,illinois,de witt,17,17039,illinois_de_witt_county,True
+803,texas,dickens,48,48125,texas_dickens_county,True
+804,virginia,dickenson,51,51051,virginia_dickenson_county,False
+805,north dakota,dickey,38,38021,north_dakota_dickey_county,True
+806,michigan,dickinson,26,26043,michigan_dickinson_county,True
+807,kansas,dickinson,20,20041,kansas_dickinson_county,True
+808,iowa,dickinson,19,19059,iowa_dickinson_county,True
+809,tennessee,dickson,47,47043,tennessee_dickson_county,True
+810,alaska,dillingham,02,02070,alaska_dillingham_county,True
+811,south carolina,dillon,45,45033,south_carolina_dillon_county,True
+812,texas,dimmit,48,48127,texas_dimmit_county,True
+813,virginia,dinwiddie,51,51053,virginia_dinwiddie_county,True
+814,district of columbia,district of columbia,11,11001,district_of_columbia_district_of_columbia_county,True
+815,north dakota,divide,38,38023,north_dakota_divide_county,True
+816,florida,dixie,12,12029,florida_dixie_county,False
+817,nebraska,dixon,31,31051,nebraska_dixon_county,True
+818,west virginia,doddridge,54,54017,west_virginia_doddridge_county,True
+819,minnesota,dodge,27,27039,minnesota_dodge_county,True
+820,nebraska,dodge,31,31053,nebraska_dodge_county,True
+821,georgia,dodge,13,13091,georgia_dodge_county,True
+822,wisconsin,dodge,55,55027,wisconsin_dodge_county,True
+823,colorado,dolores,08,08033,colorado_dolores_county,False
+824,new mexico,doña ana,35,35013,new_mexico_doña_ana_county,True
+825,kansas,doniphan,20,20043,kansas_doniphan_county,True
+826,texas,donley,48,48129,texas_donley_county,True
+827,georgia,dooly,13,13093,georgia_dooly_county,True
+828,wisconsin,door,55,55029,wisconsin_door_county,True
+829,puerto rico,dorado,72,72051,puerto_rico_dorado_county,True
+830,south carolina,dorchester,45,45035,south_carolina_dorchester_county,True
+831,maryland,dorchester,24,24019,maryland_dorchester_county,True
+832,georgia,dougherty,13,13095,georgia_dougherty_county,True
+833,south dakota,douglas,46,46043,south_dakota_douglas_county,True
+834,colorado,douglas,08,08035,colorado_douglas_county,True
+835,georgia,douglas,13,13097,georgia_douglas_county,True
+836,nebraska,douglas,31,31055,nebraska_douglas_county,True
+837,missouri,douglas,29,29067,missouri_douglas_county,True
+838,minnesota,douglas,27,27041,minnesota_douglas_county,True
+839,wisconsin,douglas,55,55031,wisconsin_douglas_county,True
+840,illinois,douglas,17,17041,illinois_douglas_county,True
+841,washington,douglas,53,53017,washington_douglas_county,True
+842,oregon,douglas,41,41019,oregon_douglas_county,True
+843,nevada,douglas,32,32005,nevada_douglas_county,True
+844,kansas,douglas,20,20045,kansas_douglas_county,True
+845,arkansas,drew,05,05043,arkansas_drew_county,True
+846,indiana,dubois,18,18037,indiana_dubois_county,True
+847,iowa,dubuque,19,19061,iowa_dubuque_county,True
+848,utah,duchesne,49,49013,utah_duchesne_county,True
+849,massachusetts,dukes,25,25007,massachusetts_dukes_county,True
+850,nebraska,dundy,31,31057,nebraska_dundy_county,True
+851,missouri,dunklin,29,29069,missouri_dunklin_county,True
+852,north dakota,dunn,38,38025,north_dakota_dunn_county,True
+853,wisconsin,dunn,55,55033,wisconsin_dunn_county,True
+854,illinois,dupage,17,17043,illinois_dupage_county,True
+855,north carolina,duplin,37,37061,north_carolina_duplin_county,True
+856,north carolina,durham,37,37063,north_carolina_durham_county,True
+857,new york,dutchess,36,36027,new_york_dutchess_county,True
+858,florida,duval,12,12031,florida_duval_county,True
+859,texas,duval,48,48131,texas_duval_county,True
+860,tennessee,dyer,47,47045,tennessee_dyer_county,True
+861,colorado,eagle,08,08037,colorado_eagle_county,True
+862,georgia,early,13,13099,georgia_early_county,True
+863,louisiana,east baton rouge,22,22033,louisiana_east_baton_rouge_county,True
+864,louisiana,east carroll,22,22035,louisiana_east_carroll_county,True
+865,american samoa,eastern,60,60010,american_samoa_eastern_county,True
+866,louisiana,east feliciana,22,22037,louisiana_east_feliciana_county,True
+867,texas,eastland,48,48133,texas_eastland_county,True
+868,michigan,eaton,26,26045,michigan_eaton_county,True
+869,wisconsin,eau claire,55,55035,wisconsin_eau_claire_county,True
+870,georgia,echols,13,13101,georgia_echols_county,False
+871,texas,ector,48,48135,texas_ector_county,True
+872,north dakota,eddy,38,38027,north_dakota_eddy_county,True
+873,new mexico,eddy,35,35015,new_mexico_eddy_county,True
+874,illinois,edgar,17,17045,illinois_edgar_county,True
+875,north carolina,edgecombe,37,37065,north_carolina_edgecombe_county,True
+876,south carolina,edgefield,45,45037,south_carolina_edgefield_county,True
+877,kentucky,edmonson,21,21061,kentucky_edmonson_county,True
+878,south dakota,edmunds,46,46045,south_dakota_edmunds_county,True
+879,kansas,edwards,20,20047,kansas_edwards_county,True
+880,texas,edwards,48,48137,texas_edwards_county,True
+881,illinois,edwards,17,17047,illinois_edwards_county,True
+882,illinois,effingham,17,17049,illinois_effingham_county,True
+883,georgia,effingham,13,13103,georgia_effingham_county,True
+884,colorado,elbert,08,08039,colorado_elbert_county,True
+885,georgia,elbert,13,13105,georgia_elbert_county,True
+886,california,el dorado,06,06017,california_el_dorado_county,True
+887,kansas,elk,20,20049,kansas_elk_county,True
+888,pennsylvania,elk,42,42047,pennsylvania_elk_county,True
+889,indiana,elkhart,18,18039,indiana_elkhart_county,True
+890,nevada,elko,32,32007,nevada_elko_county,True
+891,kentucky,elliott,21,21063,kentucky_elliott_county,True
+892,kansas,ellis,20,20051,kansas_ellis_county,True
+893,oklahoma,ellis,40,40045,oklahoma_ellis_county,True
+894,texas,ellis,48,48139,texas_ellis_county,True
+895,kansas,ellsworth,20,20053,kansas_ellsworth_county,True
+896,alabama,elmore,01,01051,alabama_elmore_county,True
+897,idaho,elmore,16,16039,idaho_elmore_county,True
+898,texas,el paso,48,48141,texas_el_paso_county,True
+899,colorado,el paso,08,08041,colorado_el_paso_county,True
+900,georgia,emanuel,13,13107,georgia_emanuel_county,True
+901,utah,emery,49,49015,utah_emery_county,True
+902,michigan,emmet,26,26047,michigan_emmet_county,True
+903,iowa,emmet,19,19063,iowa_emmet_county,True
+904,north dakota,emmons,38,38029,north_dakota_emmons_county,True
+905,virginia,emporia,51,51595,virginia_emporia_county,True
+906,texas,erath,48,48143,texas_erath_county,True
+907,pennsylvania,erie,42,42049,pennsylvania_erie_county,True
+908,ohio,erie,39,39043,ohio_erie_county,True
+909,new york,erie,36,36029,new_york_erie_county,True
+910,alabama,escambia,01,01053,alabama_escambia_county,True
+911,florida,escambia,12,12033,florida_escambia_county,True
+912,nevada,esmeralda,32,32009,nevada_esmeralda_county,True
+913,vermont,essex,50,50009,vermont_essex_county,False
+914,new york,essex,36,36031,new_york_essex_county,True
+915,new jersey,essex,34,34013,new_jersey_essex_county,True
+916,virginia,essex,51,51057,virginia_essex_county,True
+917,massachusetts,essex,25,25009,massachusetts_essex_county,True
+918,kentucky,estill,21,21065,kentucky_estill_county,True
+919,alabama,etowah,01,01055,alabama_etowah_county,True
+920,nevada,eureka,32,32011,nevada_eureka_county,False
+921,louisiana,evangeline,22,22039,louisiana_evangeline_county,True
+922,georgia,evans,13,13109,georgia_evans_county,True
+923,alaska,fairbanks north star,02,02090,alaska_fairbanks_north_star_county,True
+924,virginia,fairfax,51,51059,virginia_fairfax_county,True
+925,virginia,fairfax,51,51600,virginia_fairfax_county,True
+926,ohio,fairfield,39,39045,ohio_fairfield_county,True
+927,south carolina,fairfield,45,45039,south_carolina_fairfield_county,True
+928,connecticut,fairfield,09,09001,connecticut_fairfield_county,True
+929,puerto rico,fajardo,72,72053,puerto_rico_fajardo_county,True
+930,montana,fallon,30,30025,montana_fallon_county,True
+931,south dakota,fall river,46,46047,south_dakota_fall_river_county,True
+932,texas,falls,48,48145,texas_falls_county,True
+933,virginia,falls church,51,51610,virginia_falls_church_county,True
+934,georgia,fannin,13,13111,georgia_fannin_county,True
+935,texas,fannin,48,48147,texas_fannin_county,True
+936,minnesota,faribault,27,27043,minnesota_faribault_county,True
+937,south dakota,faulk,46,46049,south_dakota_faulk_county,True
+938,arkansas,faulkner,05,05045,arkansas_faulkner_county,True
+939,virginia,fauquier,51,51061,virginia_fauquier_county,True
+940,tennessee,fayette,47,47047,tennessee_fayette_county,True
+941,georgia,fayette,13,13113,georgia_fayette_county,True
+942,pennsylvania,fayette,42,42051,pennsylvania_fayette_county,True
+943,iowa,fayette,19,19065,iowa_fayette_county,True
+944,west virginia,fayette,54,54019,west_virginia_fayette_county,True
+945,kentucky,fayette,21,21067,kentucky_fayette_county,True
+946,alabama,fayette,01,01057,alabama_fayette_county,True
+947,indiana,fayette,18,18041,indiana_fayette_county,True
+948,ohio,fayette,39,39047,ohio_fayette_county,True
+949,illinois,fayette,17,17051,illinois_fayette_county,True
+950,texas,fayette,48,48149,texas_fayette_county,True
+951,tennessee,fentress,47,47049,tennessee_fentress_county,True
+952,montana,fergus,30,30027,montana_fergus_county,True
+953,washington,ferry,53,53019,washington_ferry_county,False
+954,minnesota,fillmore,27,27045,minnesota_fillmore_county,True
+955,nebraska,fillmore,31,31059,nebraska_fillmore_county,True
+956,kansas,finney,20,20055,kansas_finney_county,True
+957,texas,fisher,48,48151,texas_fisher_county,True
+958,florida,flagler,12,12035,florida_flagler_county,True
+959,montana,flathead,30,30029,montana_flathead_county,True
+960,kentucky,fleming,21,21069,kentucky_fleming_county,True
+961,wisconsin,florence,55,55037,wisconsin_florence_county,True
+962,south carolina,florence,45,45041,south_carolina_florence_county,True
+963,puerto rico,florida,72,72054,puerto_rico_florida_county,True
+964,kentucky,floyd,21,21071,kentucky_floyd_county,True
+965,texas,floyd,48,48153,texas_floyd_county,True
+966,indiana,floyd,18,18043,indiana_floyd_county,True
+967,iowa,floyd,19,19067,iowa_floyd_county,True
+968,virginia,floyd,51,51063,virginia_floyd_county,True
+969,georgia,floyd,13,13115,georgia_floyd_county,True
+970,virginia,fluvanna,51,51065,virginia_fluvanna_county,True
+971,texas,foard,48,48155,texas_foard_county,True
+972,wisconsin,fond du lac,55,55039,wisconsin_fond_du_lac_county,True
+973,kansas,ford,20,20057,kansas_ford_county,True
+974,illinois,ford,17,17053,illinois_ford_county,True
+975,pennsylvania,forest,42,42053,pennsylvania_forest_county,True
+976,wisconsin,forest,55,55041,wisconsin_forest_county,True
+977,mississippi,forrest,28,28035,mississippi_forrest_county,True
+978,north carolina,forsyth,37,37067,north_carolina_forsyth_county,True
+979,georgia,forsyth,13,13117,georgia_forsyth_county,True
+980,texas,fort bend,48,48157,texas_fort_bend_county,True
+981,north dakota,foster,38,38031,north_dakota_foster_county,True
+982,indiana,fountain,18,18045,indiana_fountain_county,True
+983,idaho,franklin,16,16041,idaho_franklin_county,True
+984,kansas,franklin,20,20059,kansas_franklin_county,True
+985,indiana,franklin,18,18047,indiana_franklin_county,False
+986,florida,franklin,12,12037,florida_franklin_county,True
+987,texas,franklin,48,48159,texas_franklin_county,True
+988,vermont,franklin,50,50011,vermont_franklin_county,True
+989,washington,franklin,53,53021,washington_franklin_county,True
+990,maine,franklin,23,23007,maine_franklin_county,True
+991,alabama,franklin,01,01059,alabama_franklin_county,True
+992,louisiana,franklin,22,22041,louisiana_franklin_county,False
+993,illinois,franklin,17,17055,illinois_franklin_county,True
+994,ohio,franklin,39,39049,ohio_franklin_county,True
+995,new york,franklin,36,36033,new_york_franklin_county,True
+996,arkansas,franklin,05,05047,arkansas_franklin_county,True
+997,north carolina,franklin,37,37069,north_carolina_franklin_county,True
+998,georgia,franklin,13,13119,georgia_franklin_county,True
+999,missouri,franklin,29,29071,missouri_franklin_county,True
+1000,massachusetts,franklin,25,25011,massachusetts_franklin_county,True
+1001,iowa,franklin,19,19069,iowa_franklin_county,True
+1002,pennsylvania,franklin,42,42055,pennsylvania_franklin_county,True
+1003,mississippi,franklin,28,28037,mississippi_franklin_county,True
+1004,tennessee,franklin,47,47051,tennessee_franklin_county,True
+1005,nebraska,franklin,31,31061,nebraska_franklin_county,True
+1006,virginia,franklin,51,51067,virginia_franklin_county,True
+1007,virginia,franklin,51,51620,virginia_franklin_county,True
+1008,kentucky,franklin,21,21073,kentucky_franklin_county,True
+1009,virginia,frederick,51,51069,virginia_frederick_county,True
+1010,maryland,frederick,24,24021,maryland_frederick_county,True
+1011,virginia,fredericksburg,51,51630,virginia_fredericksburg_county,True
+1012,minnesota,freeborn,27,27047,minnesota_freeborn_county,True
+1013,texas,freestone,48,48161,texas_freestone_county,True
+1014,idaho,fremont,16,16043,idaho_fremont_county,True
+1015,wyoming,fremont,56,56013,wyoming_fremont_county,True
+1016,iowa,fremont,19,19071,iowa_fremont_county,True
+1017,colorado,fremont,08,08043,colorado_fremont_county,True
+1018,california,fresno,06,06019,california_fresno_county,True
+1019,texas,frio,48,48163,texas_frio_county,True
+1020,nebraska,frontier,31,31063,nebraska_frontier_county,True
+1021,arkansas,fulton,05,05049,arkansas_fulton_county,True
+1022,ohio,fulton,39,39051,ohio_fulton_county,True
+1023,indiana,fulton,18,18049,indiana_fulton_county,True
+1024,pennsylvania,fulton,42,42057,pennsylvania_fulton_county,True
+1025,kentucky,fulton,21,21075,kentucky_fulton_county,True
+1026,georgia,fulton,13,13121,georgia_fulton_county,True
+1027,new york,fulton,36,36035,new_york_fulton_county,True
+1028,illinois,fulton,17,17057,illinois_fulton_county,True
+1029,nebraska,furnas,31,31065,nebraska_furnas_county,True
+1030,florida,gadsden,12,12039,florida_gadsden_county,True
+1031,nebraska,gage,31,31067,nebraska_gage_county,True
+1032,texas,gaines,48,48165,texas_gaines_county,True
+1033,virginia,galax,51,51640,virginia_galax_county,True
+1034,montana,gallatin,30,30031,montana_gallatin_county,True
+1035,kentucky,gallatin,21,21077,kentucky_gallatin_county,True
+1036,illinois,gallatin,17,17059,illinois_gallatin_county,True
+1037,ohio,gallia,39,39053,ohio_gallia_county,True
+1038,texas,galveston,48,48167,texas_galveston_county,True
+1039,nebraska,garden,31,31069,nebraska_garden_county,True
+1040,montana,garfield,30,30033,montana_garfield_county,False
+1041,utah,garfield,49,49017,utah_garfield_county,True
+1042,oklahoma,garfield,40,40047,oklahoma_garfield_county,True
+1043,colorado,garfield,08,08045,colorado_garfield_county,True
+1044,nebraska,garfield,31,31071,nebraska_garfield_county,True
+1045,washington,garfield,53,53023,washington_garfield_county,True
+1046,arkansas,garland,05,05051,arkansas_garland_county,True
+1047,kentucky,garrard,21,21079,kentucky_garrard_county,True
+1048,maryland,garrett,24,24023,maryland_garrett_county,True
+1049,oklahoma,garvin,40,40049,oklahoma_garvin_county,True
+1050,texas,garza,48,48169,texas_garza_county,True
+1051,missouri,gasconade,29,29073,missouri_gasconade_county,True
+1052,north carolina,gaston,37,37071,north_carolina_gaston_county,True
+1053,north carolina,gates,37,37073,north_carolina_gates_county,True
+1054,kansas,geary,20,20061,kansas_geary_county,True
+1055,ohio,geauga,39,39055,ohio_geauga_county,True
+1056,idaho,gem,16,16045,idaho_gem_county,True
+1057,new york,genesee,36,36037,new_york_genesee_county,True
+1058,michigan,genesee,26,26049,michigan_genesee_county,True
+1059,alabama,geneva,01,01061,alabama_geneva_county,True
+1060,missouri,gentry,29,29075,missouri_gentry_county,True
+1061,mississippi,george,28,28039,mississippi_george_county,True
+1062,south carolina,georgetown,45,45043,south_carolina_georgetown_county,True
+1063,indiana,gibson,18,18051,indiana_gibson_county,True
+1064,tennessee,gibson,47,47053,tennessee_gibson_county,True
+1065,arizona,gila,04,04007,arizona_gila_county,True
+1066,florida,gilchrist,12,12041,florida_gilchrist_county,True
+1067,virginia,giles,51,51071,virginia_giles_county,True
+1068,tennessee,giles,47,47055,tennessee_giles_county,True
+1069,texas,gillespie,48,48171,texas_gillespie_county,True
+1070,oregon,gilliam,41,41021,oregon_gilliam_county,True
+1071,georgia,gilmer,13,13123,georgia_gilmer_county,True
+1072,west virginia,gilmer,54,54021,west_virginia_gilmer_county,True
+1073,colorado,gilpin,08,08047,colorado_gilpin_county,True
+1074,montana,glacier,30,30035,montana_glacier_county,True
+1075,florida,glades,12,12043,florida_glades_county,True
+1076,michigan,gladwin,26,26051,michigan_gladwin_county,True
+1077,georgia,glascock,13,13125,georgia_glascock_county,True
+1078,texas,glasscock,48,48173,texas_glasscock_county,True
+1079,california,glenn,06,06021,california_glenn_county,True
+1080,virginia,gloucester,51,51073,virginia_gloucester_county,True
+1081,new jersey,gloucester,34,34015,new_jersey_gloucester_county,True
+1082,georgia,glynn,13,13127,georgia_glynn_county,True
+1083,michigan,gogebic,26,26053,michigan_gogebic_county,True
+1084,montana,golden valley,30,30037,montana_golden_valley_county,True
+1085,north dakota,golden valley,38,38033,north_dakota_golden_valley_county,True
+1086,texas,goliad,48,48175,texas_goliad_county,True
+1087,texas,gonzales,48,48177,texas_gonzales_county,True
+1088,virginia,goochland,51,51075,virginia_goochland_county,True
+1089,minnesota,goodhue,27,27049,minnesota_goodhue_county,True
+1090,idaho,gooding,16,16047,idaho_gooding_county,True
+1091,georgia,gordon,13,13129,georgia_gordon_county,True
+1092,wyoming,goshen,56,56015,wyoming_goshen_county,True
+1093,nebraska,gosper,31,31073,nebraska_gosper_county,True
+1094,kansas,gove,20,20063,kansas_gove_county,True
+1095,oklahoma,grady,40,40051,oklahoma_grady_county,True
+1096,georgia,grady,13,13131,georgia_grady_county,True
+1097,new hampshire,grafton,33,33009,new_hampshire_grafton_county,True
+1098,arizona,graham,04,04009,arizona_graham_county,True
+1099,kansas,graham,20,20065,kansas_graham_county,True
+1100,north carolina,graham,37,37075,north_carolina_graham_county,True
+1101,tennessee,grainger,47,47057,tennessee_grainger_county,True
+1102,utah,grand,49,49019,utah_grand_county,True
+1103,colorado,grand,08,08049,colorado_grand_county,True
+1104,north dakota,grand forks,38,38035,north_dakota_grand_forks_county,True
+1105,vermont,grand isle,50,50013,vermont_grand_isle_county,True
+1106,michigan,grand traverse,26,26055,michigan_grand_traverse_county,True
+1107,montana,granite,30,30039,montana_granite_county,True
+1108,oklahoma,grant,40,40053,oklahoma_grant_county,True
+1109,kentucky,grant,21,21081,kentucky_grant_county,True
+1110,west virginia,grant,54,54023,west_virginia_grant_county,True
+1111,new mexico,grant,35,35017,new_mexico_grant_county,True
+1112,minnesota,grant,27,27051,minnesota_grant_county,True
+1113,south dakota,grant,46,46051,south_dakota_grant_county,True
+1114,north dakota,grant,38,38037,north_dakota_grant_county,True
+1115,louisiana,grant,22,22043,louisiana_grant_county,False
+1116,oregon,grant,41,41023,oregon_grant_county,True
+1117,arkansas,grant,05,05053,arkansas_grant_county,True
+1118,kansas,grant,20,20067,kansas_grant_county,True
+1119,washington,grant,53,53025,washington_grant_county,True
+1120,indiana,grant,18,18053,indiana_grant_county,True
+1121,wisconsin,grant,55,55043,wisconsin_grant_county,True
+1122,nebraska,grant,31,31075,nebraska_grant_county,True
+1123,north carolina,granville,37,37077,north_carolina_granville_county,True
+1124,michigan,gratiot,26,26057,michigan_gratiot_county,True
+1125,kentucky,graves,21,21083,kentucky_graves_county,True
+1126,texas,gray,48,48179,texas_gray_county,True
+1127,kansas,gray,20,20069,kansas_gray_county,True
+1128,washington,grays harbor,53,53027,washington_grays_harbor_county,True
+1129,virginia,grayson,51,51077,virginia_grayson_county,True
+1130,kentucky,grayson,21,21085,kentucky_grayson_county,True
+1131,texas,grayson,48,48181,texas_grayson_county,True
+1132,nebraska,greeley,31,31077,nebraska_greeley_county,True
+1133,kansas,greeley,20,20071,kansas_greeley_county,True
+1134,kentucky,green,21,21087,kentucky_green_county,True
+1135,wisconsin,green,55,55045,wisconsin_green_county,True
+1136,west virginia,greenbrier,54,54025,west_virginia_greenbrier_county,True
+1137,new york,greene,36,36039,new_york_greene_county,True
+1138,ohio,greene,39,39057,ohio_greene_county,True
+1139,arkansas,greene,05,05055,arkansas_greene_county,True
+1140,pennsylvania,greene,42,42059,pennsylvania_greene_county,True
+1141,tennessee,greene,47,47059,tennessee_greene_county,True
+1142,iowa,greene,19,19073,iowa_greene_county,True
+1143,georgia,greene,13,13133,georgia_greene_county,True
+1144,missouri,greene,29,29077,missouri_greene_county,True
+1145,virginia,greene,51,51079,virginia_greene_county,True
+1146,alabama,greene,01,01063,alabama_greene_county,False
+1147,illinois,greene,17,17061,illinois_greene_county,True
+1148,mississippi,greene,28,28041,mississippi_greene_county,True
+1149,north carolina,greene,37,37079,north_carolina_greene_county,True
+1150,indiana,greene,18,18055,indiana_greene_county,True
+1151,wisconsin,green lake,55,55047,wisconsin_green_lake_county,True
+1152,arizona,greenlee,04,04011,arizona_greenlee_county,True
+1153,virginia,greensville,51,51081,virginia_greensville_county,True
+1154,kentucky,greenup,21,21089,kentucky_greenup_county,True
+1155,south carolina,greenville,45,45045,south_carolina_greenville_county,True
+1156,south carolina,greenwood,45,45047,south_carolina_greenwood_county,True
+1157,kansas,greenwood,20,20073,kansas_greenwood_county,True
+1158,oklahoma,greer,40,40055,oklahoma_greer_county,True
+1159,texas,gregg,48,48183,texas_gregg_county,True
+1160,south dakota,gregory,46,46053,south_dakota_gregory_county,True
+1161,mississippi,grenada,28,28043,mississippi_grenada_county,True
+1162,north dakota,griggs,38,38039,north_dakota_griggs_county,True
+1163,texas,grimes,48,48185,texas_grimes_county,True
+1164,iowa,grundy,19,19075,iowa_grundy_county,True
+1165,missouri,grundy,29,29079,missouri_grundy_county,True
+1166,illinois,grundy,17,17063,illinois_grundy_county,True
+1167,tennessee,grundy,47,47061,tennessee_grundy_county,True
+1168,new mexico,guadalupe,35,35019,new_mexico_guadalupe_county,True
+1169,texas,guadalupe,48,48187,texas_guadalupe_county,True
+1170,guam,guam,66,66010,guam_guam_county,True
+1171,puerto rico,guánica,72,72055,puerto_rico_guánica_county,True
+1172,puerto rico,guayama,72,72057,puerto_rico_guayama_county,True
+1173,puerto rico,guayanilla,72,72059,puerto_rico_guayanilla_county,True
+1174,puerto rico,guaynabo,72,72061,puerto_rico_guaynabo_county,True
+1175,ohio,guernsey,39,39059,ohio_guernsey_county,True
+1176,north carolina,guilford,37,37081,north_carolina_guilford_county,True
+1177,florida,gulf,12,12045,florida_gulf_county,True
+1178,colorado,gunnison,08,08051,colorado_gunnison_county,True
+1179,puerto rico,gurabo,72,72063,puerto_rico_gurabo_county,True
+1180,iowa,guthrie,19,19077,iowa_guthrie_county,True
+1181,georgia,gwinnett,13,13135,georgia_gwinnett_county,True
+1182,south dakota,haakon,46,46055,south_dakota_haakon_county,True
+1183,georgia,habersham,13,13137,georgia_habersham_county,True
+1184,alaska,haines,02,02100,alaska_haines_county,True
+1185,texas,hale,48,48189,texas_hale_county,True
+1186,alabama,hale,01,01065,alabama_hale_county,True
+1187,virginia,halifax,51,51083,virginia_halifax_county,True
+1188,north carolina,halifax,37,37083,north_carolina_halifax_county,True
+1189,texas,hall,48,48191,texas_hall_county,True
+1190,nebraska,hall,31,31079,nebraska_hall_county,True
+1191,georgia,hall,13,13139,georgia_hall_county,True
+1192,tennessee,hamblen,47,47063,tennessee_hamblen_county,True
+1193,ohio,hamilton,39,39061,ohio_hamilton_county,True
+1194,texas,hamilton,48,48193,texas_hamilton_county,True
+1195,florida,hamilton,12,12047,florida_hamilton_county,True
+1196,nebraska,hamilton,31,31081,nebraska_hamilton_county,True
+1197,iowa,hamilton,19,19079,iowa_hamilton_county,True
+1198,new york,hamilton,36,36041,new_york_hamilton_county,True
+1199,tennessee,hamilton,47,47065,tennessee_hamilton_county,True
+1200,indiana,hamilton,18,18057,indiana_hamilton_county,True
+1201,kansas,hamilton,20,20075,kansas_hamilton_county,True
+1202,illinois,hamilton,17,17065,illinois_hamilton_county,True
+1203,south dakota,hamlin,46,46057,south_dakota_hamlin_county,True
+1204,massachusetts,hampden,25,25013,massachusetts_hampden_county,True
+1205,west virginia,hampshire,54,54027,west_virginia_hampshire_county,True
+1206,massachusetts,hampshire,25,25015,massachusetts_hampshire_county,True
+1207,virginia,hampton,51,51650,virginia_hampton_county,True
+1208,south carolina,hampton,45,45049,south_carolina_hampton_county,True
+1209,west virginia,hancock,54,54029,west_virginia_hancock_county,True
+1210,mississippi,hancock,28,28045,mississippi_hancock_county,True
+1211,iowa,hancock,19,19081,iowa_hancock_county,True
+1212,illinois,hancock,17,17067,illinois_hancock_county,True
+1213,ohio,hancock,39,39063,ohio_hancock_county,True
+1214,georgia,hancock,13,13141,georgia_hancock_county,False
+1215,kentucky,hancock,21,21091,kentucky_hancock_county,True
+1216,maine,hancock,23,23009,maine_hancock_county,True
+1217,indiana,hancock,18,18059,indiana_hancock_county,True
+1218,tennessee,hancock,47,47067,tennessee_hancock_county,False
+1219,south dakota,hand,46,46059,south_dakota_hand_county,True
+1220,virginia,hanover,51,51085,virginia_hanover_county,True
+1221,texas,hansford,48,48195,texas_hansford_county,True
+1222,south dakota,hanson,46,46061,south_dakota_hanson_county,True
+1223,georgia,haralson,13,13143,georgia_haralson_county,True
+1224,florida,hardee,12,12049,florida_hardee_county,True
+1225,tennessee,hardeman,47,47069,tennessee_hardeman_county,True
+1226,texas,hardeman,48,48197,texas_hardeman_county,True
+1227,iowa,hardin,19,19083,iowa_hardin_county,True
+1228,illinois,hardin,17,17069,illinois_hardin_county,True
+1229,ohio,hardin,39,39065,ohio_hardin_county,True
+1230,texas,hardin,48,48199,texas_hardin_county,True
+1231,kentucky,hardin,21,21093,kentucky_hardin_county,True
+1232,tennessee,hardin,47,47071,tennessee_hardin_county,True
+1233,south dakota,harding,46,46063,south_dakota_harding_county,True
+1234,new mexico,harding,35,35021,new_mexico_harding_county,True
+1235,west virginia,hardy,54,54031,west_virginia_hardy_county,False
+1236,maryland,harford,24,24025,maryland_harford_county,True
+1237,kentucky,harlan,21,21095,kentucky_harlan_county,True
+1238,nebraska,harlan,31,31083,nebraska_harlan_county,True
+1239,oklahoma,harmon,40,40057,oklahoma_harmon_county,True
+1240,north carolina,harnett,37,37085,north_carolina_harnett_county,True
+1241,oregon,harney,41,41025,oregon_harney_county,True
+1242,oklahoma,harper,40,40059,oklahoma_harper_county,True
+1243,kansas,harper,20,20077,kansas_harper_county,True
+1244,texas,harris,48,48201,texas_harris_county,True
+1245,georgia,harris,13,13145,georgia_harris_county,True
+1246,ohio,harrison,39,39067,ohio_harrison_county,True
+1247,iowa,harrison,19,19085,iowa_harrison_county,True
+1248,west virginia,harrison,54,54033,west_virginia_harrison_county,True
+1249,indiana,harrison,18,18061,indiana_harrison_county,True
+1250,missouri,harrison,29,29081,missouri_harrison_county,True
+1251,texas,harrison,48,48203,texas_harrison_county,True
+1252,kentucky,harrison,21,21097,kentucky_harrison_county,True
+1253,mississippi,harrison,28,28047,mississippi_harrison_county,True
+1254,virginia,harrisonburg,51,51660,virginia_harrisonburg_county,True
+1255,georgia,hart,13,13147,georgia_hart_county,True
+1256,kentucky,hart,21,21099,kentucky_hart_county,True
+1257,connecticut,hartford,09,09003,connecticut_hartford_county,True
+1258,texas,hartley,48,48205,texas_hartley_county,True
+1259,kansas,harvey,20,20079,kansas_harvey_county,True
+1260,kansas,haskell,20,20081,kansas_haskell_county,True
+1261,oklahoma,haskell,40,40061,oklahoma_haskell_county,True
+1262,texas,haskell,48,48207,texas_haskell_county,True
+1263,puerto rico,hatillo,72,72065,puerto_rico_hatillo_county,True
+1264,hawaii,hawaii,15,15001,hawaii_hawaii_county,True
+1265,tennessee,hawkins,47,47073,tennessee_hawkins_county,True
+1266,nebraska,hayes,31,31085,nebraska_hayes_county,True
+1267,texas,hays,48,48209,texas_hays_county,True
+1268,tennessee,haywood,47,47075,tennessee_haywood_county,True
+1269,north carolina,haywood,37,37087,north_carolina_haywood_county,True
+1270,georgia,heard,13,13149,georgia_heard_county,True
+1271,texas,hemphill,48,48211,texas_hemphill_county,True
+1272,arkansas,hempstead,05,05057,arkansas_hempstead_county,True
+1273,kentucky,henderson,21,21101,kentucky_henderson_county,True
+1274,tennessee,henderson,47,47077,tennessee_henderson_county,True
+1275,illinois,henderson,17,17071,illinois_henderson_county,True
+1276,north carolina,henderson,37,37089,north_carolina_henderson_county,True
+1277,texas,henderson,48,48213,texas_henderson_county,True
+1278,indiana,hendricks,18,18063,indiana_hendricks_county,True
+1279,florida,hendry,12,12051,florida_hendry_county,True
+1280,minnesota,hennepin,27,27053,minnesota_hennepin_county,True
+1281,virginia,henrico,51,51087,virginia_henrico_county,True
+1282,missouri,henry,29,29083,missouri_henry_county,True
+1283,kentucky,henry,21,21103,kentucky_henry_county,True
+1284,indiana,henry,18,18065,indiana_henry_county,True
+1285,iowa,henry,19,19087,iowa_henry_county,True
+1286,virginia,henry,51,51089,virginia_henry_county,True
+1287,ohio,henry,39,39069,ohio_henry_county,True
+1288,tennessee,henry,47,47079,tennessee_henry_county,True
+1289,alabama,henry,01,01067,alabama_henry_county,True
+1290,georgia,henry,13,13151,georgia_henry_county,True
+1291,illinois,henry,17,17073,illinois_henry_county,True
+1292,new york,herkimer,36,36043,new_york_herkimer_county,True
+1293,florida,hernando,12,12053,florida_hernando_county,True
+1294,north carolina,hertford,37,37091,north_carolina_hertford_county,True
+1295,north dakota,hettinger,38,38041,north_dakota_hettinger_county,True
+1296,tennessee,hickman,47,47081,tennessee_hickman_county,True
+1297,kentucky,hickman,21,21105,kentucky_hickman_county,True
+1298,missouri,hickory,29,29085,missouri_hickory_county,False
+1299,texas,hidalgo,48,48215,texas_hidalgo_county,True
+1300,new mexico,hidalgo,35,35023,new_mexico_hidalgo_county,True
+1301,virginia,highland,51,51091,virginia_highland_county,True
+1302,ohio,highland,39,39071,ohio_highland_county,True
+1303,florida,highlands,12,12055,florida_highlands_county,True
+1304,texas,hill,48,48217,texas_hill_county,True
+1305,montana,hill,30,30041,montana_hill_county,True
+1306,florida,hillsborough,12,12057,florida_hillsborough_county,True
+1307,new hampshire,hillsborough,33,33011,new_hampshire_hillsborough_county,True
+1308,michigan,hillsdale,26,26059,michigan_hillsdale_county,True
+1309,mississippi,hinds,28,28049,mississippi_hinds_county,True
+1310,colorado,hinsdale,08,08053,colorado_hinsdale_county,True
+1311,nebraska,hitchcock,31,31087,nebraska_hitchcock_county,True
+1312,ohio,hocking,39,39073,ohio_hocking_county,True
+1313,texas,hockley,48,48219,texas_hockley_county,True
+1314,kansas,hodgeman,20,20083,kansas_hodgeman_county,True
+1315,north carolina,hoke,37,37093,north_carolina_hoke_county,True
+1316,mississippi,holmes,28,28051,mississippi_holmes_county,True
+1317,florida,holmes,12,12059,florida_holmes_county,True
+1318,ohio,holmes,39,39075,ohio_holmes_county,True
+1319,nebraska,holt,31,31089,nebraska_holt_county,True
+1320,missouri,holt,29,29087,missouri_holt_county,True
+1321,hawaii,honolulu,15,15003,hawaii_honolulu_county,True
+1322,texas,hood,48,48221,texas_hood_county,True
+1323,oregon,hood river,41,41027,oregon_hood_river_county,True
+1324,nebraska,hooker,31,31091,nebraska_hooker_county,True
+1325,alaska,hoonah-angoon,02,02105,alaska_hoonah-angoon_county,False
+1326,virginia,hopewell,51,51670,virginia_hopewell_county,True
+1327,kentucky,hopkins,21,21107,kentucky_hopkins_county,True
+1328,texas,hopkins,48,48223,texas_hopkins_county,True
+1329,puerto rico,hormigueros,72,72067,puerto_rico_hormigueros_county,True
+1330,south carolina,horry,45,45051,south_carolina_horry_county,True
+1331,arkansas,hot spring,05,05059,arkansas_hot_spring_county,True
+1332,wyoming,hot springs,56,56017,wyoming_hot_springs_county,True
+1333,michigan,houghton,26,26061,michigan_houghton_county,True
+1334,texas,houston,48,48225,texas_houston_county,False
+1335,tennessee,houston,47,47083,tennessee_houston_county,True
+1336,minnesota,houston,27,27055,minnesota_houston_county,True
+1337,georgia,houston,13,13153,georgia_houston_county,True
+1338,alabama,houston,01,01069,alabama_houston_county,True
+1339,missouri,howard,29,29089,missouri_howard_county,True
+1340,iowa,howard,19,19089,iowa_howard_county,True
+1341,indiana,howard,18,18067,indiana_howard_county,True
+1342,maryland,howard,24,24027,maryland_howard_county,True
+1343,texas,howard,48,48227,texas_howard_county,True
+1344,arkansas,howard,05,05061,arkansas_howard_county,True
+1345,nebraska,howard,31,31093,nebraska_howard_county,True
+1346,missouri,howell,29,29091,missouri_howell_county,True
+1347,minnesota,hubbard,27,27057,minnesota_hubbard_county,True
+1348,new jersey,hudson,34,34017,new_jersey_hudson_county,True
+1349,texas,hudspeth,48,48229,texas_hudspeth_county,True
+1350,colorado,huerfano,08,08055,colorado_huerfano_county,True
+1351,south dakota,hughes,46,46065,south_dakota_hughes_county,True
+1352,oklahoma,hughes,40,40063,oklahoma_hughes_county,True
+1353,puerto rico,humacao,72,72069,puerto_rico_humacao_county,True
+1354,california,humboldt,06,06023,california_humboldt_county,True
+1355,nevada,humboldt,32,32013,nevada_humboldt_county,True
+1356,iowa,humboldt,19,19091,iowa_humboldt_county,True
+1357,tennessee,humphreys,47,47085,tennessee_humphreys_county,True
+1358,mississippi,humphreys,28,28053,mississippi_humphreys_county,True
+1359,texas,hunt,48,48231,texas_hunt_county,True
+1360,new jersey,hunterdon,34,34019,new_jersey_hunterdon_county,True
+1361,pennsylvania,huntingdon,42,42061,pennsylvania_huntingdon_county,True
+1362,indiana,huntington,18,18069,indiana_huntington_county,True
+1363,ohio,huron,39,39077,ohio_huron_county,True
+1364,michigan,huron,26,26063,michigan_huron_county,True
+1365,texas,hutchinson,48,48233,texas_hutchinson_county,True
+1366,south dakota,hutchinson,46,46067,south_dakota_hutchinson_county,True
+1367,north carolina,hyde,37,37095,north_carolina_hyde_county,True
+1368,south dakota,hyde,46,46069,south_dakota_hyde_county,True
+1369,louisiana,iberia,22,22045,louisiana_iberia_county,True
+1370,louisiana,iberville,22,22047,louisiana_iberville_county,True
+1371,iowa,ida,19,19093,iowa_ida_county,True
+1372,idaho,idaho,16,16049,idaho_idaho_county,True
+1373,california,imperial,06,06025,california_imperial_county,True
+1374,arkansas,independence,05,05063,arkansas_independence_county,True
+1375,pennsylvania,indiana,42,42063,pennsylvania_indiana_county,True
+1376,florida,indian river,12,12061,florida_indian_river_county,True
+1377,michigan,ingham,26,26065,michigan_ingham_county,True
+1378,california,inyo,06,06027,california_inyo_county,True
+1379,michigan,ionia,26,26067,michigan_ionia_county,True
+1380,michigan,iosco,26,26069,michigan_iosco_county,True
+1381,iowa,iowa,19,19095,iowa_iowa_county,True
+1382,wisconsin,iowa,55,55049,wisconsin_iowa_county,True
+1383,north carolina,iredell,37,37097,north_carolina_iredell_county,True
+1384,texas,irion,48,48235,texas_irion_county,True
+1385,utah,iron,49,49021,utah_iron_county,True
+1386,wisconsin,iron,55,55051,wisconsin_iron_county,True
+1387,missouri,iron,29,29093,missouri_iron_county,True
+1388,michigan,iron,26,26071,michigan_iron_county,True
+1389,illinois,iroquois,17,17075,illinois_iroquois_county,True
+1390,georgia,irwin,13,13155,georgia_irwin_county,True
+1391,puerto rico,isabela,72,72071,puerto_rico_isabela_county,True
+1392,michigan,isabella,26,26073,michigan_isabella_county,True
+1393,minnesota,isanti,27,27059,minnesota_isanti_county,True
+1394,washington,island,53,53029,washington_island_county,True
+1395,virginia,isle of wight,51,51093,virginia_isle_of_wight_county,True
+1396,mississippi,issaquena,28,28055,mississippi_issaquena_county,False
+1397,minnesota,itasca,27,27061,minnesota_itasca_county,True
+1398,mississippi,itawamba,28,28057,mississippi_itawamba_county,True
+1399,arkansas,izard,05,05065,arkansas_izard_county,True
+1400,texas,jack,48,48237,texas_jack_county,True
+1401,texas,jackson,48,48239,texas_jackson_county,True
+1402,michigan,jackson,26,26075,michigan_jackson_county,True
+1403,illinois,jackson,17,17077,illinois_jackson_county,True
+1404,south dakota,jackson,46,46071,south_dakota_jackson_county,True
+1405,minnesota,jackson,27,27063,minnesota_jackson_county,True
+1406,georgia,jackson,13,13157,georgia_jackson_county,True
+1407,west virginia,jackson,54,54035,west_virginia_jackson_county,True
+1408,tennessee,jackson,47,47087,tennessee_jackson_county,True
+1409,oregon,jackson,41,41029,oregon_jackson_county,True
+1410,louisiana,jackson,22,22049,louisiana_jackson_county,False
+1411,indiana,jackson,18,18071,indiana_jackson_county,True
+1412,wisconsin,jackson,55,55053,wisconsin_jackson_county,True
+1413,north carolina,jackson,37,37099,north_carolina_jackson_county,True
+1414,ohio,jackson,39,39079,ohio_jackson_county,True
+1415,missouri,jackson,29,29095,missouri_jackson_county,True
+1416,alabama,jackson,01,01071,alabama_jackson_county,True
+1417,florida,jackson,12,12063,florida_jackson_county,True
+1418,kansas,jackson,20,20085,kansas_jackson_county,True
+1419,arkansas,jackson,05,05067,arkansas_jackson_county,True
+1420,iowa,jackson,19,19097,iowa_jackson_county,True
+1421,mississippi,jackson,28,28059,mississippi_jackson_county,True
+1422,oklahoma,jackson,40,40065,oklahoma_jackson_county,True
+1423,kentucky,jackson,21,21109,kentucky_jackson_county,True
+1424,colorado,jackson,08,08057,colorado_jackson_county,False
+1425,virginia,james city,51,51095,virginia_james_city_county,True
+1426,illinois,jasper,17,17079,illinois_jasper_county,True
+1427,texas,jasper,48,48241,texas_jasper_county,False
+1428,south carolina,jasper,45,45053,south_carolina_jasper_county,True
+1429,iowa,jasper,19,19099,iowa_jasper_county,True
+1430,indiana,jasper,18,18073,indiana_jasper_county,True
+1431,mississippi,jasper,28,28061,mississippi_jasper_county,True
+1432,georgia,jasper,13,13159,georgia_jasper_county,True
+1433,missouri,jasper,29,29097,missouri_jasper_county,True
+1434,indiana,jay,18,18075,indiana_jay_county,True
+1435,puerto rico,jayuya,72,72073,puerto_rico_jayuya_county,True
+1436,georgia,jeff davis,13,13161,georgia_jeff_davis_county,True
+1437,texas,jeff davis,48,48243,texas_jeff_davis_county,True
+1438,texas,jefferson,48,48245,texas_jefferson_county,True
+1439,nebraska,jefferson,31,31095,nebraska_jefferson_county,True
+1440,idaho,jefferson,16,16051,idaho_jefferson_county,True
+1441,ohio,jefferson,39,39081,ohio_jefferson_county,True
+1442,washington,jefferson,53,53031,washington_jefferson_county,True
+1443,indiana,jefferson,18,18077,indiana_jefferson_county,True
+1444,louisiana,jefferson,22,22051,louisiana_jefferson_county,True
+1445,oregon,jefferson,41,41031,oregon_jefferson_county,True
+1446,illinois,jefferson,17,17081,illinois_jefferson_county,True
+1447,colorado,jefferson,08,08059,colorado_jefferson_county,True
+1448,arkansas,jefferson,05,05069,arkansas_jefferson_county,True
+1449,georgia,jefferson,13,13163,georgia_jefferson_county,True
+1450,new york,jefferson,36,36045,new_york_jefferson_county,True
+1451,wisconsin,jefferson,55,55055,wisconsin_jefferson_county,True
+1452,iowa,jefferson,19,19101,iowa_jefferson_county,True
+1453,tennessee,jefferson,47,47089,tennessee_jefferson_county,True
+1454,mississippi,jefferson,28,28063,mississippi_jefferson_county,False
+1455,montana,jefferson,30,30043,montana_jefferson_county,True
+1456,alabama,jefferson,01,01073,alabama_jefferson_county,True
+1457,oklahoma,jefferson,40,40067,oklahoma_jefferson_county,True
+1458,kansas,jefferson,20,20087,kansas_jefferson_county,True
+1459,kentucky,jefferson,21,21111,kentucky_jefferson_county,True
+1460,west virginia,jefferson,54,54037,west_virginia_jefferson_county,True
+1461,florida,jefferson,12,12065,florida_jefferson_county,True
+1462,missouri,jefferson,29,29099,missouri_jefferson_county,True
+1463,pennsylvania,jefferson,42,42065,pennsylvania_jefferson_county,True
+1464,mississippi,jefferson davis,28,28065,mississippi_jefferson_davis_county,False
+1465,louisiana,jefferson davis,22,22053,louisiana_jefferson_davis_county,True
+1466,georgia,jenkins,13,13165,georgia_jenkins_county,True
+1467,indiana,jennings,18,18079,indiana_jennings_county,True
+1468,south dakota,jerauld,46,46073,south_dakota_jerauld_county,True
+1469,idaho,jerome,16,16053,idaho_jerome_county,True
+1470,illinois,jersey,17,17083,illinois_jersey_county,True
+1471,kentucky,jessamine,21,21113,kentucky_jessamine_county,True
+1472,kansas,jewell,20,20089,kansas_jewell_county,True
+1473,texas,jim hogg,48,48247,texas_jim_hogg_county,True
+1474,texas,jim wells,48,48249,texas_jim_wells_county,True
+1475,illinois,jo daviess,17,17085,illinois_jo_daviess_county,True
+1476,georgia,johnson,13,13167,georgia_johnson_county,True
+1477,arkansas,johnson,05,05071,arkansas_johnson_county,True
+1478,iowa,johnson,19,19103,iowa_johnson_county,True
+1479,nebraska,johnson,31,31097,nebraska_johnson_county,True
+1480,kentucky,johnson,21,21115,kentucky_johnson_county,True
+1481,missouri,johnson,29,29101,missouri_johnson_county,True
+1482,indiana,johnson,18,18081,indiana_johnson_county,True
+1483,illinois,johnson,17,17087,illinois_johnson_county,True
+1484,texas,johnson,48,48251,texas_johnson_county,True
+1485,wyoming,johnson,56,56019,wyoming_johnson_county,True
+1486,kansas,johnson,20,20091,kansas_johnson_county,True
+1487,tennessee,johnson,47,47091,tennessee_johnson_county,True
+1488,north carolina,johnston,37,37101,north_carolina_johnston_county,True
+1489,oklahoma,johnston,40,40069,oklahoma_johnston_county,True
+1490,texas,jones,48,48253,texas_jones_county,True
+1491,mississippi,jones,28,28067,mississippi_jones_county,True
+1492,north carolina,jones,37,37103,north_carolina_jones_county,True
+1493,iowa,jones,19,19105,iowa_jones_county,True
+1494,south dakota,jones,46,46075,south_dakota_jones_county,True
+1495,georgia,jones,13,13169,georgia_jones_county,True
+1496,oregon,josephine,41,41033,oregon_josephine_county,True
+1497,utah,juab,49,49023,utah_juab_county,True
+1498,puerto rico,juana díaz,72,72075,puerto_rico_juana_díaz_county,True
+1499,montana,judith basin,30,30045,montana_judith_basin_county,True
+1500,puerto rico,juncos,72,72077,puerto_rico_juncos_county,True
+1501,alaska,juneau,02,02110,alaska_juneau_county,True
+1502,wisconsin,juneau,55,55057,wisconsin_juneau_county,True
+1503,pennsylvania,juniata,42,42067,pennsylvania_juniata_county,True
+1504,michigan,kalamazoo,26,26077,michigan_kalamazoo_county,True
+1505,hawaii,kalawao,15,15005,hawaii_kalawao_county,True
+1506,michigan,kalkaska,26,26079,michigan_kalkaska_county,True
+1507,minnesota,kanabec,27,27065,minnesota_kanabec_county,True
+1508,west virginia,kanawha,54,54039,west_virginia_kanawha_county,True
+1509,minnesota,kandiyohi,27,27067,minnesota_kandiyohi_county,True
+1510,utah,kane,49,49025,utah_kane_county,True
+1511,illinois,kane,17,17089,illinois_kane_county,True
+1512,illinois,kankakee,17,17091,illinois_kankakee_county,True
+1513,texas,karnes,48,48255,texas_karnes_county,True
+1514,hawaii,kauai,15,15007,hawaii_kauai_county,True
+1515,texas,kaufman,48,48257,texas_kaufman_county,True
+1516,oklahoma,kay,40,40071,oklahoma_kay_county,True
+1517,nebraska,kearney,31,31099,nebraska_kearney_county,True
+1518,kansas,kearny,20,20093,kansas_kearny_county,True
+1519,nebraska,keith,31,31101,nebraska_keith_county,True
+1520,mississippi,kemper,28,28069,mississippi_kemper_county,True
+1521,alaska,kenai peninsula,02,02122,alaska_kenai_peninsula_county,True
+1522,texas,kendall,48,48259,texas_kendall_county,True
+1523,illinois,kendall,17,17093,illinois_kendall_county,True
+1524,texas,kenedy,48,48261,texas_kenedy_county,True
+1525,maine,kennebec,23,23011,maine_kennebec_county,True
+1526,wisconsin,kenosha,55,55059,wisconsin_kenosha_county,True
+1527,delaware,kent,10,10001,delaware_kent_county,True
+1528,maryland,kent,24,24029,maryland_kent_county,True
+1529,rhode island,kent,44,44003,rhode_island_kent_county,True
+1530,texas,kent,48,48263,texas_kent_county,True
+1531,michigan,kent,26,26081,michigan_kent_county,True
+1532,kentucky,kenton,21,21117,kentucky_kenton_county,True
+1533,iowa,keokuk,19,19107,iowa_keokuk_county,True
+1534,california,kern,06,06029,california_kern_county,True
+1535,texas,kerr,48,48265,texas_kerr_county,True
+1536,south carolina,kershaw,45,45055,south_carolina_kershaw_county,True
+1537,alaska,ketchikan gateway,02,02130,alaska_ketchikan_gateway_county,True
+1538,wisconsin,kewaunee,55,55061,wisconsin_kewaunee_county,True
+1539,michigan,keweenaw,26,26083,michigan_keweenaw_county,True
+1540,nebraska,keya paha,31,31103,nebraska_keya_paha_county,True
+1541,north dakota,kidder,38,38043,north_dakota_kidder_county,True
+1542,nebraska,kimball,31,31105,nebraska_kimball_county,True
+1543,texas,kimble,48,48267,texas_kimble_county,False
+1544,texas,king,48,48269,texas_king_county,True
+1545,washington,king,53,53033,washington_king_county,True
+1546,virginia,king and queen,51,51097,virginia_king_and_queen_county,True
+1547,oklahoma,kingfisher,40,40073,oklahoma_kingfisher_county,True
+1548,virginia,king george,51,51099,virginia_king_george_county,True
+1549,kansas,kingman,20,20095,kansas_kingman_county,True
+1550,new york,kings,36,36047,new_york_kings_county,True
+1551,california,kings,06,06031,california_kings_county,True
+1552,south dakota,kingsbury,46,46077,south_dakota_kingsbury_county,True
+1553,virginia,king william,51,51101,virginia_king_william_county,True
+1554,texas,kinney,48,48271,texas_kinney_county,True
+1555,kansas,kiowa,20,20097,kansas_kiowa_county,True
+1556,oklahoma,kiowa,40,40075,oklahoma_kiowa_county,True
+1557,colorado,kiowa,08,08061,colorado_kiowa_county,True
+1558,colorado,kit carson,08,08063,colorado_kit_carson_county,True
+1559,washington,kitsap,53,53035,washington_kitsap_county,True
+1560,washington,kittitas,53,53037,washington_kittitas_county,True
+1561,minnesota,kittson,27,27069,minnesota_kittson_county,True
+1562,oregon,klamath,41,41035,oregon_klamath_county,True
+1563,texas,kleberg,48,48273,texas_kleberg_county,True
+1564,washington,klickitat,53,53039,washington_klickitat_county,True
+1565,kentucky,knott,21,21119,kentucky_knott_county,True
+1566,kentucky,knox,21,21121,kentucky_knox_county,True
+1567,nebraska,knox,31,31107,nebraska_knox_county,True
+1568,maine,knox,23,23013,maine_knox_county,True
+1569,indiana,knox,18,18083,indiana_knox_county,True
+1570,missouri,knox,29,29103,missouri_knox_county,True
+1571,texas,knox,48,48275,texas_knox_county,True
+1572,ohio,knox,39,39083,ohio_knox_county,True
+1573,illinois,knox,17,17095,illinois_knox_county,True
+1574,tennessee,knox,47,47093,tennessee_knox_county,True
+1575,alaska,kodiak island,02,02150,alaska_kodiak_island_county,True
+1576,minnesota,koochiching,27,27071,minnesota_koochiching_county,True
+1577,idaho,kootenai,16,16055,idaho_kootenai_county,True
+1578,indiana,kosciusko,18,18085,indiana_kosciusko_county,True
+1579,iowa,kossuth,19,19109,iowa_kossuth_county,True
+1580,kansas,labette,20,20099,kansas_labette_county,True
+1581,pennsylvania,lackawanna,42,42069,pennsylvania_lackawanna_county,True
+1582,missouri,laclede,29,29105,missouri_laclede_county,True
+1583,minnesota,lac qui parle,27,27073,minnesota_lac_qui_parle_county,True
+1584,wisconsin,la crosse,55,55063,wisconsin_la_crosse_county,True
+1585,mississippi,lafayette,28,28071,mississippi_lafayette_county,True
+1586,wisconsin,lafayette,55,55065,wisconsin_lafayette_county,True
+1587,arkansas,lafayette,05,05073,arkansas_lafayette_county,True
+1588,louisiana,lafayette,22,22055,louisiana_lafayette_county,True
+1589,missouri,lafayette,29,29107,missouri_lafayette_county,True
+1590,florida,lafayette,12,12067,florida_lafayette_county,True
+1591,louisiana,lafourche,22,22057,louisiana_lafourche_county,True
+1592,indiana,lagrange,18,18087,indiana_lagrange_county,True
+1593,puerto rico,lajas,72,72079,puerto_rico_lajas_county,True
+1594,california,lake,06,06033,california_lake_county,True
+1595,south dakota,lake,46,46079,south_dakota_lake_county,True
+1596,florida,lake,12,12069,florida_lake_county,True
+1597,montana,lake,30,30047,montana_lake_county,True
+1598,ohio,lake,39,39085,ohio_lake_county,True
+1599,tennessee,lake,47,47095,tennessee_lake_county,True
+1600,illinois,lake,17,17097,illinois_lake_county,True
+1601,oregon,lake,41,41037,oregon_lake_county,True
+1602,colorado,lake,08,08065,colorado_lake_county,True
+1603,minnesota,lake,27,27075,minnesota_lake_county,True
+1604,indiana,lake,18,18089,indiana_lake_county,True
+1605,michigan,lake,26,26085,michigan_lake_county,True
+1606,alaska,lake and peninsula,02,02164,alaska_lake_and_peninsula_county,False
+1607,minnesota,lake of the woods,27,27077,minnesota_lake_of_the_woods_county,True
+1608,alabama,lamar,01,01075,alabama_lamar_county,True
+1609,texas,lamar,48,48277,texas_lamar_county,True
+1610,georgia,lamar,13,13171,georgia_lamar_county,True
+1611,mississippi,lamar,28,28073,mississippi_lamar_county,True
+1612,texas,lamb,48,48279,texas_lamb_county,True
+1613,vermont,lamoille,50,50015,vermont_lamoille_county,True
+1614,north dakota,lamoure,38,38045,north_dakota_lamoure_county,True
+1615,texas,lampasas,48,48281,texas_lampasas_county,True
+1616,pennsylvania,lancaster,42,42071,pennsylvania_lancaster_county,True
+1617,nebraska,lancaster,31,31109,nebraska_lancaster_county,True
+1618,south carolina,lancaster,45,45057,south_carolina_lancaster_county,True
+1619,virginia,lancaster,51,51103,virginia_lancaster_county,True
+1620,nevada,lander,32,32015,nevada_lander_county,True
+1621,oregon,lane,41,41039,oregon_lane_county,True
+1622,kansas,lane,20,20101,kansas_lane_county,True
+1623,wisconsin,langlade,55,55067,wisconsin_langlade_county,True
+1624,georgia,lanier,13,13173,georgia_lanier_county,True
+1625,arizona,la paz,04,04012,arizona_la_paz_county,True
+1626,michigan,lapeer,26,26087,michigan_lapeer_county,True
+1627,colorado,la plata,08,08067,colorado_la_plata_county,True
+1628,indiana,laporte,18,18091,indiana_laporte_county,True
+1629,wyoming,laramie,56,56021,wyoming_laramie_county,True
+1630,puerto rico,lares,72,72081,puerto_rico_lares_county,False
+1631,colorado,larimer,08,08069,colorado_larimer_county,True
+1632,kentucky,larue,21,21123,kentucky_larue_county,True
+1633,illinois,lasalle,17,17099,illinois_lasalle_county,True
+1634,louisiana,la salle,22,22059,louisiana_la_salle_county,True
+1635,texas,la salle,48,48283,texas_la_salle_county,True
+1636,colorado,las animas,08,08071,colorado_las_animas_county,True
+1637,puerto rico,las marías,72,72083,puerto_rico_las_marías_county,False
+1638,puerto rico,las piedras,72,72085,puerto_rico_las_piedras_county,True
+1639,california,lassen,06,06035,california_lassen_county,True
+1640,idaho,latah,16,16057,idaho_latah_county,True
+1641,oklahoma,latimer,40,40077,oklahoma_latimer_county,True
+1642,tennessee,lauderdale,47,47097,tennessee_lauderdale_county,True
+1643,mississippi,lauderdale,28,28075,mississippi_lauderdale_county,True
+1644,alabama,lauderdale,01,01077,alabama_lauderdale_county,True
+1645,kentucky,laurel,21,21125,kentucky_laurel_county,True
+1646,georgia,laurens,13,13175,georgia_laurens_county,True
+1647,south carolina,laurens,45,45059,south_carolina_laurens_county,True
+1648,texas,lavaca,48,48285,texas_lavaca_county,True
+1649,kentucky,lawrence,21,21127,kentucky_lawrence_county,True
+1650,alabama,lawrence,01,01079,alabama_lawrence_county,True
+1651,mississippi,lawrence,28,28077,mississippi_lawrence_county,True
+1652,tennessee,lawrence,47,47099,tennessee_lawrence_county,True
+1653,illinois,lawrence,17,17101,illinois_lawrence_county,True
+1654,arkansas,lawrence,05,05075,arkansas_lawrence_county,True
+1655,south dakota,lawrence,46,46081,south_dakota_lawrence_county,True
+1656,ohio,lawrence,39,39087,ohio_lawrence_county,True
+1657,pennsylvania,lawrence,42,42073,pennsylvania_lawrence_county,True
+1658,indiana,lawrence,18,18093,indiana_lawrence_county,True
+1659,missouri,lawrence,29,29109,missouri_lawrence_county,True
+1660,new mexico,lea,35,35025,new_mexico_lea_county,True
+1661,mississippi,leake,28,28079,mississippi_leake_county,True
+1662,kansas,leavenworth,20,20103,kansas_leavenworth_county,True
+1663,pennsylvania,lebanon,42,42075,pennsylvania_lebanon_county,True
+1664,north carolina,lee,37,37105,north_carolina_lee_county,True
+1665,georgia,lee,13,13177,georgia_lee_county,True
+1666,virginia,lee,51,51105,virginia_lee_county,True
+1667,florida,lee,12,12071,florida_lee_county,True
+1668,south carolina,lee,45,45061,south_carolina_lee_county,True
+1669,alabama,lee,01,01081,alabama_lee_county,True
+1670,arkansas,lee,05,05077,arkansas_lee_county,True
+1671,illinois,lee,17,17103,illinois_lee_county,True
+1672,texas,lee,48,48287,texas_lee_county,True
+1673,mississippi,lee,28,28081,mississippi_lee_county,True
+1674,kentucky,lee,21,21129,kentucky_lee_county,False
+1675,iowa,lee,19,19111,iowa_lee_county,True
+1676,michigan,leelanau,26,26089,michigan_leelanau_county,True
+1677,mississippi,leflore,28,28083,mississippi_leflore_county,True
+1678,oklahoma,le flore,40,40079,oklahoma_le_flore_county,True
+1679,pennsylvania,lehigh,42,42077,pennsylvania_lehigh_county,True
+1680,idaho,lemhi,16,16059,idaho_lemhi_county,True
+1681,michigan,lenawee,26,26091,michigan_lenawee_county,True
+1682,north carolina,lenoir,37,37107,north_carolina_lenoir_county,True
+1683,texas,leon,48,48289,texas_leon_county,False
+1684,florida,leon,12,12073,florida_leon_county,True
+1685,kentucky,leslie,21,21131,kentucky_leslie_county,True
+1686,minnesota,le sueur,27,27079,minnesota_le_sueur_county,True
+1687,kentucky,letcher,21,21133,kentucky_letcher_county,True
+1688,florida,levy,12,12075,florida_levy_county,True
+1689,new york,lewis,36,36049,new_york_lewis_county,True
+1690,tennessee,lewis,47,47101,tennessee_lewis_county,True
+1691,washington,lewis,53,53041,washington_lewis_county,True
+1692,kentucky,lewis,21,21135,kentucky_lewis_county,True
+1693,missouri,lewis,29,29111,missouri_lewis_county,True
+1694,idaho,lewis,16,16061,idaho_lewis_county,True
+1695,west virginia,lewis,54,54041,west_virginia_lewis_county,True
+1696,montana,lewis and clark,30,30049,montana_lewis_and_clark_county,True
+1697,south carolina,lexington,45,45063,south_carolina_lexington_county,True
+1698,virginia,lexington,51,51678,virginia_lexington_county,True
+1699,montana,liberty,30,30051,montana_liberty_county,True
+1700,texas,liberty,48,48291,texas_liberty_county,True
+1701,georgia,liberty,13,13179,georgia_liberty_county,True
+1702,florida,liberty,12,12077,florida_liberty_county,True
+1703,ohio,licking,39,39089,ohio_licking_county,True
+1704,alabama,limestone,01,01083,alabama_limestone_county,True
+1705,texas,limestone,48,48293,texas_limestone_county,True
+1706,mississippi,lincoln,28,28085,mississippi_lincoln_county,True
+1707,kansas,lincoln,20,20105,kansas_lincoln_county,True
+1708,kentucky,lincoln,21,21137,kentucky_lincoln_county,True
+1709,louisiana,lincoln,22,22061,louisiana_lincoln_county,True
+1710,maine,lincoln,23,23015,maine_lincoln_county,True
+1711,idaho,lincoln,16,16063,idaho_lincoln_county,True
+1712,washington,lincoln,53,53043,washington_lincoln_county,True
+1713,georgia,lincoln,13,13181,georgia_lincoln_county,True
+1714,minnesota,lincoln,27,27081,minnesota_lincoln_county,True
+1715,tennessee,lincoln,47,47103,tennessee_lincoln_county,True
+1716,west virginia,lincoln,54,54043,west_virginia_lincoln_county,True
+1717,missouri,lincoln,29,29113,missouri_lincoln_county,True
+1718,south dakota,lincoln,46,46083,south_dakota_lincoln_county,True
+1719,montana,lincoln,30,30053,montana_lincoln_county,True
+1720,colorado,lincoln,08,08073,colorado_lincoln_county,True
+1721,nebraska,lincoln,31,31111,nebraska_lincoln_county,True
+1722,wisconsin,lincoln,55,55069,wisconsin_lincoln_county,True
+1723,nevada,lincoln,32,32017,nevada_lincoln_county,True
+1724,new mexico,lincoln,35,35027,new_mexico_lincoln_county,True
+1725,wyoming,lincoln,56,56023,wyoming_lincoln_county,True
+1726,arkansas,lincoln,05,05079,arkansas_lincoln_county,True
+1727,oregon,lincoln,41,41041,oregon_lincoln_county,True
+1728,north carolina,lincoln,37,37109,north_carolina_lincoln_county,True
+1729,oklahoma,lincoln,40,40081,oklahoma_lincoln_county,True
+1730,kansas,linn,20,20107,kansas_linn_county,True
+1731,oregon,linn,41,41043,oregon_linn_county,True
+1732,missouri,linn,29,29115,missouri_linn_county,True
+1733,iowa,linn,19,19113,iowa_linn_county,True
+1734,texas,lipscomb,48,48295,texas_lipscomb_county,True
+1735,connecticut,litchfield,09,09005,connecticut_litchfield_county,True
+1736,arkansas,little river,05,05081,arkansas_little_river_county,True
+1737,texas,live oak,48,48297,texas_live_oak_county,True
+1738,louisiana,livingston,22,22063,louisiana_livingston_county,True
+1739,missouri,livingston,29,29117,missouri_livingston_county,True
+1740,illinois,livingston,17,17105,illinois_livingston_county,True
+1741,new york,livingston,36,36051,new_york_livingston_county,True
+1742,michigan,livingston,26,26093,michigan_livingston_county,True
+1743,kentucky,livingston,21,21139,kentucky_livingston_county,True
+1744,texas,llano,48,48299,texas_llano_county,True
+1745,nebraska,logan,31,31113,nebraska_logan_county,False
+1746,west virginia,logan,54,54045,west_virginia_logan_county,True
+1747,arkansas,logan,05,05083,arkansas_logan_county,True
+1748,colorado,logan,08,08075,colorado_logan_county,True
+1749,illinois,logan,17,17107,illinois_logan_county,True
+1750,kentucky,logan,21,21141,kentucky_logan_county,True
+1751,north dakota,logan,38,38047,north_dakota_logan_county,True
+1752,kansas,logan,20,20109,kansas_logan_county,True
+1753,oklahoma,logan,40,40083,oklahoma_logan_county,True
+1754,ohio,logan,39,39091,ohio_logan_county,True
+1755,puerto rico,loíza,72,72087,puerto_rico_loíza_county,True
+1756,georgia,long,13,13183,georgia_long_county,True
+1757,arkansas,lonoke,05,05085,arkansas_lonoke_county,True
+1758,ohio,lorain,39,39093,ohio_lorain_county,True
+1759,new mexico,los alamos,35,35028,new_mexico_los_alamos_county,True
+1760,california,los angeles,06,06037,california_los_angeles_county,True
+1761,tennessee,loudon,47,47105,tennessee_loudon_county,True
+1762,virginia,loudoun,51,51107,virginia_loudoun_county,True
+1763,virginia,louisa,51,51109,virginia_louisa_county,True
+1764,iowa,louisa,19,19115,iowa_louisa_county,True
+1765,nebraska,loup,31,31115,nebraska_loup_county,True
+1766,oklahoma,love,40,40085,oklahoma_love_county,True
+1767,texas,loving,48,48301,texas_loving_county,False
+1768,georgia,lowndes,13,13185,georgia_lowndes_county,True
+1769,alabama,lowndes,01,01085,alabama_lowndes_county,True
+1770,mississippi,lowndes,28,28087,mississippi_lowndes_county,True
+1771,texas,lubbock,48,48303,texas_lubbock_county,True
+1772,iowa,lucas,19,19117,iowa_lucas_county,True
+1773,ohio,lucas,39,39095,ohio_lucas_county,True
+1774,michigan,luce,26,26095,michigan_luce_county,False
+1775,georgia,lumpkin,13,13187,georgia_lumpkin_county,True
+1776,new mexico,luna,35,35029,new_mexico_luna_county,True
+1777,virginia,lunenburg,51,51111,virginia_lunenburg_county,True
+1778,puerto rico,luquillo,72,72089,puerto_rico_luquillo_county,True
+1779,pennsylvania,luzerne,42,42079,pennsylvania_luzerne_county,True
+1780,pennsylvania,lycoming,42,42081,pennsylvania_lycoming_county,True
+1781,south dakota,lyman,46,46085,south_dakota_lyman_county,True
+1782,virginia,lynchburg,51,51680,virginia_lynchburg_county,True
+1783,texas,lynn,48,48305,texas_lynn_county,True
+1784,nevada,lyon,32,32019,nevada_lyon_county,True
+1785,iowa,lyon,19,19119,iowa_lyon_county,True
+1786,kentucky,lyon,21,21143,kentucky_lyon_county,True
+1787,kansas,lyon,20,20111,kansas_lyon_county,True
+1788,minnesota,lyon,27,27083,minnesota_lyon_county,True
+1789,michigan,mackinac,26,26097,michigan_mackinac_county,True
+1790,michigan,macomb,26,26099,michigan_macomb_county,True
+1791,north carolina,macon,37,37113,north_carolina_macon_county,True
+1792,missouri,macon,29,29121,missouri_macon_county,True
+1793,georgia,macon,13,13193,georgia_macon_county,True
+1794,tennessee,macon,47,47111,tennessee_macon_county,True
+1795,alabama,macon,01,01087,alabama_macon_county,True
+1796,illinois,macon,17,17115,illinois_macon_county,True
+1797,illinois,macoupin,17,17117,illinois_macoupin_county,True
+1798,california,madera,06,06039,california_madera_county,True
+1799,florida,madison,12,12079,florida_madison_county,True
+1800,nebraska,madison,31,31119,nebraska_madison_county,True
+1801,ohio,madison,39,39097,ohio_madison_county,True
+1802,montana,madison,30,30057,montana_madison_county,True
+1803,indiana,madison,18,18095,indiana_madison_county,True
+1804,iowa,madison,19,19121,iowa_madison_county,True
+1805,texas,madison,48,48313,texas_madison_county,True
+1806,alabama,madison,01,01089,alabama_madison_county,True
+1807,missouri,madison,29,29123,missouri_madison_county,True
+1808,virginia,madison,51,51113,virginia_madison_county,True
+1809,mississippi,madison,28,28089,mississippi_madison_county,True
+1810,tennessee,madison,47,47113,tennessee_madison_county,True
+1811,illinois,madison,17,17119,illinois_madison_county,True
+1812,new york,madison,36,36053,new_york_madison_county,True
+1813,arkansas,madison,05,05087,arkansas_madison_county,True
+1814,kentucky,madison,21,21151,kentucky_madison_county,True
+1815,georgia,madison,13,13195,georgia_madison_county,True
+1816,north carolina,madison,37,37115,north_carolina_madison_county,True
+1817,louisiana,madison,22,22065,louisiana_madison_county,True
+1818,idaho,madison,16,16065,idaho_madison_county,True
+1819,kentucky,magoffin,21,21153,kentucky_magoffin_county,True
+1820,iowa,mahaska,19,19123,iowa_mahaska_county,True
+1821,minnesota,mahnomen,27,27087,minnesota_mahnomen_county,True
+1822,ohio,mahoning,39,39099,ohio_mahoning_county,True
+1823,oklahoma,major,40,40093,oklahoma_major_county,True
+1824,oregon,malheur,41,41045,oregon_malheur_county,True
+1825,virginia,manassas,51,51683,virginia_manassas_county,True
+1826,virginia,manassas park,51,51685,virginia_manassas_park_county,True
+1827,florida,manatee,12,12081,florida_manatee_county,True
+1828,puerto rico,manatí,72,72091,puerto_rico_manatí_county,True
+1829,michigan,manistee,26,26101,michigan_manistee_county,True
+1830,wisconsin,manitowoc,55,55071,wisconsin_manitowoc_county,True
+1831,american samoa,manu'a,60,60020,american_samoa_manu'a_county,False
+1832,wisconsin,marathon,55,55073,wisconsin_marathon_county,True
+1833,alabama,marengo,01,01091,alabama_marengo_county,True
+1834,puerto rico,maricao,72,72093,puerto_rico_maricao_county,False
+1835,arizona,maricopa,04,04013,arizona_maricopa_county,True
+1836,missouri,maries,29,29125,missouri_maries_county,True
+1837,california,marin,06,06041,california_marin_county,True
+1838,wisconsin,marinette,55,55075,wisconsin_marinette_county,True
+1839,mississippi,marion,28,28091,mississippi_marion_county,False
+1840,oregon,marion,41,41047,oregon_marion_county,True
+1841,west virginia,marion,54,54049,west_virginia_marion_county,True
+1842,kansas,marion,20,20115,kansas_marion_county,True
+1843,florida,marion,12,12083,florida_marion_county,True
+1844,missouri,marion,29,29127,missouri_marion_county,True
+1845,indiana,marion,18,18097,indiana_marion_county,True
+1846,south carolina,marion,45,45067,south_carolina_marion_county,True
+1847,tennessee,marion,47,47115,tennessee_marion_county,True
+1848,illinois,marion,17,17121,illinois_marion_county,True
+1849,alabama,marion,01,01093,alabama_marion_county,True
+1850,ohio,marion,39,39101,ohio_marion_county,True
+1851,kentucky,marion,21,21155,kentucky_marion_county,True
+1852,texas,marion,48,48315,texas_marion_county,True
+1853,georgia,marion,13,13197,georgia_marion_county,True
+1854,arkansas,marion,05,05089,arkansas_marion_county,True
+1855,iowa,marion,19,19125,iowa_marion_county,True
+1856,california,mariposa,06,06043,california_mariposa_county,True
+1857,south carolina,marlboro,45,45069,south_carolina_marlboro_county,True
+1858,wisconsin,marquette,55,55077,wisconsin_marquette_county,True
+1859,michigan,marquette,26,26103,michigan_marquette_county,True
+1860,mississippi,marshall,28,28093,mississippi_marshall_county,True
+1861,alabama,marshall,01,01095,alabama_marshall_county,True
+1862,south dakota,marshall,46,46091,south_dakota_marshall_county,True
+1863,minnesota,marshall,27,27089,minnesota_marshall_county,True
+1864,kentucky,marshall,21,21157,kentucky_marshall_county,True
+1865,illinois,marshall,17,17123,illinois_marshall_county,True
+1866,tennessee,marshall,47,47117,tennessee_marshall_county,True
+1867,oklahoma,marshall,40,40095,oklahoma_marshall_county,True
+1868,iowa,marshall,19,19127,iowa_marshall_county,True
+1869,west virginia,marshall,54,54051,west_virginia_marshall_county,True
+1870,indiana,marshall,18,18099,indiana_marshall_county,True
+1871,kansas,marshall,20,20117,kansas_marshall_county,True
+1872,texas,martin,48,48317,texas_martin_county,True
+1873,minnesota,martin,27,27091,minnesota_martin_county,True
+1874,kentucky,martin,21,21159,kentucky_martin_county,True
+1875,north carolina,martin,37,37117,north_carolina_martin_county,True
+1876,indiana,martin,18,18101,indiana_martin_county,True
+1877,florida,martin,12,12085,florida_martin_county,True
+1878,virginia,martinsville,51,51690,virginia_martinsville_county,True
+1879,kentucky,mason,21,21161,kentucky_mason_county,True
+1880,texas,mason,48,48319,texas_mason_county,True
+1881,michigan,mason,26,26105,michigan_mason_county,True
+1882,illinois,mason,17,17125,illinois_mason_county,True
+1883,west virginia,mason,54,54053,west_virginia_mason_county,True
+1884,washington,mason,53,53045,washington_mason_county,True
+1885,illinois,massac,17,17127,illinois_massac_county,True
+1886,texas,matagorda,48,48321,texas_matagorda_county,True
+1887,alaska,matanuska-susitna,02,02170,alaska_matanuska-susitna_county,True
+1888,virginia,mathews,51,51115,virginia_mathews_county,True
+1889,hawaii,maui,15,15009,hawaii_maui_county,True
+1890,puerto rico,maunabo,72,72095,puerto_rico_maunabo_county,False
+1891,tennessee,maury,47,47119,tennessee_maury_county,True
+1892,texas,maverick,48,48323,texas_maverick_county,True
+1893,puerto rico,mayagüez,72,72097,puerto_rico_mayagüez_county,True
+1894,oklahoma,mayes,40,40097,oklahoma_mayes_county,True
+1895,oklahoma,mcclain,40,40087,oklahoma_mcclain_county,True
+1896,montana,mccone,30,30055,montana_mccone_county,True
+1897,south dakota,mccook,46,46087,south_dakota_mccook_county,True
+1898,south carolina,mccormick,45,45065,south_carolina_mccormick_county,True
+1899,kentucky,mccracken,21,21145,kentucky_mccracken_county,True
+1900,kentucky,mccreary,21,21147,kentucky_mccreary_county,True
+1901,texas,mcculloch,48,48307,texas_mcculloch_county,True
+1902,oklahoma,mccurtain,40,40089,oklahoma_mccurtain_county,True
+1903,missouri,mcdonald,29,29119,missouri_mcdonald_county,True
+1904,illinois,mcdonough,17,17109,illinois_mcdonough_county,True
+1905,west virginia,mcdowell,54,54047,west_virginia_mcdowell_county,True
+1906,north carolina,mcdowell,37,37111,north_carolina_mcdowell_county,True
+1907,georgia,mcduffie,13,13189,georgia_mcduffie_county,True
+1908,illinois,mchenry,17,17111,illinois_mchenry_county,True
+1909,north dakota,mchenry,38,38049,north_dakota_mchenry_county,True
+1910,north dakota,mcintosh,38,38051,north_dakota_mcintosh_county,True
+1911,georgia,mcintosh,13,13191,georgia_mcintosh_county,True
+1912,oklahoma,mcintosh,40,40091,oklahoma_mcintosh_county,True
+1913,pennsylvania,mckean,42,42083,pennsylvania_mckean_county,True
+1914,north dakota,mckenzie,38,38053,north_dakota_mckenzie_county,True
+1915,new mexico,mckinley,35,35031,new_mexico_mckinley_county,True
+1916,kentucky,mclean,21,21149,kentucky_mclean_county,True
+1917,north dakota,mclean,38,38055,north_dakota_mclean_county,True
+1918,illinois,mclean,17,17113,illinois_mclean_county,True
+1919,texas,mclennan,48,48309,texas_mclennan_county,True
+1920,minnesota,mcleod,27,27085,minnesota_mcleod_county,True
+1921,tennessee,mcminn,47,47107,tennessee_mcminn_county,True
+1922,texas,mcmullen,48,48311,texas_mcmullen_county,True
+1923,tennessee,mcnairy,47,47109,tennessee_mcnairy_county,True
+1924,kansas,mcpherson,20,20113,kansas_mcpherson_county,True
+1925,south dakota,mcpherson,46,46089,south_dakota_mcpherson_county,True
+1926,nebraska,mcpherson,31,31117,nebraska_mcpherson_county,False
+1927,kansas,meade,20,20119,kansas_meade_county,True
+1928,south dakota,meade,46,46093,south_dakota_meade_county,True
+1929,kentucky,meade,21,21163,kentucky_meade_county,True
+1930,montana,meagher,30,30059,montana_meagher_county,True
+1931,virginia,mecklenburg,51,51117,virginia_mecklenburg_county,True
+1932,north carolina,mecklenburg,37,37119,north_carolina_mecklenburg_county,True
+1933,michigan,mecosta,26,26107,michigan_mecosta_county,True
+1934,texas,medina,48,48325,texas_medina_county,True
+1935,ohio,medina,39,39103,ohio_medina_county,True
+1936,minnesota,meeker,27,27093,minnesota_meeker_county,True
+1937,tennessee,meigs,47,47121,tennessee_meigs_county,True
+1938,ohio,meigs,39,39105,ohio_meigs_county,True
+1939,south dakota,mellette,46,46095,south_dakota_mellette_county,True
+1940,illinois,menard,17,17129,illinois_menard_county,True
+1941,texas,menard,48,48327,texas_menard_county,True
+1942,california,mendocino,06,06045,california_mendocino_county,True
+1943,kentucky,menifee,21,21165,kentucky_menifee_county,True
+1944,wisconsin,menominee,55,55078,wisconsin_menominee_county,True
+1945,michigan,menominee,26,26109,michigan_menominee_county,True
+1946,california,merced,06,06047,california_merced_county,True
+1947,north dakota,mercer,38,38057,north_dakota_mercer_county,True
+1948,missouri,mercer,29,29129,missouri_mercer_county,True
+1949,ohio,mercer,39,39107,ohio_mercer_county,True
+1950,west virginia,mercer,54,54055,west_virginia_mercer_county,True
+1951,new jersey,mercer,34,34021,new_jersey_mercer_county,True
+1952,kentucky,mercer,21,21167,kentucky_mercer_county,True
+1953,illinois,mercer,17,17131,illinois_mercer_county,True
+1954,pennsylvania,mercer,42,42085,pennsylvania_mercer_county,True
+1955,georgia,meriwether,13,13199,georgia_meriwether_county,True
+1956,nebraska,merrick,31,31121,nebraska_merrick_county,True
+1957,new hampshire,merrimack,33,33013,new_hampshire_merrimack_county,True
+1958,colorado,mesa,08,08077,colorado_mesa_county,True
+1959,kentucky,metcalfe,21,21169,kentucky_metcalfe_county,True
+1960,indiana,miami,18,18103,indiana_miami_county,True
+1961,ohio,miami,39,39109,ohio_miami_county,True
+1962,kansas,miami,20,20121,kansas_miami_county,True
+1963,florida,miami-dade,12,12086,florida_miami-dade_county,True
+1964,massachusetts,middlesex,25,25017,massachusetts_middlesex_county,True
+1965,virginia,middlesex,51,51119,virginia_middlesex_county,True
+1966,connecticut,middlesex,09,09007,connecticut_middlesex_county,True
+1967,new jersey,middlesex,34,34023,new_jersey_middlesex_county,True
+1968,michigan,midland,26,26111,michigan_midland_county,True
+1969,texas,midland,48,48329,texas_midland_county,True
+1970,pennsylvania,mifflin,42,42087,pennsylvania_mifflin_county,True
+1971,texas,milam,48,48331,texas_milam_county,True
+1972,utah,millard,49,49027,utah_millard_county,True
+1973,minnesota,mille lacs,27,27095,minnesota_mille_lacs_county,True
+1974,arkansas,miller,05,05091,arkansas_miller_county,True
+1975,georgia,miller,13,13201,georgia_miller_county,False
+1976,missouri,miller,29,29131,missouri_miller_county,True
+1977,texas,mills,48,48333,texas_mills_county,True
+1978,iowa,mills,19,19129,iowa_mills_county,True
+1979,wisconsin,milwaukee,55,55079,wisconsin_milwaukee_county,True
+1980,south dakota,miner,46,46097,south_dakota_miner_county,True
+1981,montana,mineral,30,30061,montana_mineral_county,True
+1982,nevada,mineral,32,32021,nevada_mineral_county,True
+1983,colorado,mineral,08,08079,colorado_mineral_county,True
+1984,west virginia,mineral,54,54057,west_virginia_mineral_county,True
+1985,west virginia,mingo,54,54059,west_virginia_mingo_county,True
+1986,idaho,minidoka,16,16067,idaho_minidoka_county,True
+1987,south dakota,minnehaha,46,46099,south_dakota_minnehaha_county,True
+1988,michigan,missaukee,26,26113,michigan_missaukee_county,True
+1989,missouri,mississippi,29,29133,missouri_mississippi_county,True
+1990,arkansas,mississippi,05,05093,arkansas_mississippi_county,True
+1991,montana,missoula,30,30063,montana_missoula_county,True
+1992,north carolina,mitchell,37,37121,north_carolina_mitchell_county,True
+1993,georgia,mitchell,13,13205,georgia_mitchell_county,True
+1994,iowa,mitchell,19,19131,iowa_mitchell_county,True
+1995,kansas,mitchell,20,20123,kansas_mitchell_county,True
+1996,texas,mitchell,48,48335,texas_mitchell_county,True
+1997,alabama,mobile,01,01097,alabama_mobile_county,True
+1998,puerto rico,moca,72,72099,puerto_rico_moca_county,True
+1999,california,modoc,06,06049,california_modoc_county,True
+2000,colorado,moffat,08,08081,colorado_moffat_county,True
+2001,arizona,mohave,04,04015,arizona_mohave_county,True
+2002,missouri,moniteau,29,29135,missouri_moniteau_county,True
+2003,new jersey,monmouth,34,34025,new_jersey_monmouth_county,True
+2004,california,mono,06,06051,california_mono_county,True
+2005,iowa,monona,19,19133,iowa_monona_county,True
+2006,west virginia,monongalia,54,54061,west_virginia_monongalia_county,True
+2007,ohio,monroe,39,39111,ohio_monroe_county,True
+2008,kentucky,monroe,21,21171,kentucky_monroe_county,True
+2009,michigan,monroe,26,26115,michigan_monroe_county,True
+2010,georgia,monroe,13,13207,georgia_monroe_county,True
+2011,arkansas,monroe,05,05095,arkansas_monroe_county,True
+2012,new york,monroe,36,36055,new_york_monroe_county,True
+2013,tennessee,monroe,47,47123,tennessee_monroe_county,True
+2014,illinois,monroe,17,17133,illinois_monroe_county,True
+2015,mississippi,monroe,28,28095,mississippi_monroe_county,True
+2016,florida,monroe,12,12087,florida_monroe_county,True
+2017,alabama,monroe,01,01099,alabama_monroe_county,True
+2018,missouri,monroe,29,29137,missouri_monroe_county,True
+2019,wisconsin,monroe,55,55081,wisconsin_monroe_county,True
+2020,iowa,monroe,19,19135,iowa_monroe_county,True
+2021,west virginia,monroe,54,54063,west_virginia_monroe_county,True
+2022,pennsylvania,monroe,42,42089,pennsylvania_monroe_county,True
+2023,indiana,monroe,18,18105,indiana_monroe_county,True
+2024,texas,montague,48,48337,texas_montague_county,True
+2025,michigan,montcalm,26,26117,michigan_montcalm_county,True
+2026,california,monterey,06,06053,california_monterey_county,True
+2027,colorado,montezuma,08,08083,colorado_montezuma_county,True
+2028,ohio,montgomery,39,39113,ohio_montgomery_county,True
+2029,indiana,montgomery,18,18107,indiana_montgomery_county,True
+2030,kansas,montgomery,20,20125,kansas_montgomery_county,True
+2031,maryland,montgomery,24,24031,maryland_montgomery_county,True
+2032,mississippi,montgomery,28,28097,mississippi_montgomery_county,True
+2033,kentucky,montgomery,21,21173,kentucky_montgomery_county,True
+2034,alabama,montgomery,01,01101,alabama_montgomery_county,True
+2035,virginia,montgomery,51,51121,virginia_montgomery_county,True
+2036,illinois,montgomery,17,17135,illinois_montgomery_county,True
+2037,arkansas,montgomery,05,05097,arkansas_montgomery_county,True
+2038,tennessee,montgomery,47,47125,tennessee_montgomery_county,True
+2039,missouri,montgomery,29,29139,missouri_montgomery_county,True
+2040,pennsylvania,montgomery,42,42091,pennsylvania_montgomery_county,True
+2041,north carolina,montgomery,37,37123,north_carolina_montgomery_county,True
+2042,new york,montgomery,36,36057,new_york_montgomery_county,True
+2043,iowa,montgomery,19,19137,iowa_montgomery_county,True
+2044,texas,montgomery,48,48339,texas_montgomery_county,True
+2045,georgia,montgomery,13,13209,georgia_montgomery_county,True
+2046,michigan,montmorency,26,26119,michigan_montmorency_county,True
+2047,pennsylvania,montour,42,42093,pennsylvania_montour_county,True
+2048,colorado,montrose,08,08085,colorado_montrose_county,True
+2049,south dakota,moody,46,46101,south_dakota_moody_county,True
+2050,tennessee,moore,47,47127,tennessee_moore_county,True
+2051,texas,moore,48,48341,texas_moore_county,True
+2052,north carolina,moore,37,37125,north_carolina_moore_county,True
+2053,new mexico,mora,35,35033,new_mexico_mora_county,True
+2054,louisiana,morehouse,22,22067,louisiana_morehouse_county,True
+2055,west virginia,morgan,54,54065,west_virginia_morgan_county,True
+2056,missouri,morgan,29,29141,missouri_morgan_county,True
+2057,colorado,morgan,08,08087,colorado_morgan_county,True
+2058,tennessee,morgan,47,47129,tennessee_morgan_county,False
+2059,utah,morgan,49,49029,utah_morgan_county,True
+2060,illinois,morgan,17,17137,illinois_morgan_county,True
+2061,kentucky,morgan,21,21175,kentucky_morgan_county,True
+2062,alabama,morgan,01,01103,alabama_morgan_county,True
+2063,georgia,morgan,13,13211,georgia_morgan_county,True
+2064,ohio,morgan,39,39115,ohio_morgan_county,True
+2065,indiana,morgan,18,18109,indiana_morgan_county,True
+2066,puerto rico,morovis,72,72101,puerto_rico_morovis_county,True
+2067,nebraska,morrill,31,31123,nebraska_morrill_county,True
+2068,kansas,morris,20,20127,kansas_morris_county,True
+2069,new jersey,morris,34,34027,new_jersey_morris_county,True
+2070,texas,morris,48,48343,texas_morris_county,True
+2071,minnesota,morrison,27,27097,minnesota_morrison_county,True
+2072,ohio,morrow,39,39117,ohio_morrow_county,True
+2073,oregon,morrow,41,41049,oregon_morrow_county,True
+2074,kansas,morton,20,20129,kansas_morton_county,True
+2075,north dakota,morton,38,38059,north_dakota_morton_county,True
+2076,texas,motley,48,48345,texas_motley_county,True
+2077,illinois,moultrie,17,17139,illinois_moultrie_county,True
+2078,north dakota,mountrail,38,38061,north_dakota_mountrail_county,True
+2079,minnesota,mower,27,27099,minnesota_mower_county,True
+2080,kentucky,muhlenberg,21,21177,kentucky_muhlenberg_county,True
+2081,oregon,multnomah,41,41051,oregon_multnomah_county,True
+2082,minnesota,murray,27,27101,minnesota_murray_county,True
+2083,oklahoma,murray,40,40099,oklahoma_murray_county,True
+2084,georgia,murray,13,13213,georgia_murray_county,True
+2085,iowa,muscatine,19,19139,iowa_muscatine_county,True
+2086,georgia,muscogee,13,13215,georgia_muscogee_county,True
+2087,michigan,muskegon,26,26121,michigan_muskegon_county,True
+2088,ohio,muskingum,39,39119,ohio_muskingum_county,True
+2089,oklahoma,muskogee,40,40101,oklahoma_muskogee_county,True
+2090,montana,musselshell,30,30065,montana_musselshell_county,True
+2091,texas,nacogdoches,48,48347,texas_nacogdoches_county,True
+2092,puerto rico,naguabo,72,72103,puerto_rico_naguabo_county,False
+2093,nebraska,nance,31,31125,nebraska_nance_county,True
+2094,massachusetts,nantucket,25,25019,massachusetts_nantucket_county,True
+2095,california,napa,06,06055,california_napa_county,True
+2096,puerto rico,naranjito,72,72105,puerto_rico_naranjito_county,True
+2097,north carolina,nash,37,37127,north_carolina_nash_county,True
+2098,florida,nassau,12,12089,florida_nassau_county,True
+2099,new york,nassau,36,36059,new_york_nassau_county,True
+2100,louisiana,natchitoches,22,22069,louisiana_natchitoches_county,True
+2101,wyoming,natrona,56,56025,wyoming_natrona_county,True
+2102,arizona,navajo,04,04017,arizona_navajo_county,True
+2103,texas,navarro,48,48349,texas_navarro_county,True
+2104,north dakota,nelson,38,38063,north_dakota_nelson_county,True
+2105,kentucky,nelson,21,21179,kentucky_nelson_county,True
+2106,virginia,nelson,51,51125,virginia_nelson_county,True
+2107,nebraska,nemaha,31,31127,nebraska_nemaha_county,True
+2108,kansas,nemaha,20,20131,kansas_nemaha_county,True
+2109,kansas,neosho,20,20133,kansas_neosho_county,True
+2110,mississippi,neshoba,28,28099,mississippi_neshoba_county,True
+2111,kansas,ness,20,20135,kansas_ness_county,True
+2112,california,nevada,06,06057,california_nevada_county,True
+2113,arkansas,nevada,05,05099,arkansas_nevada_county,True
+2114,michigan,newaygo,26,26123,michigan_newaygo_county,True
+2115,south carolina,newberry,45,45071,south_carolina_newberry_county,True
+2116,delaware,new castle,10,10003,delaware_new_castle_county,True
+2117,north carolina,new hanover,37,37129,north_carolina_new_hanover_county,True
+2118,connecticut,new haven,09,09009,connecticut_new_haven_county,True
+2119,virginia,new kent,51,51127,virginia_new_kent_county,True
+2120,connecticut,new london,09,09011,connecticut_new_london_county,True
+2121,missouri,new madrid,29,29143,missouri_new_madrid_county,True
+2122,rhode island,newport,44,44005,rhode_island_newport_county,True
+2123,virginia,newport news,51,51700,virginia_newport_news_county,True
+2124,missouri,newton,29,29145,missouri_newton_county,True
+2125,arkansas,newton,05,05101,arkansas_newton_county,True
+2126,georgia,newton,13,13217,georgia_newton_county,True
+2127,mississippi,newton,28,28101,mississippi_newton_county,True
+2128,indiana,newton,18,18111,indiana_newton_county,True
+2129,texas,newton,48,48351,texas_newton_county,False
+2130,new york,new york,36,36061,new_york_new_york_county,True
+2131,idaho,nez perce,16,16069,idaho_nez_perce_county,True
+2132,new york,niagara,36,36063,new_york_niagara_county,True
+2133,kentucky,nicholas,21,21181,kentucky_nicholas_county,True
+2134,west virginia,nicholas,54,54067,west_virginia_nicholas_county,True
+2135,minnesota,nicollet,27,27103,minnesota_nicollet_county,True
+2136,wyoming,niobrara,56,56027,wyoming_niobrara_county,True
+2137,ohio,noble,39,39121,ohio_noble_county,True
+2138,oklahoma,noble,40,40103,oklahoma_noble_county,True
+2139,indiana,noble,18,18113,indiana_noble_county,True
+2140,minnesota,nobles,27,27105,minnesota_nobles_county,True
+2141,missouri,nodaway,29,29147,missouri_nodaway_county,True
+2142,texas,nolan,48,48353,texas_nolan_county,True
+2143,alaska,nome,02,02180,alaska_nome_county,False
+2144,massachusetts,norfolk,25,25021,massachusetts_norfolk_county,True
+2145,virginia,norfolk,51,51710,virginia_norfolk_county,True
+2146,minnesota,norman,27,27107,minnesota_norman_county,True
+2147,pennsylvania,northampton,42,42095,pennsylvania_northampton_county,True
+2148,north carolina,northampton,37,37131,north_carolina_northampton_county,True
+2149,virginia,northampton,51,51131,virginia_northampton_county,True
+2150,commonwealth of the northern mariana islands,northern islands,69,69085,commonwealth_of_the_northern_mariana_islands_northern_islands_county,False
+2151,alaska,north slope,02,02185,alaska_north_slope_county,True
+2152,pennsylvania,northumberland,42,42097,pennsylvania_northumberland_county,True
+2153,virginia,northumberland,51,51133,virginia_northumberland_county,True
+2154,alaska,northwest arctic,02,02188,alaska_northwest_arctic_county,False
+2155,virginia,norton,51,51720,virginia_norton_county,True
+2156,kansas,norton,20,20137,kansas_norton_county,True
+2157,virginia,nottoway,51,51135,virginia_nottoway_county,True
+2158,oklahoma,nowata,40,40105,oklahoma_nowata_county,True
+2159,mississippi,noxubee,28,28103,mississippi_noxubee_county,True
+2160,nebraska,nuckolls,31,31129,nebraska_nuckolls_county,True
+2161,texas,nueces,48,48355,texas_nueces_county,True
+2162,nevada,nye,32,32023,nevada_nye_county,True
+2163,michigan,oakland,26,26125,michigan_oakland_county,True
+2164,tennessee,obion,47,47131,tennessee_obion_county,True
+2165,iowa,o'brien,19,19141,iowa_o'brien_county,True
+2166,new jersey,ocean,34,34029,new_jersey_ocean_county,True
+2167,michigan,oceana,26,26127,michigan_oceana_county,True
+2168,texas,ochiltree,48,48357,texas_ochiltree_county,True
+2169,south carolina,oconee,45,45073,south_carolina_oconee_county,True
+2170,georgia,oconee,13,13219,georgia_oconee_county,True
+2171,wisconsin,oconto,55,55083,wisconsin_oconto_county,True
+2172,michigan,ogemaw,26,26129,michigan_ogemaw_county,True
+2173,illinois,ogle,17,17141,illinois_ogle_county,True
+2174,georgia,oglethorpe,13,13221,georgia_oglethorpe_county,True
+2175,west virginia,ohio,54,54069,west_virginia_ohio_county,True
+2176,indiana,ohio,18,18115,indiana_ohio_county,True
+2177,kentucky,ohio,21,21183,kentucky_ohio_county,True
+2178,florida,okaloosa,12,12091,florida_okaloosa_county,True
+2179,washington,okanogan,53,53047,washington_okanogan_county,True
+2180,florida,okeechobee,12,12093,florida_okeechobee_county,True
+2181,oklahoma,okfuskee,40,40107,oklahoma_okfuskee_county,True
+2182,oklahoma,oklahoma,40,40109,oklahoma_oklahoma_county,True
+2183,oklahoma,okmulgee,40,40111,oklahoma_okmulgee_county,True
+2184,mississippi,oktibbeha,28,28105,mississippi_oktibbeha_county,True
+2185,kentucky,oldham,21,21185,kentucky_oldham_county,True
+2186,texas,oldham,48,48359,texas_oldham_county,True
+2187,north dakota,oliver,38,38065,north_dakota_oliver_county,True
+2188,minnesota,olmsted,27,27109,minnesota_olmsted_county,True
+2189,new york,oneida,36,36065,new_york_oneida_county,True
+2190,wisconsin,oneida,55,55085,wisconsin_oneida_county,True
+2191,idaho,oneida,16,16071,idaho_oneida_county,True
+2192,new york,onondaga,36,36067,new_york_onondaga_county,True
+2193,north carolina,onslow,37,37133,north_carolina_onslow_county,True
+2194,new york,ontario,36,36069,new_york_ontario_county,True
+2195,michigan,ontonagon,26,26131,michigan_ontonagon_county,True
+2196,texas,orange,48,48361,texas_orange_county,True
+2197,north carolina,orange,37,37135,north_carolina_orange_county,True
+2198,vermont,orange,50,50017,vermont_orange_county,True
+2199,virginia,orange,51,51137,virginia_orange_county,True
+2200,new york,orange,36,36071,new_york_orange_county,True
+2201,california,orange,06,06059,california_orange_county,True
+2202,florida,orange,12,12095,florida_orange_county,True
+2203,indiana,orange,18,18117,indiana_orange_county,True
+2204,south carolina,orangeburg,45,45075,south_carolina_orangeburg_county,True
+2205,missouri,oregon,29,29149,missouri_oregon_county,False
+2206,vermont,orleans,50,50019,vermont_orleans_county,True
+2207,louisiana,orleans,22,22071,louisiana_orleans_county,True
+2208,new york,orleans,36,36073,new_york_orleans_county,True
+2209,puerto rico,orocovis,72,72107,puerto_rico_orocovis_county,True
+2210,missouri,osage,29,29151,missouri_osage_county,True
+2211,kansas,osage,20,20139,kansas_osage_county,True
+2212,oklahoma,osage,40,40113,oklahoma_osage_county,True
+2213,kansas,osborne,20,20141,kansas_osborne_county,True
+2214,iowa,osceola,19,19143,iowa_osceola_county,True
+2215,michigan,osceola,26,26133,michigan_osceola_county,True
+2216,florida,osceola,12,12097,florida_osceola_county,True
+2217,michigan,oscoda,26,26135,michigan_oscoda_county,True
+2218,new york,oswego,36,36075,new_york_oswego_county,True
+2219,new mexico,otero,35,35035,new_mexico_otero_county,True
+2220,colorado,otero,08,08089,colorado_otero_county,True
+2221,nebraska,otoe,31,31131,nebraska_otoe_county,True
+2222,new york,otsego,36,36077,new_york_otsego_county,True
+2223,michigan,otsego,26,26137,michigan_otsego_county,True
+2224,kansas,ottawa,20,20143,kansas_ottawa_county,True
+2225,oklahoma,ottawa,40,40115,oklahoma_ottawa_county,True
+2226,michigan,ottawa,26,26139,michigan_ottawa_county,True
+2227,ohio,ottawa,39,39123,ohio_ottawa_county,True
+2228,minnesota,otter tail,27,27111,minnesota_otter_tail_county,True
+2229,louisiana,ouachita,22,22073,louisiana_ouachita_county,True
+2230,arkansas,ouachita,05,05103,arkansas_ouachita_county,True
+2231,colorado,ouray,08,08091,colorado_ouray_county,True
+2232,wisconsin,outagamie,55,55087,wisconsin_outagamie_county,True
+2233,tennessee,overton,47,47133,tennessee_overton_county,True
+2234,kentucky,owen,21,21187,kentucky_owen_county,True
+2235,indiana,owen,18,18119,indiana_owen_county,True
+2236,kentucky,owsley,21,21189,kentucky_owsley_county,True
+2237,idaho,owyhee,16,16073,idaho_owyhee_county,True
+2238,maine,oxford,23,23017,maine_oxford_county,True
+2239,missouri,ozark,29,29153,missouri_ozark_county,False
+2240,wisconsin,ozaukee,55,55089,wisconsin_ozaukee_county,True
+2241,washington,pacific,53,53049,washington_pacific_county,True
+2242,iowa,page,19,19145,iowa_page_county,True
+2243,virginia,page,51,51139,virginia_page_county,True
+2244,florida,palm beach,12,12099,florida_palm_beach_county,True
+2245,iowa,palo alto,19,19147,iowa_palo_alto_county,True
+2246,texas,palo pinto,48,48363,texas_palo_pinto_county,True
+2247,north carolina,pamlico,37,37137,north_carolina_pamlico_county,True
+2248,texas,panola,48,48365,texas_panola_county,True
+2249,mississippi,panola,28,28107,mississippi_panola_county,True
+2250,wyoming,park,56,56029,wyoming_park_county,True
+2251,montana,park,30,30067,montana_park_county,True
+2252,colorado,park,08,08093,colorado_park_county,True
+2253,indiana,parke,18,18121,indiana_parke_county,True
+2254,texas,parker,48,48367,texas_parker_county,True
+2255,texas,parmer,48,48369,texas_parmer_county,True
+2256,florida,pasco,12,12101,florida_pasco_county,True
+2257,north carolina,pasquotank,37,37139,north_carolina_pasquotank_county,True
+2258,new jersey,passaic,34,34031,new_jersey_passaic_county,True
+2259,puerto rico,patillas,72,72109,puerto_rico_patillas_county,True
+2260,virginia,patrick,51,51141,virginia_patrick_county,True
+2261,ohio,paulding,39,39125,ohio_paulding_county,True
+2262,georgia,paulding,13,13223,georgia_paulding_county,True
+2263,oklahoma,pawnee,40,40117,oklahoma_pawnee_county,True
+2264,nebraska,pawnee,31,31133,nebraska_pawnee_county,True
+2265,kansas,pawnee,20,20145,kansas_pawnee_county,True
+2266,idaho,payette,16,16075,idaho_payette_county,True
+2267,oklahoma,payne,40,40119,oklahoma_payne_county,True
+2268,georgia,peach,13,13225,georgia_peach_county,True
+2269,mississippi,pearl river,28,28109,mississippi_pearl_river_county,True
+2270,texas,pecos,48,48371,texas_pecos_county,True
+2271,north dakota,pembina,38,38067,north_dakota_pembina_county,True
+2272,missouri,pemiscot,29,29155,missouri_pemiscot_county,True
+2273,north carolina,pender,37,37141,north_carolina_pender_county,True
+2274,kentucky,pendleton,21,21191,kentucky_pendleton_county,True
+2275,west virginia,pendleton,54,54071,west_virginia_pendleton_county,True
+2276,washington,pend oreille,53,53051,washington_pend_oreille_county,True
+2277,minnesota,pennington,27,27113,minnesota_pennington_county,True
+2278,south dakota,pennington,46,46103,south_dakota_pennington_county,True
+2279,maine,penobscot,23,23019,maine_penobscot_county,True
+2280,puerto rico,peñuelas,72,72111,puerto_rico_peñuelas_county,True
+2281,illinois,peoria,17,17143,illinois_peoria_county,True
+2282,wisconsin,pepin,55,55091,wisconsin_pepin_county,True
+2283,south dakota,perkins,46,46105,south_dakota_perkins_county,True
+2284,nebraska,perkins,31,31135,nebraska_perkins_county,True
+2285,north carolina,perquimans,37,37143,north_carolina_perquimans_county,True
+2286,ohio,perry,39,39127,ohio_perry_county,True
+2287,pennsylvania,perry,42,42099,pennsylvania_perry_county,True
+2288,missouri,perry,29,29157,missouri_perry_county,True
+2289,mississippi,perry,28,28111,mississippi_perry_county,True
+2290,tennessee,perry,47,47135,tennessee_perry_county,True
+2291,kentucky,perry,21,21193,kentucky_perry_county,True
+2292,indiana,perry,18,18123,indiana_perry_county,True
+2293,illinois,perry,17,17145,illinois_perry_county,True
+2294,arkansas,perry,05,05105,arkansas_perry_county,True
+2295,alabama,perry,01,01105,alabama_perry_county,True
+2296,nevada,pershing,32,32027,nevada_pershing_county,True
+2297,north carolina,person,37,37145,north_carolina_person_county,True
+2298,virginia,petersburg,51,51730,virginia_petersburg_county,True
+2299,alaska,petersburg,02,02195,alaska_petersburg_county,True
+2300,montana,petroleum,30,30069,montana_petroleum_county,True
+2301,missouri,pettis,29,29159,missouri_pettis_county,True
+2302,missouri,phelps,29,29161,missouri_phelps_county,True
+2303,nebraska,phelps,31,31137,nebraska_phelps_county,True
+2304,pennsylvania,philadelphia,42,42101,pennsylvania_philadelphia_county,True
+2305,montana,phillips,30,30071,montana_phillips_county,True
+2306,colorado,phillips,08,08095,colorado_phillips_county,True
+2307,kansas,phillips,20,20147,kansas_phillips_county,True
+2308,arkansas,phillips,05,05107,arkansas_phillips_county,True
+2309,illinois,piatt,17,17147,illinois_piatt_county,True
+2310,ohio,pickaway,39,39129,ohio_pickaway_county,True
+2311,alabama,pickens,01,01107,alabama_pickens_county,True
+2312,georgia,pickens,13,13227,georgia_pickens_county,True
+2313,south carolina,pickens,45,45077,south_carolina_pickens_county,True
+2314,tennessee,pickett,47,47137,tennessee_pickett_county,True
+2315,georgia,pierce,13,13229,georgia_pierce_county,True
+2316,washington,pierce,53,53053,washington_pierce_county,True
+2317,north dakota,pierce,38,38069,north_dakota_pierce_county,True
+2318,nebraska,pierce,31,31139,nebraska_pierce_county,True
+2319,wisconsin,pierce,55,55093,wisconsin_pierce_county,True
+2320,georgia,pike,13,13231,georgia_pike_county,True
+2321,ohio,pike,39,39131,ohio_pike_county,True
+2322,alabama,pike,01,01109,alabama_pike_county,True
+2323,arkansas,pike,05,05109,arkansas_pike_county,True
+2324,kentucky,pike,21,21195,kentucky_pike_county,True
+2325,pennsylvania,pike,42,42103,pennsylvania_pike_county,True
+2326,mississippi,pike,28,28113,mississippi_pike_county,True
+2327,missouri,pike,29,29163,missouri_pike_county,True
+2328,indiana,pike,18,18125,indiana_pike_county,True
+2329,illinois,pike,17,17149,illinois_pike_county,True
+2330,arizona,pima,04,04019,arizona_pima_county,True
+2331,arizona,pinal,04,04021,arizona_pinal_county,True
+2332,minnesota,pine,27,27115,minnesota_pine_county,True
+2333,florida,pinellas,12,12103,florida_pinellas_county,True
+2334,minnesota,pipestone,27,27117,minnesota_pipestone_county,True
+2335,maine,piscataquis,23,23021,maine_piscataquis_county,True
+2336,colorado,pitkin,08,08097,colorado_pitkin_county,True
+2337,north carolina,pitt,37,37147,north_carolina_pitt_county,True
+2338,oklahoma,pittsburg,40,40121,oklahoma_pittsburg_county,True
+2339,virginia,pittsylvania,51,51143,virginia_pittsylvania_county,True
+2340,utah,piute,49,49031,utah_piute_county,True
+2341,california,placer,06,06061,california_placer_county,True
+2342,louisiana,plaquemines,22,22075,louisiana_plaquemines_county,True
+2343,nebraska,platte,31,31141,nebraska_platte_county,True
+2344,missouri,platte,29,29165,missouri_platte_county,True
+2345,wyoming,platte,56,56031,wyoming_platte_county,True
+2346,west virginia,pleasants,54,54073,west_virginia_pleasants_county,True
+2347,california,plumas,06,06063,california_plumas_county,True
+2348,massachusetts,plymouth,25,25023,massachusetts_plymouth_county,True
+2349,iowa,plymouth,19,19149,iowa_plymouth_county,True
+2350,iowa,pocahontas,19,19151,iowa_pocahontas_county,True
+2351,west virginia,pocahontas,54,54075,west_virginia_pocahontas_county,True
+2352,arkansas,poinsett,05,05111,arkansas_poinsett_county,True
+2353,louisiana,pointe coupee,22,22077,louisiana_pointe_coupee_county,True
+2354,north carolina,polk,37,37149,north_carolina_polk_county,True
+2355,arkansas,polk,05,05113,arkansas_polk_county,True
+2356,tennessee,polk,47,47139,tennessee_polk_county,True
+2357,minnesota,polk,27,27119,minnesota_polk_county,True
+2358,georgia,polk,13,13233,georgia_polk_county,True
+2359,iowa,polk,19,19153,iowa_polk_county,True
+2360,oregon,polk,41,41053,oregon_polk_county,True
+2361,texas,polk,48,48373,texas_polk_county,True
+2362,nebraska,polk,31,31143,nebraska_polk_county,True
+2363,florida,polk,12,12105,florida_polk_county,True
+2364,wisconsin,polk,55,55095,wisconsin_polk_county,True
+2365,missouri,polk,29,29167,missouri_polk_county,True
+2366,puerto rico,ponce,72,72113,puerto_rico_ponce_county,True
+2367,montana,pondera,30,30073,montana_pondera_county,True
+2368,oklahoma,pontotoc,40,40123,oklahoma_pontotoc_county,True
+2369,mississippi,pontotoc,28,28115,mississippi_pontotoc_county,True
+2370,illinois,pope,17,17151,illinois_pope_county,True
+2371,minnesota,pope,27,27121,minnesota_pope_county,True
+2372,arkansas,pope,05,05115,arkansas_pope_county,True
+2373,virginia,poquoson,51,51735,virginia_poquoson_county,True
+2374,ohio,portage,39,39133,ohio_portage_county,True
+2375,wisconsin,portage,55,55097,wisconsin_portage_county,True
+2376,indiana,porter,18,18127,indiana_porter_county,True
+2377,virginia,portsmouth,51,51740,virginia_portsmouth_county,True
+2378,indiana,posey,18,18129,indiana_posey_county,True
+2379,oklahoma,pottawatomie,40,40125,oklahoma_pottawatomie_county,True
+2380,kansas,pottawatomie,20,20149,kansas_pottawatomie_county,True
+2381,iowa,pottawattamie,19,19155,iowa_pottawattamie_county,True
+2382,south dakota,potter,46,46107,south_dakota_potter_county,True
+2383,texas,potter,48,48375,texas_potter_county,True
+2384,pennsylvania,potter,42,42105,pennsylvania_potter_county,True
+2385,montana,powder river,30,30075,montana_powder_river_county,False
+2386,montana,powell,30,30077,montana_powell_county,True
+2387,kentucky,powell,21,21197,kentucky_powell_county,False
+2388,idaho,power,16,16077,idaho_power_county,True
+2389,iowa,poweshiek,19,19157,iowa_poweshiek_county,True
+2390,virginia,powhatan,51,51145,virginia_powhatan_county,True
+2391,arkansas,prairie,05,05117,arkansas_prairie_county,True
+2392,montana,prairie,30,30079,montana_prairie_county,True
+2393,kansas,pratt,20,20151,kansas_pratt_county,True
+2394,ohio,preble,39,39135,ohio_preble_county,True
+2395,mississippi,prentiss,28,28117,mississippi_prentiss_county,True
+2396,texas,presidio,48,48377,texas_presidio_county,True
+2397,michigan,presque isle,26,26141,michigan_presque_isle_county,True
+2398,west virginia,preston,54,54077,west_virginia_preston_county,True
+2399,wisconsin,price,55,55099,wisconsin_price_county,True
+2400,virginia,prince edward,51,51147,virginia_prince_edward_county,True
+2401,virginia,prince george,51,51149,virginia_prince_george_county,True
+2402,maryland,prince george's,24,24033,maryland_prince_george's_county,True
+2403,alaska,prince of wales-hyder,02,02198,alaska_prince_of_wales-hyder_county,False
+2404,virginia,prince william,51,51153,virginia_prince_william_county,True
+2405,rhode island,providence,44,44007,rhode_island_providence_county,True
+2406,colorado,prowers,08,08099,colorado_prowers_county,True
+2407,colorado,pueblo,08,08101,colorado_pueblo_county,True
+2408,arkansas,pulaski,05,05119,arkansas_pulaski_county,True
+2409,georgia,pulaski,13,13235,georgia_pulaski_county,True
+2410,missouri,pulaski,29,29169,missouri_pulaski_county,True
+2411,virginia,pulaski,51,51155,virginia_pulaski_county,True
+2412,illinois,pulaski,17,17153,illinois_pulaski_county,True
+2413,indiana,pulaski,18,18131,indiana_pulaski_county,True
+2414,kentucky,pulaski,21,21199,kentucky_pulaski_county,True
+2415,oklahoma,pushmataha,40,40127,oklahoma_pushmataha_county,True
+2416,tennessee,putnam,47,47141,tennessee_putnam_county,True
+2417,missouri,putnam,29,29171,missouri_putnam_county,True
+2418,indiana,putnam,18,18133,indiana_putnam_county,True
+2419,georgia,putnam,13,13237,georgia_putnam_county,True
+2420,west virginia,putnam,54,54079,west_virginia_putnam_county,True
+2421,ohio,putnam,39,39137,ohio_putnam_county,True
+2422,illinois,putnam,17,17155,illinois_putnam_county,True
+2423,florida,putnam,12,12107,florida_putnam_county,True
+2424,new york,putnam,36,36079,new_york_putnam_county,True
+2425,new mexico,quay,35,35037,new_mexico_quay_county,True
+2426,puerto rico,quebradillas,72,72115,puerto_rico_quebradillas_county,True
+2427,maryland,queen anne's,24,24035,maryland_queen_anne's_county,True
+2428,new york,queens,36,36081,new_york_queens_county,True
+2429,mississippi,quitman,28,28119,mississippi_quitman_county,True
+2430,georgia,quitman,13,13239,georgia_quitman_county,False
+2431,georgia,rabun,13,13241,georgia_rabun_county,True
+2432,wisconsin,racine,55,55101,wisconsin_racine_county,True
+2433,virginia,radford,51,51750,virginia_radford_county,True
+2434,texas,rains,48,48379,texas_rains_county,True
+2435,west virginia,raleigh,54,54081,west_virginia_raleigh_county,True
+2436,missouri,ralls,29,29173,missouri_ralls_county,True
+2437,north dakota,ramsey,38,38071,north_dakota_ramsey_county,True
+2438,minnesota,ramsey,27,27123,minnesota_ramsey_county,True
+2439,texas,randall,48,48381,texas_randall_county,True
+2440,indiana,randolph,18,18135,indiana_randolph_county,True
+2441,illinois,randolph,17,17157,illinois_randolph_county,True
+2442,west virginia,randolph,54,54083,west_virginia_randolph_county,True
+2443,arkansas,randolph,05,05121,arkansas_randolph_county,True
+2444,alabama,randolph,01,01111,alabama_randolph_county,True
+2445,north carolina,randolph,37,37151,north_carolina_randolph_county,True
+2446,georgia,randolph,13,13243,georgia_randolph_county,True
+2447,missouri,randolph,29,29175,missouri_randolph_county,True
+2448,mississippi,rankin,28,28121,mississippi_rankin_county,True
+2449,north dakota,ransom,38,38073,north_dakota_ransom_county,True
+2450,louisiana,rapides,22,22079,louisiana_rapides_county,True
+2451,virginia,rappahannock,51,51157,virginia_rappahannock_county,True
+2452,montana,ravalli,30,30081,montana_ravalli_county,True
+2453,kansas,rawlins,20,20153,kansas_rawlins_county,True
+2454,missouri,ray,29,29177,missouri_ray_county,True
+2455,texas,reagan,48,48383,texas_reagan_county,True
+2456,texas,real,48,48385,texas_real_county,True
+2457,minnesota,red lake,27,27125,minnesota_red_lake_county,True
+2458,texas,red river,48,48387,texas_red_river_county,True
+2459,louisiana,red river,22,22081,louisiana_red_river_county,False
+2460,nebraska,red willow,31,31145,nebraska_red_willow_county,True
+2461,minnesota,redwood,27,27127,minnesota_redwood_county,True
+2462,texas,reeves,48,48389,texas_reeves_county,True
+2463,texas,refugio,48,48391,texas_refugio_county,True
+2464,kansas,reno,20,20155,kansas_reno_county,True
+2465,new york,rensselaer,36,36083,new_york_rensselaer_county,True
+2466,minnesota,renville,27,27129,minnesota_renville_county,True
+2467,north dakota,renville,38,38075,north_dakota_renville_county,True
+2468,kansas,republic,20,20157,kansas_republic_county,True
+2469,missouri,reynolds,29,29179,missouri_reynolds_county,True
+2470,tennessee,rhea,47,47143,tennessee_rhea_county,True
+2471,minnesota,rice,27,27131,minnesota_rice_county,True
+2472,kansas,rice,20,20159,kansas_rice_county,True
+2473,utah,rich,49,49033,utah_rich_county,True
+2474,nebraska,richardson,31,31147,nebraska_richardson_county,True
+2475,north dakota,richland,38,38077,north_dakota_richland_county,True
+2476,ohio,richland,39,39139,ohio_richland_county,True
+2477,louisiana,richland,22,22083,louisiana_richland_county,True
+2478,south carolina,richland,45,45079,south_carolina_richland_county,True
+2479,illinois,richland,17,17159,illinois_richland_county,True
+2480,montana,richland,30,30083,montana_richland_county,True
+2481,wisconsin,richland,55,55103,wisconsin_richland_county,True
+2482,north carolina,richmond,37,37153,north_carolina_richmond_county,True
+2483,virginia,richmond,51,51159,virginia_richmond_county,True
+2484,virginia,richmond,51,51760,virginia_richmond_county,True
+2485,georgia,richmond,13,13245,georgia_richmond_county,True
+2486,new york,richmond,36,36085,new_york_richmond_county,True
+2487,kansas,riley,20,20161,kansas_riley_county,True
+2488,puerto rico,rincón,72,72117,puerto_rico_rincón_county,True
+2489,iowa,ringgold,19,19159,iowa_ringgold_county,True
+2490,new mexico,rio arriba,35,35039,new_mexico_rio_arriba_county,False
+2491,colorado,rio blanco,08,08103,colorado_rio_blanco_county,True
+2492,colorado,rio grande,08,08105,colorado_rio_grande_county,True
+2493,puerto rico,río grande,72,72119,puerto_rico_río_grande_county,False
+2494,indiana,ripley,18,18137,indiana_ripley_county,True
+2495,missouri,ripley,29,29181,missouri_ripley_county,False
+2496,west virginia,ritchie,54,54085,west_virginia_ritchie_county,True
+2497,california,riverside,06,06065,california_riverside_county,True
+2498,tennessee,roane,47,47145,tennessee_roane_county,True
+2499,west virginia,roane,54,54087,west_virginia_roane_county,True
+2500,virginia,roanoke,51,51161,virginia_roanoke_county,True
+2501,virginia,roanoke,51,51770,virginia_roanoke_county,True
+2502,texas,roberts,48,48393,texas_roberts_county,True
+2503,south dakota,roberts,46,46109,south_dakota_roberts_county,True
+2504,kentucky,robertson,21,21201,kentucky_robertson_county,False
+2505,tennessee,robertson,47,47147,tennessee_robertson_county,True
+2506,texas,robertson,48,48395,texas_robertson_county,True
+2507,north carolina,robeson,37,37155,north_carolina_robeson_county,True
+2508,wisconsin,rock,55,55105,wisconsin_rock_county,True
+2509,nebraska,rock,31,31149,nebraska_rock_county,True
+2510,minnesota,rock,27,27133,minnesota_rock_county,True
+2511,virginia,rockbridge,51,51163,virginia_rockbridge_county,True
+2512,kentucky,rockcastle,21,21203,kentucky_rockcastle_county,True
+2513,georgia,rockdale,13,13247,georgia_rockdale_county,True
+2514,virginia,rockingham,51,51165,virginia_rockingham_county,True
+2515,new hampshire,rockingham,33,33015,new_hampshire_rockingham_county,True
+2516,north carolina,rockingham,37,37157,north_carolina_rockingham_county,True
+2517,illinois,rock island,17,17161,illinois_rock_island_county,True
+2518,new york,rockland,36,36087,new_york_rockland_county,True
+2519,texas,rockwall,48,48397,texas_rockwall_county,True
+2520,oklahoma,roger mills,40,40129,oklahoma_roger_mills_county,True
+2521,oklahoma,rogers,40,40131,oklahoma_rogers_county,True
+2522,north dakota,rolette,38,38079,north_dakota_rolette_county,True
+2523,kansas,rooks,20,20163,kansas_rooks_county,True
+2524,new mexico,roosevelt,35,35041,new_mexico_roosevelt_county,True
+2525,montana,roosevelt,30,30085,montana_roosevelt_county,True
+2526,michigan,roscommon,26,26143,michigan_roscommon_county,True
+2527,minnesota,roseau,27,27135,minnesota_roseau_county,True
+2528,montana,rosebud,30,30087,montana_rosebud_county,True
+2529,american samoa,rose island,60,60030,american_samoa_rose_island_county,False
+2530,ohio,ross,39,39141,ohio_ross_county,True
+2531,commonwealth of the northern mariana islands,rota,69,69100,commonwealth_of_the_northern_mariana_islands_rota_county,True
+2532,colorado,routt,08,08107,colorado_routt_county,True
+2533,kentucky,rowan,21,21205,kentucky_rowan_county,True
+2534,north carolina,rowan,37,37159,north_carolina_rowan_county,True
+2535,texas,runnels,48,48399,texas_runnels_county,True
+2536,indiana,rush,18,18139,indiana_rush_county,True
+2537,kansas,rush,20,20165,kansas_rush_county,True
+2538,texas,rusk,48,48401,texas_rusk_county,True
+2539,wisconsin,rusk,55,55107,wisconsin_rusk_county,True
+2540,kansas,russell,20,20167,kansas_russell_county,True
+2541,kentucky,russell,21,21207,kentucky_russell_county,True
+2542,virginia,russell,51,51167,virginia_russell_county,True
+2543,alabama,russell,01,01113,alabama_russell_county,True
+2544,north carolina,rutherford,37,37161,north_carolina_rutherford_county,True
+2545,tennessee,rutherford,47,47149,tennessee_rutherford_county,True
+2546,vermont,rutland,50,50021,vermont_rutland_county,True
+2547,puerto rico,sabana grande,72,72121,puerto_rico_sabana_grande_county,True
+2548,louisiana,sabine,22,22085,louisiana_sabine_county,True
+2549,texas,sabine,48,48403,texas_sabine_county,False
+2550,iowa,sac,19,19161,iowa_sac_county,True
+2551,california,sacramento,06,06067,california_sacramento_county,True
+2552,maine,sagadahoc,23,23023,maine_sagadahoc_county,True
+2553,michigan,saginaw,26,26145,michigan_saginaw_county,True
+2554,colorado,saguache,08,08109,colorado_saguache_county,True
+2555,commonwealth of the northern mariana islands,saipan,69,69110,commonwealth_of_the_northern_mariana_islands_saipan_county,True
+2556,new jersey,salem,34,34033,new_jersey_salem_county,True
+2557,virginia,salem,51,51775,virginia_salem_county,True
+2558,puerto rico,salinas,72,72123,puerto_rico_salinas_county,True
+2559,nebraska,saline,31,31151,nebraska_saline_county,True
+2560,illinois,saline,17,17165,illinois_saline_county,True
+2561,missouri,saline,29,29195,missouri_saline_county,True
+2562,kansas,saline,20,20169,kansas_saline_county,True
+2563,arkansas,saline,05,05125,arkansas_saline_county,True
+2564,utah,salt lake,49,49035,utah_salt_lake_county,True
+2565,south carolina,saluda,45,45081,south_carolina_saluda_county,True
+2566,north carolina,sampson,37,37163,north_carolina_sampson_county,True
+2567,texas,san augustine,48,48405,texas_san_augustine_county,True
+2568,california,san benito,06,06069,california_san_benito_county,True
+2569,california,san bernardino,06,06071,california_san_bernardino_county,True
+2570,south dakota,sanborn,46,46111,south_dakota_sanborn_county,True
+2571,montana,sanders,30,30089,montana_sanders_county,True
+2572,california,san diego,06,06073,california_san_diego_county,True
+2573,new mexico,sandoval,35,35043,new_mexico_sandoval_county,True
+2574,ohio,sandusky,39,39143,ohio_sandusky_county,True
+2575,california,san francisco,06,06075,california_san_francisco_county,True
+2576,illinois,sangamon,17,17167,illinois_sangamon_county,True
+2577,puerto rico,san germán,72,72125,puerto_rico_san_germán_county,True
+2578,michigan,sanilac,26,26151,michigan_sanilac_county,True
+2579,texas,san jacinto,48,48407,texas_san_jacinto_county,True
+2580,california,san joaquin,06,06077,california_san_joaquin_county,True
+2581,washington,san juan,53,53055,washington_san_juan_county,True
+2582,colorado,san juan,08,08111,colorado_san_juan_county,True
+2583,utah,san juan,49,49037,utah_san_juan_county,False
+2584,new mexico,san juan,35,35045,new_mexico_san_juan_county,True
+2585,puerto rico,san juan,72,72127,puerto_rico_san_juan_county,True
+2586,puerto rico,san lorenzo,72,72129,puerto_rico_san_lorenzo_county,True
+2587,california,san luis obispo,06,06079,california_san_luis_obispo_county,True
+2588,california,san mateo,06,06081,california_san_mateo_county,True
+2589,new mexico,san miguel,35,35047,new_mexico_san_miguel_county,True
+2590,colorado,san miguel,08,08113,colorado_san_miguel_county,True
+2591,texas,san patricio,48,48409,texas_san_patricio_county,True
+2592,utah,sanpete,49,49039,utah_sanpete_county,True
+2593,texas,san saba,48,48411,texas_san_saba_county,True
+2594,puerto rico,san sebastián,72,72131,puerto_rico_san_sebastián_county,True
+2595,california,santa barbara,06,06083,california_santa_barbara_county,True
+2596,california,santa clara,06,06085,california_santa_clara_county,True
+2597,arizona,santa cruz,04,04023,arizona_santa_cruz_county,True
+2598,california,santa cruz,06,06087,california_santa_cruz_county,True
+2599,new mexico,santa fe,35,35049,new_mexico_santa_fe_county,True
+2600,puerto rico,santa isabel,72,72133,puerto_rico_santa_isabel_county,True
+2601,florida,santa rosa,12,12113,florida_santa_rosa_county,True
+2602,florida,sarasota,12,12115,florida_sarasota_county,True
+2603,new york,saratoga,36,36091,new_york_saratoga_county,True
+2604,north dakota,sargent,38,38081,north_dakota_sargent_county,True
+2605,nebraska,sarpy,31,31153,nebraska_sarpy_county,True
+2606,wisconsin,sauk,55,55111,wisconsin_sauk_county,True
+2607,nebraska,saunders,31,31155,nebraska_saunders_county,True
+2608,wisconsin,sawyer,55,55113,wisconsin_sawyer_county,True
+2609,new york,schenectady,36,36093,new_york_schenectady_county,True
+2610,texas,schleicher,48,48413,texas_schleicher_county,True
+2611,georgia,schley,13,13249,georgia_schley_county,True
+2612,new york,schoharie,36,36095,new_york_schoharie_county,True
+2613,michigan,schoolcraft,26,26153,michigan_schoolcraft_county,True
+2614,new york,schuyler,36,36097,new_york_schuyler_county,True
+2615,illinois,schuyler,17,17169,illinois_schuyler_county,True
+2616,missouri,schuyler,29,29197,missouri_schuyler_county,True
+2617,pennsylvania,schuylkill,42,42107,pennsylvania_schuylkill_county,True
+2618,ohio,scioto,39,39145,ohio_scioto_county,True
+2619,missouri,scotland,29,29199,missouri_scotland_county,True
+2620,north carolina,scotland,37,37165,north_carolina_scotland_county,True
+2621,virginia,scott,51,51169,virginia_scott_county,True
+2622,mississippi,scott,28,28123,mississippi_scott_county,True
+2623,indiana,scott,18,18143,indiana_scott_county,True
+2624,missouri,scott,29,29201,missouri_scott_county,True
+2625,iowa,scott,19,19163,iowa_scott_county,True
+2626,kentucky,scott,21,21209,kentucky_scott_county,True
+2627,illinois,scott,17,17171,illinois_scott_county,True
+2628,minnesota,scott,27,27139,minnesota_scott_county,True
+2629,tennessee,scott,47,47151,tennessee_scott_county,True
+2630,kansas,scott,20,20171,kansas_scott_county,True
+2631,arkansas,scott,05,05127,arkansas_scott_county,False
+2632,nebraska,scotts bluff,31,31157,nebraska_scotts_bluff_county,True
+2633,georgia,screven,13,13251,georgia_screven_county,True
+2634,texas,scurry,48,48415,texas_scurry_county,True
+2635,arkansas,searcy,05,05129,arkansas_searcy_county,True
+2636,arkansas,sebastian,05,05131,arkansas_sebastian_county,True
+2637,colorado,sedgwick,08,08115,colorado_sedgwick_county,True
+2638,kansas,sedgwick,20,20173,kansas_sedgwick_county,True
+2639,florida,seminole,12,12117,florida_seminole_county,True
+2640,oklahoma,seminole,40,40133,oklahoma_seminole_county,True
+2641,georgia,seminole,13,13253,georgia_seminole_county,True
+2642,ohio,seneca,39,39147,ohio_seneca_county,True
+2643,new york,seneca,36,36099,new_york_seneca_county,True
+2644,tennessee,sequatchie,47,47153,tennessee_sequatchie_county,True
+2645,oklahoma,sequoyah,40,40135,oklahoma_sequoyah_county,True
+2646,arkansas,sevier,05,05133,arkansas_sevier_county,True
+2647,tennessee,sevier,47,47155,tennessee_sevier_county,True
+2648,utah,sevier,49,49041,utah_sevier_county,True
+2649,nebraska,seward,31,31159,nebraska_seward_county,True
+2650,kansas,seward,20,20175,kansas_seward_county,True
+2651,texas,shackelford,48,48417,texas_shackelford_county,True
+2652,south dakota,shannon,46,46113,south_dakota_shannon_county,True
+2653,missouri,shannon,29,29203,missouri_shannon_county,True
+2654,mississippi,sharkey,28,28125,mississippi_sharkey_county,True
+2655,arkansas,sharp,05,05135,arkansas_sharp_county,True
+2656,california,shasta,06,06089,california_shasta_county,True
+2657,wisconsin,shawano,55,55115,wisconsin_shawano_county,True
+2658,kansas,shawnee,20,20177,kansas_shawnee_county,True
+2659,wisconsin,sheboygan,55,55117,wisconsin_sheboygan_county,True
+2660,tennessee,shelby,47,47157,tennessee_shelby_county,True
+2661,missouri,shelby,29,29205,missouri_shelby_county,True
+2662,iowa,shelby,19,19165,iowa_shelby_county,True
+2663,texas,shelby,48,48419,texas_shelby_county,True
+2664,kentucky,shelby,21,21211,kentucky_shelby_county,True
+2665,indiana,shelby,18,18145,indiana_shelby_county,True
+2666,ohio,shelby,39,39149,ohio_shelby_county,True
+2667,illinois,shelby,17,17173,illinois_shelby_county,True
+2668,alabama,shelby,01,01117,alabama_shelby_county,True
+2669,virginia,shenandoah,51,51171,virginia_shenandoah_county,True
+2670,minnesota,sherburne,27,27141,minnesota_sherburne_county,True
+2671,kansas,sheridan,20,20179,kansas_sheridan_county,True
+2672,nebraska,sheridan,31,31161,nebraska_sheridan_county,True
+2673,montana,sheridan,30,30091,montana_sheridan_county,True
+2674,north dakota,sheridan,38,38083,north_dakota_sheridan_county,True
+2675,wyoming,sheridan,56,56033,wyoming_sheridan_county,True
+2676,nebraska,sherman,31,31163,nebraska_sherman_county,True
+2677,kansas,sherman,20,20181,kansas_sherman_county,True
+2678,texas,sherman,48,48421,texas_sherman_county,True
+2679,oregon,sherman,41,41055,oregon_sherman_county,True
+2680,michigan,shiawassee,26,26155,michigan_shiawassee_county,True
+2681,idaho,shoshone,16,16079,idaho_shoshone_county,True
+2682,minnesota,sibley,27,27143,minnesota_sibley_county,True
+2683,california,sierra,06,06091,california_sierra_county,True
+2684,new mexico,sierra,35,35051,new_mexico_sierra_county,True
+2685,montana,silver bow,30,30093,montana_silver_bow_county,True
+2686,mississippi,simpson,28,28127,mississippi_simpson_county,True
+2687,kentucky,simpson,21,21213,kentucky_simpson_county,True
+2688,north dakota,sioux,38,38085,north_dakota_sioux_county,True
+2689,nebraska,sioux,31,31165,nebraska_sioux_county,True
+2690,iowa,sioux,19,19167,iowa_sioux_county,True
+2691,california,siskiyou,06,06093,california_siskiyou_county,True
+2692,alaska,sitka,02,02220,alaska_sitka_county,True
+2693,washington,skagit,53,53057,washington_skagit_county,True
+2694,alaska,skagway,02,02230,alaska_skagway_county,True
+2695,washington,skamania,53,53059,washington_skamania_county,True
+2696,north dakota,slope,38,38087,north_dakota_slope_county,True
+2697,tennessee,smith,47,47159,tennessee_smith_county,True
+2698,kansas,smith,20,20183,kansas_smith_county,True
+2699,texas,smith,48,48423,texas_smith_county,True
+2700,mississippi,smith,28,28129,mississippi_smith_county,True
+2701,virginia,smyth,51,51173,virginia_smyth_county,True
+2702,washington,snohomish,53,53061,washington_snohomish_county,True
+2703,pennsylvania,snyder,42,42109,pennsylvania_snyder_county,True
+2704,new mexico,socorro,35,35053,new_mexico_socorro_county,True
+2705,california,solano,06,06095,california_solano_county,True
+2706,pennsylvania,somerset,42,42111,pennsylvania_somerset_county,True
+2707,maine,somerset,23,23025,maine_somerset_county,True
+2708,maryland,somerset,24,24039,maryland_somerset_county,True
+2709,new jersey,somerset,34,34035,new_jersey_somerset_county,True
+2710,texas,somervell,48,48425,texas_somervell_county,True
+2711,california,sonoma,06,06097,california_sonoma_county,True
+2712,virginia,southampton,51,51175,virginia_southampton_county,True
+2713,alaska,southeast fairbanks,02,02240,alaska_southeast_fairbanks_county,True
+2714,georgia,spalding,13,13255,georgia_spalding_county,True
+2715,south carolina,spartanburg,45,45083,south_carolina_spartanburg_county,True
+2716,kentucky,spencer,21,21215,kentucky_spencer_county,True
+2717,indiana,spencer,18,18147,indiana_spencer_county,True
+2718,south dakota,spink,46,46115,south_dakota_spink_county,True
+2719,washington,spokane,53,53063,washington_spokane_county,True
+2720,virginia,spotsylvania,51,51177,virginia_spotsylvania_county,True
+2721,virginia,stafford,51,51179,virginia_stafford_county,True
+2722,kansas,stafford,20,20185,kansas_stafford_county,True
+2723,california,stanislaus,06,06099,california_stanislaus_county,True
+2724,south dakota,stanley,46,46117,south_dakota_stanley_county,True
+2725,north carolina,stanly,37,37167,north_carolina_stanly_county,True
+2726,kansas,stanton,20,20187,kansas_stanton_county,True
+2727,nebraska,stanton,31,31167,nebraska_stanton_county,True
+2728,ohio,stark,39,39151,ohio_stark_county,True
+2729,north dakota,stark,38,38089,north_dakota_stark_county,True
+2730,illinois,stark,17,17175,illinois_stark_county,True
+2731,indiana,starke,18,18149,indiana_starke_county,True
+2732,texas,starr,48,48427,texas_starr_county,True
+2733,virginia,staunton,51,51790,virginia_staunton_county,True
+2734,louisiana,st. bernard,22,22087,louisiana_st._bernard_county,True
+2735,louisiana,st. charles,22,22089,louisiana_st._charles_county,True
+2736,missouri,st. charles,29,29183,missouri_st._charles_county,True
+2737,illinois,st. clair,17,17163,illinois_st._clair_county,True
+2738,missouri,st. clair,29,29185,missouri_st._clair_county,False
+2739,michigan,st. clair,26,26147,michigan_st._clair_county,True
+2740,alabama,st. clair,01,01115,alabama_st._clair_county,True
+2741,united states virgin islands,st. croix,78,78010,united_states_virgin_islands_st._croix_county,True
+2742,wisconsin,st. croix,55,55109,wisconsin_st._croix_county,True
+2743,minnesota,stearns,27,27145,minnesota_stearns_county,True
+2744,minnesota,steele,27,27147,minnesota_steele_county,True
+2745,north dakota,steele,38,38091,north_dakota_steele_county,True
+2746,missouri,ste. genevieve,29,29186,missouri_ste._genevieve_county,True
+2747,georgia,stephens,13,13257,georgia_stephens_county,True
+2748,texas,stephens,48,48429,texas_stephens_county,True
+2749,oklahoma,stephens,40,40137,oklahoma_stephens_county,True
+2750,illinois,stephenson,17,17177,illinois_stephenson_county,True
+2751,texas,sterling,48,48431,texas_sterling_county,True
+2752,new york,steuben,36,36101,new_york_steuben_county,True
+2753,indiana,steuben,18,18151,indiana_steuben_county,True
+2754,minnesota,stevens,27,27149,minnesota_stevens_county,True
+2755,kansas,stevens,20,20189,kansas_stevens_county,True
+2756,washington,stevens,53,53065,washington_stevens_county,True
+2757,tennessee,stewart,47,47161,tennessee_stewart_county,True
+2758,georgia,stewart,13,13259,georgia_stewart_county,True
+2759,arkansas,st. francis,05,05123,arkansas_st._francis_county,True
+2760,missouri,st. francois,29,29187,missouri_st._francois_county,True
+2761,louisiana,st. helena,22,22091,louisiana_st._helena_county,False
+2762,montana,stillwater,30,30095,montana_stillwater_county,True
+2763,louisiana,st. james,22,22093,louisiana_st._james_county,True
+2764,united states virgin islands,st. john,78,78020,united_states_virgin_islands_st._john_county,False
+2765,florida,st. johns,12,12109,florida_st._johns_county,True
+2766,louisiana,st. john the baptist,22,22095,louisiana_st._john_the_baptist_county,True
+2767,indiana,st. joseph,18,18141,indiana_st._joseph_county,True
+2768,michigan,st. joseph,26,26149,michigan_st._joseph_county,True
+2769,louisiana,st. landry,22,22097,louisiana_st._landry_county,True
+2770,new york,st. lawrence,36,36089,new_york_st._lawrence_county,True
+2771,minnesota,st. louis,27,27137,minnesota_st._louis_county,True
+2772,missouri,st. louis,29,29510,missouri_st._louis_county,True
+2773,missouri,st. louis,29,29189,missouri_st._louis_county,True
+2774,florida,st. lucie,12,12111,florida_st._lucie_county,True
+2775,louisiana,st. martin,22,22099,louisiana_st._martin_county,True
+2776,louisiana,st. mary,22,22101,louisiana_st._mary_county,True
+2777,maryland,st. mary's,24,24037,maryland_st._mary's_county,True
+2778,missouri,stoddard,29,29207,missouri_stoddard_county,True
+2779,north carolina,stokes,37,37169,north_carolina_stokes_county,True
+2780,missouri,stone,29,29209,missouri_stone_county,True
+2781,mississippi,stone,28,28131,mississippi_stone_county,True
+2782,arkansas,stone,05,05137,arkansas_stone_county,True
+2783,texas,stonewall,48,48433,texas_stonewall_county,True
+2784,nevada,storey,32,32029,nevada_storey_county,True
+2785,iowa,story,19,19169,iowa_story_county,True
+2786,new hampshire,strafford,33,33017,new_hampshire_strafford_county,True
+2787,louisiana,st. tammany,22,22103,louisiana_st._tammany_county,True
+2788,united states virgin islands,st. thomas,78,78030,united_states_virgin_islands_st._thomas_county,False
+2789,north dakota,stutsman,38,38093,north_dakota_stutsman_county,True
+2790,wyoming,sublette,56,56035,wyoming_sublette_county,True
+2791,new york,suffolk,36,36103,new_york_suffolk_county,True
+2792,massachusetts,suffolk,25,25025,massachusetts_suffolk_county,True
+2793,virginia,suffolk,51,51800,virginia_suffolk_county,True
+2794,pennsylvania,sullivan,42,42113,pennsylvania_sullivan_county,True
+2795,tennessee,sullivan,47,47163,tennessee_sullivan_county,True
+2796,indiana,sullivan,18,18153,indiana_sullivan_county,True
+2797,new york,sullivan,36,36105,new_york_sullivan_county,True
+2798,missouri,sullivan,29,29211,missouri_sullivan_county,True
+2799,new hampshire,sullivan,33,33019,new_hampshire_sullivan_county,True
+2800,south dakota,sully,46,46119,south_dakota_sully_county,True
+2801,west virginia,summers,54,54089,west_virginia_summers_county,True
+2802,colorado,summit,08,08117,colorado_summit_county,True
+2803,ohio,summit,39,39153,ohio_summit_county,True
+2804,utah,summit,49,49043,utah_summit_county,True
+2805,kansas,sumner,20,20191,kansas_sumner_county,True
+2806,tennessee,sumner,47,47165,tennessee_sumner_county,True
+2807,south carolina,sumter,45,45085,south_carolina_sumter_county,True
+2808,florida,sumter,12,12119,florida_sumter_county,True
+2809,alabama,sumter,01,01119,alabama_sumter_county,True
+2810,georgia,sumter,13,13261,georgia_sumter_county,True
+2811,mississippi,sunflower,28,28133,mississippi_sunflower_county,True
+2812,north carolina,surry,37,37171,north_carolina_surry_county,True
+2813,virginia,surry,51,51181,virginia_surry_county,False
+2814,pennsylvania,susquehanna,42,42115,pennsylvania_susquehanna_county,True
+2815,delaware,sussex,10,10005,delaware_sussex_county,True
+2816,new jersey,sussex,34,34037,new_jersey_sussex_county,True
+2817,virginia,sussex,51,51183,virginia_sussex_county,True
+2818,california,sutter,06,06101,california_sutter_county,True
+2819,texas,sutton,48,48435,texas_sutton_county,True
+2820,florida,suwannee,12,12121,florida_suwannee_county,True
+2821,north carolina,swain,37,37173,north_carolina_swain_county,False
+2822,american samoa,swains island,60,60040,american_samoa_swains_island_county,False
+2823,montana,sweet grass,30,30097,montana_sweet_grass_county,True
+2824,wyoming,sweetwater,56,56037,wyoming_sweetwater_county,True
+2825,minnesota,swift,27,27151,minnesota_swift_county,True
+2826,texas,swisher,48,48437,texas_swisher_county,True
+2827,indiana,switzerland,18,18155,indiana_switzerland_county,True
+2828,maryland,talbot,24,24041,maryland_talbot_county,True
+2829,georgia,talbot,13,13263,georgia_talbot_county,True
+2830,georgia,taliaferro,13,13265,georgia_taliaferro_county,False
+2831,alabama,talladega,01,01121,alabama_talladega_county,True
+2832,mississippi,tallahatchie,28,28135,mississippi_tallahatchie_county,True
+2833,alabama,tallapoosa,01,01123,alabama_tallapoosa_county,True
+2834,iowa,tama,19,19171,iowa_tama_county,True
+2835,missouri,taney,29,29213,missouri_taney_county,True
+2836,louisiana,tangipahoa,22,22105,louisiana_tangipahoa_county,True
+2837,new mexico,taos,35,35055,new_mexico_taos_county,True
+2838,texas,tarrant,48,48439,texas_tarrant_county,True
+2839,mississippi,tate,28,28137,mississippi_tate_county,True
+2840,georgia,tattnall,13,13267,georgia_tattnall_county,True
+2841,west virginia,taylor,54,54091,west_virginia_taylor_county,True
+2842,florida,taylor,12,12123,florida_taylor_county,True
+2843,georgia,taylor,13,13269,georgia_taylor_county,True
+2844,wisconsin,taylor,55,55119,wisconsin_taylor_county,True
+2845,texas,taylor,48,48441,texas_taylor_county,True
+2846,iowa,taylor,19,19173,iowa_taylor_county,True
+2847,kentucky,taylor,21,21217,kentucky_taylor_county,True
+2848,virginia,tazewell,51,51185,virginia_tazewell_county,True
+2849,illinois,tazewell,17,17179,illinois_tazewell_county,True
+2850,california,tehama,06,06103,california_tehama_county,True
+2851,georgia,telfair,13,13271,georgia_telfair_county,True
+2852,colorado,teller,08,08119,colorado_teller_county,True
+2853,louisiana,tensas,22,22107,louisiana_tensas_county,True
+2854,louisiana,terrebonne,22,22109,louisiana_terrebonne_county,True
+2855,georgia,terrell,13,13273,georgia_terrell_county,True
+2856,texas,terrell,48,48443,texas_terrell_county,True
+2857,texas,terry,48,48445,texas_terry_county,True
+2858,idaho,teton,16,16081,idaho_teton_county,True
+2859,montana,teton,30,30099,montana_teton_county,True
+2860,wyoming,teton,56,56039,wyoming_teton_county,True
+2861,missouri,texas,29,29215,missouri_texas_county,True
+2862,oklahoma,texas,40,40139,oklahoma_texas_county,True
+2863,nebraska,thayer,31,31169,nebraska_thayer_county,True
+2864,nebraska,thomas,31,31171,nebraska_thomas_county,True
+2865,georgia,thomas,13,13275,georgia_thomas_county,True
+2866,kansas,thomas,20,20193,kansas_thomas_county,True
+2867,texas,throckmorton,48,48447,texas_throckmorton_county,True
+2868,washington,thurston,53,53067,washington_thurston_county,True
+2869,nebraska,thurston,31,31173,nebraska_thurston_county,True
+2870,georgia,tift,13,13277,georgia_tift_county,True
+2871,oregon,tillamook,41,41057,oregon_tillamook_county,True
+2872,oklahoma,tillman,40,40141,oklahoma_tillman_county,True
+2873,commonwealth of the northern mariana islands,tinian,69,69120,commonwealth_of_the_northern_mariana_islands_tinian_county,False
+2874,pennsylvania,tioga,42,42117,pennsylvania_tioga_county,True
+2875,new york,tioga,36,36107,new_york_tioga_county,True
+2876,mississippi,tippah,28,28139,mississippi_tippah_county,True
+2877,indiana,tippecanoe,18,18157,indiana_tippecanoe_county,True
+2878,tennessee,tipton,47,47167,tennessee_tipton_county,True
+2879,indiana,tipton,18,18159,indiana_tipton_county,True
+2880,mississippi,tishomingo,28,28141,mississippi_tishomingo_county,True
+2881,texas,titus,48,48449,texas_titus_county,True
+2882,puerto rico,toa alta,72,72135,puerto_rico_toa_alta_county,True
+2883,puerto rico,toa baja,72,72137,puerto_rico_toa_baja_county,True
+2884,kentucky,todd,21,21219,kentucky_todd_county,True
+2885,minnesota,todd,27,27153,minnesota_todd_county,True
+2886,south dakota,todd,46,46121,south_dakota_todd_county,True
+2887,connecticut,tolland,09,09013,connecticut_tolland_county,True
+2888,texas,tom green,48,48451,texas_tom_green_county,True
+2889,new york,tompkins,36,36109,new_york_tompkins_county,True
+2890,utah,tooele,49,49045,utah_tooele_county,True
+2891,montana,toole,30,30101,montana_toole_county,True
+2892,georgia,toombs,13,13279,georgia_toombs_county,True
+2893,new mexico,torrance,35,35057,new_mexico_torrance_county,True
+2894,north dakota,towner,38,38095,north_dakota_towner_county,True
+2895,georgia,towns,13,13281,georgia_towns_county,True
+2896,north dakota,traill,38,38097,north_dakota_traill_county,True
+2897,north carolina,transylvania,37,37175,north_carolina_transylvania_county,False
+2898,minnesota,traverse,27,27155,minnesota_traverse_county,True
+2899,texas,travis,48,48453,texas_travis_county,True
+2900,montana,treasure,30,30103,montana_treasure_county,True
+2901,kansas,trego,20,20195,kansas_trego_county,True
+2902,wisconsin,trempealeau,55,55121,wisconsin_trempealeau_county,True
+2903,georgia,treutlen,13,13283,georgia_treutlen_county,True
+2904,kentucky,trigg,21,21221,kentucky_trigg_county,True
+2905,kentucky,trimble,21,21223,kentucky_trimble_county,True
+2906,texas,trinity,48,48455,texas_trinity_county,True
+2907,california,trinity,06,06105,california_trinity_county,True
+2908,south dakota,tripp,46,46123,south_dakota_tripp_county,True
+2909,georgia,troup,13,13285,georgia_troup_county,True
+2910,tennessee,trousdale,47,47169,tennessee_trousdale_county,True
+2911,puerto rico,trujillo alto,72,72139,puerto_rico_trujillo_alto_county,True
+2912,ohio,trumbull,39,39155,ohio_trumbull_county,True
+2913,west virginia,tucker,54,54093,west_virginia_tucker_county,True
+2914,california,tulare,06,06107,california_tulare_county,True
+2915,oklahoma,tulsa,40,40143,oklahoma_tulsa_county,True
+2916,mississippi,tunica,28,28143,mississippi_tunica_county,True
+2917,california,tuolumne,06,06109,california_tuolumne_county,True
+2918,georgia,turner,13,13287,georgia_turner_county,True
+2919,south dakota,turner,46,46125,south_dakota_turner_county,True
+2920,alabama,tuscaloosa,01,01125,alabama_tuscaloosa_county,True
+2921,ohio,tuscarawas,39,39157,ohio_tuscarawas_county,True
+2922,michigan,tuscola,26,26157,michigan_tuscola_county,True
+2923,georgia,twiggs,13,13289,georgia_twiggs_county,False
+2924,idaho,twin falls,16,16083,idaho_twin_falls_county,True
+2925,texas,tyler,48,48457,texas_tyler_county,False
+2926,west virginia,tyler,54,54095,west_virginia_tyler_county,True
+2927,north carolina,tyrrell,37,37177,north_carolina_tyrrell_county,True
+2928,wyoming,uinta,56,56041,wyoming_uinta_county,True
+2929,utah,uintah,49,49047,utah_uintah_county,True
+2930,new york,ulster,36,36111,new_york_ulster_county,True
+2931,oregon,umatilla,41,41059,oregon_umatilla_county,True
+2932,tennessee,unicoi,47,47171,tennessee_unicoi_county,True
+2933,louisiana,union,22,22111,louisiana_union_county,False
+2934,north carolina,union,37,37179,north_carolina_union_county,True
+2935,new mexico,union,35,35059,new_mexico_union_county,False
+2936,new jersey,union,34,34039,new_jersey_union_county,True
+2937,tennessee,union,47,47173,tennessee_union_county,True
+2938,iowa,union,19,19175,iowa_union_county,True
+2939,indiana,union,18,18161,indiana_union_county,True
+2940,kentucky,union,21,21225,kentucky_union_county,True
+2941,south dakota,union,46,46127,south_dakota_union_county,True
+2942,illinois,union,17,17181,illinois_union_county,True
+2943,pennsylvania,union,42,42119,pennsylvania_union_county,True
+2944,georgia,union,13,13291,georgia_union_county,True
+2945,florida,union,12,12125,florida_union_county,True
+2946,ohio,union,39,39159,ohio_union_county,True
+2947,south carolina,union,45,45087,south_carolina_union_county,True
+2948,arkansas,union,05,05139,arkansas_union_county,True
+2949,oregon,union,41,41061,oregon_union_county,True
+2950,mississippi,union,28,28145,mississippi_union_county,True
+2951,west virginia,upshur,54,54097,west_virginia_upshur_county,True
+2952,texas,upshur,48,48459,texas_upshur_county,True
+2953,georgia,upson,13,13293,georgia_upson_county,True
+2954,texas,upton,48,48461,texas_upton_county,True
+2955,utah,utah,49,49049,utah_utah_county,True
+2956,puerto rico,utuado,72,72141,puerto_rico_utuado_county,True
+2957,texas,uvalde,48,48463,texas_uvalde_county,True
+2958,alaska,valdez-cordova,02,02261,alaska_valdez-cordova_county,True
+2959,new mexico,valencia,35,35061,new_mexico_valencia_county,True
+2960,idaho,valley,16,16085,idaho_valley_county,True
+2961,nebraska,valley,31,31175,nebraska_valley_county,True
+2962,montana,valley,30,30105,montana_valley_county,True
+2963,texas,val verde,48,48465,texas_val_verde_county,True
+2964,iowa,van buren,19,19177,iowa_van_buren_county,True
+2965,tennessee,van buren,47,47175,tennessee_van_buren_county,True
+2966,arkansas,van buren,05,05141,arkansas_van_buren_county,True
+2967,michigan,van buren,26,26159,michigan_van_buren_county,True
+2968,north carolina,vance,37,37181,north_carolina_vance_county,True
+2969,indiana,vanderburgh,18,18163,indiana_vanderburgh_county,True
+2970,ohio,van wert,39,39161,ohio_van_wert_county,True
+2971,texas,van zandt,48,48467,texas_van_zandt_county,True
+2972,puerto rico,vega alta,72,72143,puerto_rico_vega_alta_county,True
+2973,puerto rico,vega baja,72,72145,puerto_rico_vega_baja_county,True
+2974,pennsylvania,venango,42,42121,pennsylvania_venango_county,True
+2975,california,ventura,06,06111,california_ventura_county,True
+2976,louisiana,vermilion,22,22113,louisiana_vermilion_county,True
+2977,illinois,vermilion,17,17183,illinois_vermilion_county,True
+2978,indiana,vermillion,18,18165,indiana_vermillion_county,True
+2979,missouri,vernon,29,29217,missouri_vernon_county,True
+2980,wisconsin,vernon,55,55123,wisconsin_vernon_county,True
+2981,louisiana,vernon,22,22115,louisiana_vernon_county,True
+2982,texas,victoria,48,48469,texas_victoria_county,True
+2983,puerto rico,vieques,72,72147,puerto_rico_vieques_county,False
+2984,indiana,vigo,18,18167,indiana_vigo_county,True
+2985,wisconsin,vilas,55,55125,wisconsin_vilas_county,True
+2986,puerto rico,villalba,72,72149,puerto_rico_villalba_county,False
+2987,ohio,vinton,39,39163,ohio_vinton_county,True
+2988,virginia,virginia beach,51,51810,virginia_virginia_beach_county,True
+2989,florida,volusia,12,12127,florida_volusia_county,True
+2990,illinois,wabash,17,17185,illinois_wabash_county,True
+2991,indiana,wabash,18,18169,indiana_wabash_county,True
+2992,minnesota,wabasha,27,27157,minnesota_wabasha_county,True
+2993,kansas,wabaunsee,20,20197,kansas_wabaunsee_county,True
+2994,alaska,wade hampton,02,02270,alaska_wade_hampton_county,True
+2995,minnesota,wadena,27,27159,minnesota_wadena_county,True
+2996,oklahoma,wagoner,40,40145,oklahoma_wagoner_county,True
+2997,washington,wahkiakum,53,53069,washington_wahkiakum_county,True
+2998,north carolina,wake,37,37183,north_carolina_wake_county,True
+2999,florida,wakulla,12,12129,florida_wakulla_county,True
+3000,maine,waldo,23,23027,maine_waldo_county,True
+3001,alabama,walker,01,01127,alabama_walker_county,True
+3002,georgia,walker,13,13295,georgia_walker_county,True
+3003,texas,walker,48,48471,texas_walker_county,True
+3004,kansas,wallace,20,20199,kansas_wallace_county,True
+3005,washington,walla walla,53,53071,washington_walla_walla_county,True
+3006,texas,waller,48,48473,texas_waller_county,True
+3007,oregon,wallowa,41,41063,oregon_wallowa_county,True
+3008,north dakota,walsh,38,38099,north_dakota_walsh_county,True
+3009,mississippi,walthall,28,28147,mississippi_walthall_county,False
+3010,florida,walton,12,12131,florida_walton_county,True
+3011,georgia,walton,13,13297,georgia_walton_county,True
+3012,south dakota,walworth,46,46129,south_dakota_walworth_county,True
+3013,wisconsin,walworth,55,55127,wisconsin_walworth_county,True
+3014,iowa,wapello,19,19179,iowa_wapello_county,True
+3015,north dakota,ward,38,38101,north_dakota_ward_county,True
+3016,texas,ward,48,48475,texas_ward_county,True
+3017,georgia,ware,13,13299,georgia_ware_county,True
+3018,indiana,warren,18,18171,indiana_warren_county,True
+3019,mississippi,warren,28,28149,mississippi_warren_county,True
+3020,illinois,warren,17,17187,illinois_warren_county,True
+3021,north carolina,warren,37,37185,north_carolina_warren_county,True
+3022,virginia,warren,51,51187,virginia_warren_county,True
+3023,georgia,warren,13,13301,georgia_warren_county,True
+3024,missouri,warren,29,29219,missouri_warren_county,True
+3025,iowa,warren,19,19181,iowa_warren_county,True
+3026,new jersey,warren,34,34041,new_jersey_warren_county,True
+3027,new york,warren,36,36113,new_york_warren_county,True
+3028,ohio,warren,39,39165,ohio_warren_county,True
+3029,kentucky,warren,21,21227,kentucky_warren_county,True
+3030,tennessee,warren,47,47177,tennessee_warren_county,True
+3031,pennsylvania,warren,42,42123,pennsylvania_warren_county,True
+3032,indiana,warrick,18,18173,indiana_warrick_county,True
+3033,utah,wasatch,49,49051,utah_wasatch_county,True
+3034,oregon,wasco,41,41065,oregon_wasco_county,True
+3035,minnesota,waseca,27,27161,minnesota_waseca_county,True
+3036,wyoming,washakie,56,56043,wyoming_washakie_county,True
+3037,wisconsin,washburn,55,55129,wisconsin_washburn_county,True
+3038,ohio,washington,39,39167,ohio_washington_county,True
+3039,mississippi,washington,28,28151,mississippi_washington_county,True
+3040,louisiana,washington,22,22117,louisiana_washington_county,True
+3041,texas,washington,48,48477,texas_washington_county,True
+3042,idaho,washington,16,16087,idaho_washington_county,True
+3043,illinois,washington,17,17189,illinois_washington_county,True
+3044,maine,washington,23,23029,maine_washington_county,True
+3045,north carolina,washington,37,37187,north_carolina_washington_county,True
+3046,utah,washington,49,49053,utah_washington_county,True
+3047,virginia,washington,51,51191,virginia_washington_county,True
+3048,tennessee,washington,47,47179,tennessee_washington_county,True
+3049,colorado,washington,08,08121,colorado_washington_county,True
+3050,oklahoma,washington,40,40147,oklahoma_washington_county,True
+3051,iowa,washington,19,19183,iowa_washington_county,True
+3052,vermont,washington,50,50023,vermont_washington_county,True
+3053,indiana,washington,18,18175,indiana_washington_county,True
+3054,georgia,washington,13,13303,georgia_washington_county,True
+3055,alabama,washington,01,01129,alabama_washington_county,True
+3056,florida,washington,12,12133,florida_washington_county,True
+3057,new york,washington,36,36115,new_york_washington_county,True
+3058,kansas,washington,20,20201,kansas_washington_county,True
+3059,rhode island,washington,44,44009,rhode_island_washington_county,True
+3060,wisconsin,washington,55,55131,wisconsin_washington_county,True
+3061,oregon,washington,41,41067,oregon_washington_county,True
+3062,nebraska,washington,31,31177,nebraska_washington_county,True
+3063,minnesota,washington,27,27163,minnesota_washington_county,True
+3064,kentucky,washington,21,21229,kentucky_washington_county,True
+3065,pennsylvania,washington,42,42125,pennsylvania_washington_county,True
+3066,maryland,washington,24,24043,maryland_washington_county,True
+3067,arkansas,washington,05,05143,arkansas_washington_county,True
+3068,missouri,washington,29,29221,missouri_washington_county,True
+3069,oklahoma,washita,40,40149,oklahoma_washita_county,True
+3070,nevada,washoe,32,32031,nevada_washoe_county,True
+3071,michigan,washtenaw,26,26161,michigan_washtenaw_county,True
+3072,north carolina,watauga,37,37189,north_carolina_watauga_county,True
+3073,minnesota,watonwan,27,27165,minnesota_watonwan_county,True
+3074,wisconsin,waukesha,55,55133,wisconsin_waukesha_county,True
+3075,wisconsin,waupaca,55,55135,wisconsin_waupaca_county,True
+3076,wisconsin,waushara,55,55137,wisconsin_waushara_county,True
+3077,tennessee,wayne,47,47181,tennessee_wayne_county,True
+3078,west virginia,wayne,54,54099,west_virginia_wayne_county,True
+3079,indiana,wayne,18,18177,indiana_wayne_county,True
+3080,iowa,wayne,19,19185,iowa_wayne_county,True
+3081,michigan,wayne,26,26163,michigan_wayne_county,True
+3082,missouri,wayne,29,29223,missouri_wayne_county,False
+3083,utah,wayne,49,49055,utah_wayne_county,True
+3084,ohio,wayne,39,39169,ohio_wayne_county,True
+3085,pennsylvania,wayne,42,42127,pennsylvania_wayne_county,True
+3086,new york,wayne,36,36117,new_york_wayne_county,True
+3087,mississippi,wayne,28,28153,mississippi_wayne_county,True
+3088,nebraska,wayne,31,31179,nebraska_wayne_county,True
+3089,georgia,wayne,13,13305,georgia_wayne_county,True
+3090,kentucky,wayne,21,21231,kentucky_wayne_county,True
+3091,north carolina,wayne,37,37191,north_carolina_wayne_county,True
+3092,illinois,wayne,17,17191,illinois_wayne_county,True
+3093,virginia,waynesboro,51,51820,virginia_waynesboro_county,True
+3094,tennessee,weakley,47,47183,tennessee_weakley_county,True
+3095,texas,webb,48,48479,texas_webb_county,True
+3096,utah,weber,49,49057,utah_weber_county,True
+3097,kentucky,webster,21,21233,kentucky_webster_county,True
+3098,mississippi,webster,28,28155,mississippi_webster_county,True
+3099,georgia,webster,13,13307,georgia_webster_county,True
+3100,west virginia,webster,54,54101,west_virginia_webster_county,True
+3101,louisiana,webster,22,22119,louisiana_webster_county,True
+3102,iowa,webster,19,19187,iowa_webster_county,True
+3103,nebraska,webster,31,31181,nebraska_webster_county,True
+3104,missouri,webster,29,29225,missouri_webster_county,True
+3105,colorado,weld,08,08123,colorado_weld_county,True
+3106,north dakota,wells,38,38103,north_dakota_wells_county,True
+3107,indiana,wells,18,18179,indiana_wells_county,True
+3108,louisiana,west baton rouge,22,22121,louisiana_west_baton_rouge_county,True
+3109,louisiana,west carroll,22,22123,louisiana_west_carroll_county,False
+3110,new york,westchester,36,36119,new_york_westchester_county,True
+3111,american samoa,western,60,60050,american_samoa_western_county,True
+3112,louisiana,west feliciana,22,22125,louisiana_west_feliciana_county,True
+3113,pennsylvania,westmoreland,42,42129,pennsylvania_westmoreland_county,True
+3114,virginia,westmoreland,51,51193,virginia_westmoreland_county,True
+3115,wyoming,weston,56,56045,wyoming_weston_county,True
+3116,west virginia,wetzel,54,54103,west_virginia_wetzel_county,True
+3117,michigan,wexford,26,26165,michigan_wexford_county,True
+3118,texas,wharton,48,48481,texas_wharton_county,True
+3119,washington,whatcom,53,53073,washington_whatcom_county,True
+3120,montana,wheatland,30,30107,montana_wheatland_county,True
+3121,texas,wheeler,48,48483,texas_wheeler_county,True
+3122,georgia,wheeler,13,13309,georgia_wheeler_county,True
+3123,oregon,wheeler,41,41069,oregon_wheeler_county,True
+3124,nebraska,wheeler,31,31183,nebraska_wheeler_county,True
+3125,tennessee,white,47,47185,tennessee_white_county,True
+3126,illinois,white,17,17193,illinois_white_county,True
+3127,indiana,white,18,18181,indiana_white_county,True
+3128,arkansas,white,05,05145,arkansas_white_county,True
+3129,georgia,white,13,13311,georgia_white_county,True
+3130,nevada,white pine,32,32033,nevada_white_pine_county,True
+3131,illinois,whiteside,17,17195,illinois_whiteside_county,True
+3132,georgia,whitfield,13,13313,georgia_whitfield_county,True
+3133,kentucky,whitley,21,21235,kentucky_whitley_county,True
+3134,indiana,whitley,18,18183,indiana_whitley_county,True
+3135,washington,whitman,53,53075,washington_whitman_county,True
+3136,montana,wibaux,30,30109,montana_wibaux_county,True
+3137,texas,wichita,48,48485,texas_wichita_county,True
+3138,kansas,wichita,20,20203,kansas_wichita_county,True
+3139,maryland,wicomico,24,24045,maryland_wicomico_county,True
+3140,texas,wilbarger,48,48487,texas_wilbarger_county,True
+3141,alabama,wilcox,01,01131,alabama_wilcox_county,True
+3142,georgia,wilcox,13,13315,georgia_wilcox_county,True
+3143,north carolina,wilkes,37,37193,north_carolina_wilkes_county,True
+3144,georgia,wilkes,13,13317,georgia_wilkes_county,True
+3145,minnesota,wilkin,27,27167,minnesota_wilkin_county,True
+3146,mississippi,wilkinson,28,28157,mississippi_wilkinson_county,True
+3147,georgia,wilkinson,13,13319,georgia_wilkinson_county,True
+3148,illinois,will,17,17197,illinois_will_county,True
+3149,texas,willacy,48,48489,texas_willacy_county,True
+3150,north dakota,williams,38,38105,north_dakota_williams_county,True
+3151,ohio,williams,39,39171,ohio_williams_county,True
+3152,south carolina,williamsburg,45,45089,south_carolina_williamsburg_county,True
+3153,virginia,williamsburg,51,51830,virginia_williamsburg_county,True
+3154,tennessee,williamson,47,47187,tennessee_williamson_county,True
+3155,texas,williamson,48,48491,texas_williamson_county,True
+3156,illinois,williamson,17,17199,illinois_williamson_county,True
+3157,kansas,wilson,20,20205,kansas_wilson_county,True
+3158,texas,wilson,48,48493,texas_wilson_county,True
+3159,north carolina,wilson,37,37195,north_carolina_wilson_county,True
+3160,tennessee,wilson,47,47189,tennessee_wilson_county,True
+3161,virginia,winchester,51,51840,virginia_winchester_county,True
+3162,connecticut,windham,09,09015,connecticut_windham_county,True
+3163,vermont,windham,50,50025,vermont_windham_county,True
+3164,vermont,windsor,50,50027,vermont_windsor_county,True
+3165,texas,winkler,48,48495,texas_winkler_county,True
+3166,louisiana,winn,22,22127,louisiana_winn_county,False
+3167,wisconsin,winnebago,55,55139,wisconsin_winnebago_county,True
+3168,iowa,winnebago,19,19189,iowa_winnebago_county,True
+3169,illinois,winnebago,17,17201,illinois_winnebago_county,True
+3170,iowa,winneshiek,19,19191,iowa_winneshiek_county,True
+3171,minnesota,winona,27,27169,minnesota_winona_county,True
+3172,alabama,winston,01,01133,alabama_winston_county,True
+3173,mississippi,winston,28,28159,mississippi_winston_county,True
+3174,west virginia,wirt,54,54105,west_virginia_wirt_county,True
+3175,texas,wise,48,48497,texas_wise_county,True
+3176,virginia,wise,51,51195,virginia_wise_county,True
+3177,kentucky,wolfe,21,21237,kentucky_wolfe_county,True
+3178,ohio,wood,39,39173,ohio_wood_county,True
+3179,west virginia,wood,54,54107,west_virginia_wood_county,True
+3180,texas,wood,48,48499,texas_wood_county,True
+3181,wisconsin,wood,55,55141,wisconsin_wood_county,True
+3182,iowa,woodbury,19,19193,iowa_woodbury_county,True
+3183,illinois,woodford,17,17203,illinois_woodford_county,True
+3184,kentucky,woodford,21,21239,kentucky_woodford_county,True
+3185,arkansas,woodruff,05,05147,arkansas_woodruff_county,True
+3186,oklahoma,woods,40,40151,oklahoma_woods_county,True
+3187,kansas,woodson,20,20207,kansas_woodson_county,True
+3188,oklahoma,woodward,40,40153,oklahoma_woodward_county,True
+3189,massachusetts,worcester,25,25027,massachusetts_worcester_county,True
+3190,maryland,worcester,24,24047,maryland_worcester_county,True
+3191,missouri,worth,29,29227,missouri_worth_county,True
+3192,georgia,worth,13,13321,georgia_worth_county,True
+3193,iowa,worth,19,19195,iowa_worth_county,True
+3194,alaska,wrangell,02,02275,alaska_wrangell_county,True
+3195,iowa,wright,19,19197,iowa_wright_county,True
+3196,missouri,wright,29,29229,missouri_wright_county,True
+3197,minnesota,wright,27,27171,minnesota_wright_county,True
+3198,ohio,wyandot,39,39175,ohio_wyandot_county,True
+3199,kansas,wyandotte,20,20209,kansas_wyandotte_county,True
+3200,pennsylvania,wyoming,42,42131,pennsylvania_wyoming_county,True
+3201,new york,wyoming,36,36121,new_york_wyoming_county,True
+3202,west virginia,wyoming,54,54109,west_virginia_wyoming_county,True
+3203,virginia,wythe,51,51197,virginia_wythe_county,True
+3204,puerto rico,yabucoa,72,72151,puerto_rico_yabucoa_county,False
+3205,north carolina,yadkin,37,37197,north_carolina_yadkin_county,True
+3206,washington,yakima,53,53077,washington_yakima_county,True
+3207,alaska,yakutat,02,02282,alaska_yakutat_county,False
+3208,mississippi,yalobusha,28,28161,mississippi_yalobusha_county,True
+3209,oregon,yamhill,41,41071,oregon_yamhill_county,True
+3210,north carolina,yancey,37,37199,north_carolina_yancey_county,True
+3211,south dakota,yankton,46,46135,south_dakota_yankton_county,True
+3212,new york,yates,36,36123,new_york_yates_county,True
+3213,puerto rico,yauco,72,72153,puerto_rico_yauco_county,False
+3214,arizona,yavapai,04,04025,arizona_yavapai_county,True
+3215,mississippi,yazoo,28,28163,mississippi_yazoo_county,True
+3216,arkansas,yell,05,05149,arkansas_yell_county,True
+3217,minnesota,yellow medicine,27,27173,minnesota_yellow_medicine_county,True
+3218,montana,yellowstone,30,30111,montana_yellowstone_county,True
+3219,texas,yoakum,48,48501,texas_yoakum_county,True
+3220,california,yolo,06,06113,california_yolo_county,True
+3221,pennsylvania,york,42,42133,pennsylvania_york_county,True
+3222,virginia,york,51,51199,virginia_york_county,True
+3223,nebraska,york,31,31185,nebraska_york_county,True
+3224,maine,york,23,23031,maine_york_county,True
+3225,south carolina,york,45,45091,south_carolina_york_county,True
+3226,texas,young,48,48503,texas_young_county,True
+3227,california,yuba,06,06115,california_yuba_county,True
+3228,alaska,yukon-koyukuk,02,02290,alaska_yukon-koyukuk_county,False
+3229,arizona,yuma,04,04027,arizona_yuma_county,True
+3230,colorado,yuma,08,08125,colorado_yuma_county,True
+3231,texas,zapata,48,48505,texas_zapata_county,True
+3232,texas,zavala,48,48507,texas_zavala_county,True
+3233,south dakota,ziebach,46,46137,south_dakota_ziebach_county,True
