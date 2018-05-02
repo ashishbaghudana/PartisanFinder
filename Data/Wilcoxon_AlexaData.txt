@@ -1,0 +1,79 @@
+> wilcox.test(LeftAlexa, LeftCenterAlexa)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  LeftAlexa and LeftCenterAlexa
+W = 4795, p-value = 0.003477
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(LeftAlexa, CenterAlexa)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  LeftAlexa and CenterAlexa
+W = 3560, p-value = 0.8602
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(LeftAlexa, RightCenterAlexa)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  LeftAlexa and RightCenterAlexa
+W = 1829, p-value = 0.001083
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(LeftAlexa, RightAlexa)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  LeftAlexa and RightAlexa
+W = 1929, p-value = 0.4786
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(LeftCenterAlexa, CenterAlexa)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  LeftCenterAlexa and CenterAlexa
+W = 10197, p-value = 0.001425
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(LeftCenterAlexa, RightCenterAlexa)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  LeftCenterAlexa and RightCenterAlexa
+W = 5827, p-value = 0.3746
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(LeftCenterAlexa, RightAlexa)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  LeftCenterAlexa and RightAlexa
+W = 5822, p-value = 0.03391
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(CenterAlexa, RightCenterAlexa)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  CenterAlexa and RightCenterAlexa
+W = 2423, p-value = 0.0006053
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(CenterAlexa, RightAlexa)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  CenterAlexa and RightAlexa
+W = 2494, p-value = 0.3621
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(RightCenterAlexa, RightAlexa)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  RightCenterAlexa and RightAlexa
+W = 2650, p-value = 0.007591
+alternative hypothesis: true location shift is not equal to 0
