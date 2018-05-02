@@ -1,0 +1,75 @@
+data:  Left and LeftCenter
+W = 36949, p-value = 6.025e-08
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(Left, Center)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Left and Center
+W = 34890, p-value = 0.1733
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(Left, RightCenter)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Left and RightCenter
+W = 15933, p-value = 2.267e-08
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(Left, Right)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Left and Right
+W = 22890, p-value = 0.003903
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(LeftCenter, Center)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  LeftCenter and Center
+W = 65753, p-value = 4.299e-05
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(LeftCenter, RightCenter)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  LeftCenter and RightCenter
+W = 32235, p-value = 0.2145
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(LeftCenter, Right)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  LeftCenter and Right
+W = 44226, p-value = 0.04444
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(Center, RightCenter)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Center and RightCenter
+W = 19694, p-value = 7.639e-06
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(Center, Right)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  Center and Right
+W = 27639, p-value = 0.07797
+alternative hypothesis: true location shift is not equal to 0
+
+> wilcox.test(RightCenter, Right)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  RightCenter and Right
+W = 22076, p-value = 0.004219
+alternative hypothesis: true location shift is not equal to 0
